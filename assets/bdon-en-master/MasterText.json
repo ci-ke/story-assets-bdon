@@ -8729,6 +8729,14 @@
       "_korean": "26년 생일: 마하시 미쿠 (10/4)"
     },
     {
+      "_id": "Chapter_Title_1200",
+      "_japanese": "26年誕生日：和泉 朋花(10/24)",
+      "_english": "2026 Birthday: Houka Izumi (10/24)",
+      "_traditionalChinese": "26年生日：和泉朋花（10/24）",
+      "_simplifiedChinese": "26年生日：和泉朋花(10/24)",
+      "_korean": "26년 생일: 이즈미 호우카 (10/24)"
+    },
+    {
       "_id": "Arena_Season_Name_0001",
       "_japanese": "Season1",
       "_english": "Season 1",
@@ -8755,58 +8763,58 @@
     {
       "_id": "Arena_Season_Name_0004",
       "_japanese": "Season4",
-      "_english": "Season 4",
-      "_traditionalChinese": "Season4",
-      "_simplifiedChinese": "Season4",
-      "_korean": "Season 4"
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Arena_Season_Name_0005",
       "_japanese": "Season5",
-      "_english": "Season 5",
-      "_traditionalChinese": "Season5",
-      "_simplifiedChinese": "Season5",
-      "_korean": "Season 5"
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Arena_Season_Name_0006",
       "_japanese": "Season6",
-      "_english": "Season 6",
-      "_traditionalChinese": "Season6",
-      "_simplifiedChinese": "Season6",
-      "_korean": "Season 6"
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Arena_Season_Name_0007",
       "_japanese": "Season7",
-      "_english": "Season 7",
-      "_traditionalChinese": "Season7",
-      "_simplifiedChinese": "Season7",
-      "_korean": "Season 7"
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Arena_Season_Name_0008",
       "_japanese": "Season8",
-      "_english": "Season 8",
-      "_traditionalChinese": "Season8",
-      "_simplifiedChinese": "Season8",
-      "_korean": "Season 8"
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Arena_Season_Name_0009",
       "_japanese": "Season9",
-      "_english": "Season 9",
-      "_traditionalChinese": "Season9",
-      "_simplifiedChinese": "Season9",
-      "_korean": "Season 9"
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Arena_Season_Name_0010",
       "_japanese": "Season10",
-      "_english": "Season 10",
-      "_traditionalChinese": "Season10",
-      "_simplifiedChinese": "Season10",
-      "_korean": "Season 10"
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Arena_League_Name_001",
@@ -9689,6 +9697,14 @@
       "_korean": "sabio"
     },
     {
+      "_id": "Arranger_Name_100102",
+      "_japanese": "堀江晶太",
+      "_english": "Shota Horie",
+      "_traditionalChinese": "堀江晶太",
+      "_simplifiedChinese": "堀江晶太",
+      "_korean": "호리에 쇼타"
+    },
+    {
       "_id": "Arranger_Name_100104",
       "_japanese": "牧野太洋",
       "_english": "牧野太洋",
@@ -10139,6 +10155,14 @@
     {
       "_id": "AutoPostPresent_46",
       "_japanese": "メンテナンス及びアップデートご協力のお礼です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_47",
+      "_japanese": "10/18(日)に発生したアクセス障害のお詫びです。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -21283,7 +21307,7 @@
     {
       "_id": "circle_information_dialog_list_item_auth_3",
       "_japanese": "メンバー",
-      "_english": "Members",
+      "_english": "Member",
       "_traditionalChinese": "成員",
       "_simplifiedChinese": "成员",
       "_korean": "멤버"
@@ -21307,7 +21331,7 @@
     {
       "_id": "circle_member_management_dialog_label_1",
       "_japanese": "メンバー",
-      "_english": "Members",
+      "_english": "Member",
       "_traditionalChinese": "成員",
       "_simplifiedChinese": "成员",
       "_korean": "멤버"
@@ -23055,6 +23079,14 @@
       "_traditionalChinese": "sabio",
       "_simplifiedChinese": "sabio",
       "_korean": "sabio"
+    },
+    {
+      "_id": "Composer_Name_100102",
+      "_japanese": "こゆびちゃん、杉原亮",
+      "_english": "こゆびちゃん、杉原亮",
+      "_traditionalChinese": "こゆびちゃん、杉原亮",
+      "_simplifiedChinese": "こゆびちゃん、杉原亮",
+      "_korean": "こゆびちゃん, 杉原亮"
     },
     {
       "_id": "Composer_Name_100104",
@@ -25521,6 +25553,30 @@
       "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 교환소에서 획득"
     },
     {
+      "_id": "Degree_Description_262",
+      "_japanese": "朋花バースデーピック交換所で獲得",
+      "_english": "Obtained at the Houka Birthday Pick Exchange Shop.",
+      "_traditionalChinese": "透過朋花生日撥片兌換所獲得",
+      "_simplifiedChinese": "在朋花生日拨片交换所获得",
+      "_korean": "호우카 생일 기념 피크 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_263",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」開催記念 特別ログインボーナスで獲得",
+      "_english": "Obtained via Ave Mujica 7th LIVE \"Virtus\" Celebration Special Login Bonus.",
+      "_traditionalChinese": "透過Ave Mujica 7th LIVE「Virtus」舉辦紀念 特別登入獎勵獲得",
+      "_simplifiedChinese": "通过Ave Mujica 7th LIVE「Virtus」举办纪念 特别登录奖励获得",
+      "_korean": "Ave Mujica 7th LIVE 「Virtus」 개최 기념 특별 로그인 보상에서 획득"
+    },
+    {
+      "_id": "Degree_Description_264",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」特典シリアルコードで獲得",
+      "_english": "Obtained with the Ave Mujica 7th LIVE \"Virtus\" bonus serial code.",
+      "_traditionalChinese": "透過Ave Mujica 7th LIVE「Virtus」特典序號獲得",
+      "_simplifiedChinese": "使用Ave Mujica 7th LIVE「Virtus」观看特典兑换码获得",
+      "_korean": "Ave Mujica 7th LIVE 「Virtus」 혜택 교환 코드로 획득"
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
@@ -26755,7 +26811,7 @@
     {
       "_id": "Degree_Description_10000005",
       "_japanese": "「潜在表明」を100回クリアで獲得",
-      "_english": "Obtained by clearing \"潜在表明\" 100 times.",
+      "_english": "Obtained by clearing \"Senzai Hyoumei\" 100 times.",
       "_traditionalChinese": "通關「潛在表明」100次即獲得",
       "_simplifiedChinese": "完成「潜在表明」100次时获得",
       "_korean": "「잠재표명」 100회 클리어 시 획득"
@@ -26763,7 +26819,7 @@
     {
       "_id": "Degree_Description_10000006",
       "_japanese": "「音一会」を100回クリアで獲得",
-      "_english": "Obtained by clearing \"音一会\" 100 times.",
+      "_english": "Obtained by clearing \"Otoichie\" 100 times.",
       "_traditionalChinese": "通關「音一會」100次即獲得",
       "_simplifiedChinese": "完成「音一会」100次时获得",
       "_korean": "「음일회」 100회 클리어 시 획득"
@@ -27353,6 +27409,14 @@
       "_korean": "「사랑은 충동」 100회 클리어 시 획득"
     },
     {
+      "_id": "Degree_Description_10000100",
+      "_japanese": "「新人類は仮想世界の夢を見るか？」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"Do Newtypes have virtual dreams?\" 100 times.",
+      "_traditionalChinese": "通關「新人類は仮想世界の夢を見るか」100次即獲得",
+      "_simplifiedChinese": "完成「新人类会梦见虚拟世界嘛？」100次时获得",
+      "_korean": "「뉴타입은 버츄얼의 꿈을 꾸는가?」 100회 클리어 시 획득"
+    },
+    {
       "_id": "Degree_Description_10000102",
       "_japanese": "「微笑みの爆弾」を100回クリアで獲得",
       "_english": "Obtained by clearing \"Hohoemi no Bakudan\" 100 times.",
@@ -27475,7 +27539,7 @@
     {
       "_id": "Degree_Name_10000005",
       "_japanese": "[ステッカー]潜在表明ジャケット",
-      "_english": "[Sticker] 潜在表明 Jacket",
+      "_english": "[Sticker] Senzai Hyoumei Jacket",
       "_traditionalChinese": "[貼紙]潛在表明封面",
       "_simplifiedChinese": "[贴纸]潜在表明封面",
       "_korean": "[스티커] 잠재표명 재킷"
@@ -27483,7 +27547,7 @@
     {
       "_id": "Degree_Name_10000006",
       "_japanese": "[ステッカー]音一会ジャケット",
-      "_english": "[Sticker] 音一会 Jacket",
+      "_english": "[Sticker] Otoichie Jacket",
       "_traditionalChinese": "[貼紙]音一會封面",
       "_simplifiedChinese": "[贴纸]音一会封面",
       "_korean": "[스티커] 음일회 재킷"
@@ -28071,6 +28135,14 @@
       "_traditionalChinese": "[貼紙]愛是衝動封面",
       "_simplifiedChinese": "[贴纸]爱是冲动封面",
       "_korean": "[스티커] 사랑은 충동 재킷"
+    },
+    {
+      "_id": "Degree_Name_10000100",
+      "_japanese": "[ステッカー]新人類は仮想世界の夢を見るか？ジャケット",
+      "_english": "[Sticker] Do Newtypes have virtual dreams? Jacket",
+      "_traditionalChinese": "[貼紙]新人類は仮想世界の夢を見るか封面",
+      "_simplifiedChinese": "[贴纸]新人类会梦见虚拟世界嘛？封面",
+      "_korean": "[스티커] 뉴타입은 버츄얼의 꿈을 꾸는가? 재킷"
     },
     {
       "_id": "Degree_Name_10000102",
@@ -29694,7 +29766,7 @@
       "_english": "[Sticker] prima aurora",
       "_traditionalChinese": "[貼紙]prima aurora",
       "_simplifiedChinese": "[贴纸]prima aurora",
-      "_korean": "[스티커]prima aurora"
+      "_korean": "[스티커] prima aurora"
     },
     {
       "_id": "Degree_Name_256",
@@ -29706,43 +29778,67 @@
     },
     {
       "_id": "Degree_Name_257",
-      "_japanese": "[ステッカー]三角 初華 映画私服ver.",
-      "_english": "[Sticker] Uika Misumi - Movie Casual Outfit ver.",
-      "_traditionalChinese": "[貼紙]三角初華 劇場版便服ver.",
-      "_simplifiedChinese": "[贴纸]三角初华 剧场版日常服装ver.",
-      "_korean": "[스티커]미스미 우이카 영화 사복ver."
+      "_japanese": "[ステッカー]三角 初華 映画「prima aurora」私服ver.",
+      "_english": "[Sticker] Uika Misumi - Movie \"prima aurora\" Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]三角初華 電影「prima aurora」便服ver.",
+      "_simplifiedChinese": "[贴纸]三角初华 剧场版「prima aurora」日常服装ver.",
+      "_korean": "[스티커] 미스미 우이카 영화 「prima aurora」 사복 ver."
     },
     {
       "_id": "Degree_Name_258",
-      "_japanese": "[ステッカー]若葉 睦 映画私服ver.",
-      "_english": "[Sticker] Mutsumi Wakaba - Movie Casual Outfit ver.",
-      "_traditionalChinese": "[貼紙]若葉睦 劇場版便服ver.",
-      "_simplifiedChinese": "[贴纸]若叶睦 剧场版日常服装ver.",
-      "_korean": "[스티커]와카바 무츠미 영화 사복ver."
+      "_japanese": "[ステッカー]若葉 睦  映画「prima aurora」私服ver.",
+      "_english": "[Sticker] Mutsumi Wakaba - Movie \"prima aurora\" Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]若葉睦 電影「prima aurora」便服ver.",
+      "_simplifiedChinese": "[贴纸]若叶睦 剧场版「prima aurora」日常服装ver.",
+      "_korean": "[스티커] 와카바 무츠미 영화 「prima aurora」 사복 ver."
     },
     {
       "_id": "Degree_Name_259",
-      "_japanese": "[ステッカー]八幡 海鈴 映画私服ver.",
-      "_english": "[Sticker] Umiri Yahata - Movie Casual Outfit ver.",
-      "_traditionalChinese": "[貼紙]八幡海鈴 劇場版便服ver.",
-      "_simplifiedChinese": "[贴纸]八幡海铃 剧场版日常服装ver.",
-      "_korean": "[스티커]야하타 우미리 영화 사복ver."
+      "_japanese": "[ステッカー]八幡 海鈴  映画「prima aurora」私服ver.",
+      "_english": "[Sticker] Umiri Yahata - Movie \"prima aurora\" Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]八幡海鈴 電影「prima aurora」便服ver.",
+      "_simplifiedChinese": "[贴纸]八幡海铃 剧场版「prima aurora」日常服装ver.",
+      "_korean": "[스티커] 야하타 우미리 영화 「prima aurora」 사복 ver."
     },
     {
       "_id": "Degree_Name_260",
-      "_japanese": "[ステッカー]祐天寺 にゃむ 映画私服ver.",
-      "_english": "[Sticker] Nyamu Yūtenji - Movie Casual Outfit ver.",
-      "_traditionalChinese": "[貼紙]祐天寺若麥 劇場版便服ver.",
-      "_simplifiedChinese": "[贴纸]祐天寺若麦 剧场版日常服装ver.",
-      "_korean": "[스티커]유텐지 냐무 영화 사복ver."
+      "_japanese": "[ステッカー]祐天寺 にゃむ  映画「prima aurora」私服ver.",
+      "_english": "[Sticker] Nyamu Yūtenji - Movie \"prima aurora\" Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]祐天寺若麥 電影「prima aurora」便服ver.",
+      "_simplifiedChinese": "[贴纸]祐天寺若麦 剧场版「prima aurora」日常服装ver.",
+      "_korean": "[스티커] 유텐지 냐무 영화 「prima aurora」 사복 ver."
     },
     {
       "_id": "Degree_Name_261",
-      "_japanese": "[ステッカー]豊川 祥子 映画私服ver.",
-      "_english": "[Sticker] Sakiko Togawa - Movie Casual Outfit ver.",
-      "_traditionalChinese": "[貼紙]豐川祥子 劇場版便服ver.",
-      "_simplifiedChinese": "[贴纸]丰川祥子 剧场版日常服装ver.",
-      "_korean": "[스티커]토가와 사키코 영화 사복ver."
+      "_japanese": "[ステッカー]豊川 祥子  映画「prima aurora」私服ver.",
+      "_english": "[Sticker] Sakiko Togawa - Movie \"prima aurora\" Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]豐川祥子 電影「prima aurora」便服ver.",
+      "_simplifiedChinese": "[贴纸]丰川祥子 剧场版「prima aurora」日常服装ver.",
+      "_korean": "[스티커] 토가와 사키코 영화 「prima aurora」 사복 ver."
+    },
+    {
+      "_id": "Degree_Name_262",
+      "_japanese": "[ステッカー]和泉朋花 Happy Birthday 26-27",
+      "_english": "[Sticker] Houka Izumi - Happy Birthday 26-27",
+      "_traditionalChinese": "[貼紙]和泉朋花 Happy Birthday 26-27",
+      "_simplifiedChinese": "[贴纸]和泉朋花 Happy Birthday 26-27",
+      "_korean": "[스티커] 이즈미 호우카 Happy Birthday 26-27"
+    },
+    {
+      "_id": "Degree_Name_263",
+      "_japanese": "[ステッカー]Virtus",
+      "_english": "[Sticker] Virtus",
+      "_traditionalChinese": "[貼紙]Virtus",
+      "_simplifiedChinese": "[贴纸]Virtus",
+      "_korean": "[스티커] Virtus"
+    },
+    {
+      "_id": "Degree_Name_264",
+      "_japanese": "[ステッカー]Virtus(限定)",
+      "_english": "[Sticker] Virtus (Limited)",
+      "_traditionalChinese": "[貼紙]Virtus（限定）",
+      "_simplifiedChinese": "[贴纸]Virtus（限定）",
+      "_korean": "[스티커] Virtus(한정)"
     },
     {
       "_id": "Item_Source_Name_1",
@@ -30037,8 +30133,8 @@
       "_japanese": "馬橋心玖 Happy Birthday 26-27 ガチャ交換所",
       "_english": "Miku Mahashi Happy Birthday 26-27 GACHA Exchange Shop",
       "_traditionalChinese": "馬橋心玖 Happy Birthday 26-27轉蛋兌換所",
-      "_simplifiedChinese": "马桥心玖 生日快乐 26-27 交换所",
-      "_korean": "마하시 미쿠 생일 축하해 26-27 뽑기 교환소"
+      "_simplifiedChinese": "马桥心玖 Happy Birthday 26-27 招募交换所",
+      "_korean": "마하시 미쿠 Happy Birthday 26-27 뽑기 교환소"
     },
     {
       "_id": "Exchange_Name_19",
@@ -30095,6 +30191,22 @@
       "_traditionalChinese": "奏響序章的光彩讚歌轉蛋兌換所",
       "_simplifiedChinese": "奏响序章的光彩赞歌 招募交换所",
       "_korean": "서막을 울리는 빛의 찬가 뽑기 교환소"
+    },
+    {
+      "_id": "Exchange_Name_26",
+      "_japanese": "朋花バースデーピック交換所",
+      "_english": "Houka Birthday Pick Exchange Shop",
+      "_traditionalChinese": "朋花生日撥片兌換所",
+      "_simplifiedChinese": "朋花生日拨片交换所",
+      "_korean": "호우카 생일 기념 피크 교환소"
+    },
+    {
+      "_id": "Exchange_Name_28",
+      "_japanese": "和泉朋花 Happy Birthday 26-27 ガチャ交換所",
+      "_english": "Houka Izumi Happy Birthday 26-27 Gacha Exchange Shop",
+      "_traditionalChinese": "和泉朋花 Happy Birthday 26-27轉蛋兌換所",
+      "_simplifiedChinese": "和泉朋花 Happy Birthday 26-27 招募交换所",
+      "_korean": "이즈미 호우카 Happy Birthday 26-27 뽑기 교환소"
     },
     {
       "_id": "exchange_title",
@@ -31342,7 +31454,7 @@
       "_english": "Gacha with R or Higher Members or Snapshots\n\nEach time you use this Gacha, you will receive a bonus item called \"Birthday Pick.\"\n(pull 1 time: 5 pcs / pull 10 times: 50 pcs)\n*The \"Birthday Picks\" obtained from this Gacha can be used at the \"Birthday Pick Exchange\" in the Event Exchange Shop.\n*The item available for exchange vary depending on which Exchange Shop is currently open. Please check the \"Exchange Shop\" for details.",
       "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋\n\n每次抽取此轉蛋，都可額外獲得道具「生日撥片」。\n（抽1次：5個／抽10次：50個）\n※透過本轉蛋獲得的「生日撥片」可於活動兌換所的「生日撥片兌換所」中使用。\n※兌換內容會依據舉辦的兌換所而有所不同，請至「兌換所」確認內容。",
       "_simplifiedChinese": "可获得R以上成员或是留影的招募\n\n每次进行招募，都可额外获得道具「生日拨片」。\n（抽1次：5个／抽10次：50个）\n※通过本招募获得的「生日拨片」可于活动交换所的「生日拨片交换所」中使用。\n※交换内容会依据举办的交换所而有所不同，请至「交换所」确认内容。",
-      "_korean": "R 이상의 멤버 또는 스냅을 획득할 수 있는 뽑기\n\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\n(1회 뽑기: 5개／10회 뽑기: 50개)\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기\n\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\n(1회 뽑기: 5개／10회 뽑기: 50개)\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
     },
     {
       "_id": "Gacha_Description_12",
@@ -31367,6 +31479,14 @@
       "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
       "_simplifiedChinese": "可获得R及以上成员或留影的招募",
       "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
+      "_id": "Gacha_Description_15",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ\n\n本ガチャをご利用いただくごとに、おまけアイテム「バースデーピック」を獲得することができます。\n（1回引く：5個／10回引く：50個）\n※本ガチャで獲得できる「バースデーピック」は、イベント交換所の「バースデーピック交換所」でご利用いただけます。\n※交換内容は、開催されている交換所によって異なります。内容は「交換所」をご確認ください。",
+      "_english": "Gacha with R or Higher Members or Snapshots\n\nEach time you use this Gacha, you will receive a bonus item called \"Birthday Pick.\"\n(pull 1 time: 5 pcs / pull 10 times: 50 pcs)\n*The \"Birthday Picks\" obtained from this Gacha can be used at the \"Birthday Pick Exchange\" in the Event Exchange Shop.\n*The item available for exchange vary depending on which Exchange Shop is currently open. Please check the \"Exchange Shop\" for details.",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋\n\n每次抽取此轉蛋，都可額外獲得道具「生日撥片」。\n（抽1次：5個／抽10次：50個）\n※透過本轉蛋獲得的「生日撥片」可於活動兌換所的「生日撥片兌換所」中使用。\n※兌換內容會依據舉辦的兌換所而有所不同，請至「兌換所」確認內容。",
+      "_simplifiedChinese": "可获得R以上成员或是留影的招募\n\n每次进行招募，都可额外获得道具「生日拨片」。\n（抽1次：5个／抽10次：50个）\n※通过本招募获得的「生日拨片」可于活动交换所的「生日拨片交换所」中使用。\n※交换内容会依据举办的交换所而有所不同，请至「交换所」确认内容。",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기\n\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\n(1회 뽑기: 5개／10회 뽑기: 50개)\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
     },
     {
       "_id": "gacha_ensured_rarity",
@@ -31998,7 +32118,7 @@
       "_english": "Miku Mahashi Happy Birthday 26-27 GACHA",
       "_traditionalChinese": "馬橋心玖 Happy Birthday 26-27轉蛋",
       "_simplifiedChinese": "马桥心玖 生日快乐 26-27招募",
-      "_korean": "마하시 미쿠 생일 축하해 26-27 뽑기"
+      "_korean": "마하시 미쿠 Happy Birthday 26-27 뽑기"
     },
     {
       "_id": "Gacha_Name_12",
@@ -32023,6 +32143,14 @@
       "_traditionalChinese": "奏響序章的光彩讚歌轉蛋",
       "_simplifiedChinese": "奏响序章的光彩赞歌招募",
       "_korean": "서막을 울리는 빛의 찬가 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_15",
+      "_japanese": "和泉朋花 Happy Birthday 26-27ガチャ",
+      "_english": "Houka Izumi Happy Birthday 26-27 Gacha",
+      "_traditionalChinese": "和泉朋花 Happy Birthday 26-27轉蛋",
+      "_simplifiedChinese": "和泉朋花 Happy Birthday 26-27招募",
+      "_korean": "이즈미 호우카 Happy Birthday 26-27 뽑기"
     },
     {
       "_id": "gacha_rates_label_draw_one",
@@ -37825,12 +37953,28 @@
       "_korean": "[DIMENSIONAL OVERLAP] 무겐다이 뮤타입"
     },
     {
+      "_id": "Item_Description_69",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "An item used at the Event Exchange Shop.",
+      "_traditionalChinese": "在活動兌換所使用的道具",
+      "_simplifiedChinese": "在活动交换所中使用的道具",
+      "_korean": "이벤트 교환소에서 사용하는 아이템"
+    },
+    {
       "_id": "Item_Description_70",
       "_japanese": "交換所で任意のステッカーと交換することができるチケット",
       "_english": "A ticket that can be exchanged for any Sticker at the Exchange Shop.",
       "_traditionalChinese": "可在兌換所兌換任意貼紙的票券",
       "_simplifiedChinese": "用于在交换所交换任意贴纸的交换券",
       "_korean": "교환소에서 임의의 스티커와 교환할 수 있는 티켓"
+    },
+    {
+      "_id": "Item_Description_74",
+      "_japanese": "[Virtus]Ave Mujica",
+      "_english": "[Virtus] Ave Mujica",
+      "_traditionalChinese": "[Virtus]Ave Mujica",
+      "_simplifiedChinese": "[Virtus]Ave Mujica",
+      "_korean": "[Virtus] Ave Mujica"
     },
     {
       "_id": "Gacha_Ticket_Description_2000001",
@@ -37853,7 +37997,7 @@
       "_japanese": "リリース記念！SR以上確定チケットガチャが引けるチケット",
       "_english": "A ticket used to draw from the Launch Celebration! SR+ Guaranteed Gacha.",
       "_traditionalChinese": "可抽取「開服紀念！SR以上保證券轉蛋」的轉蛋券",
-      "_simplifiedChinese": "开服纪念！可用于进行SR及以上必得招募的招募券",
+      "_simplifiedChinese": "可用于进行开服纪念！SR及以上必得招募的招募券",
       "_korean": "오픈 기념! SR 이상 확정 뽑기를 뽑을 수 있는 티켓"
     },
     {
@@ -37861,7 +38005,7 @@
       "_japanese": "リリース記念！SSR確定チケットガチャが引けるチケット",
       "_english": "A ticket used to draw from the Launch Celebration! SSR Guaranteed Gacha.",
       "_traditionalChinese": "可抽取「開服紀念！SSR保證券轉蛋」的轉蛋券",
-      "_simplifiedChinese": "开服纪念！可用于进行SSR必得券招募的招募券",
+      "_simplifiedChinese": "可用于进行开服纪念！SSR必得券招募的招募券",
       "_korean": "오픈 기념! SSR 확정 뽑기를 뽑을 수 있는 티켓"
     },
     {
@@ -37869,7 +38013,7 @@
       "_japanese": "リリース記念！SSRメンバー確定チケットガチャが引けるチケット",
       "_english": "A ticket used to draw from the Launch Celebration! SSR Member Guaranteed Gacha.",
       "_traditionalChinese": "可抽取「開服紀念！SSR團員保證券轉蛋」的轉蛋券",
-      "_simplifiedChinese": "开服纪念！可用于进行SSR成员必得券招募的券",
+      "_simplifiedChinese": "可用于进行开服纪念！SSR成员必得券招募的券",
       "_korean": "오픈 기념! SSR 멤버 확정 뽑기를 뽑을 수 있는 티켓"
     },
     {
@@ -37877,7 +38021,7 @@
       "_japanese": "リリース記念！SSRスナップ確定チケットガチャが引けるチケット",
       "_english": "A ticket used to draw from the Launch Celebration! SSR Snapshot Guaranteed Gacha",
       "_traditionalChinese": "可抽取「開服紀念！SSR快照保證券轉蛋」的轉蛋券",
-      "_simplifiedChinese": "开服纪念！可用于进行SSR留影必得券招募的券",
+      "_simplifiedChinese": "可用于进行开服纪念！SSR留影必得券招募的券",
       "_korean": "오픈 기념! SSR 스냅 확정 뽑기를 뽑을 수 있는 티켓"
     },
     {
@@ -38537,6 +38681,14 @@
       "_korean": "[옐로 브리즈]마하시 미쿠 각성에 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_10000071",
+      "_japanese": "[Happy Birthday 26-27]和泉 朋花の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Houka Izumi \"Happy Birthday 26-27\"",
+      "_traditionalChinese": "[Happy Birthday 26-27]和泉朋花覺醒時使用的道具",
+      "_simplifiedChinese": "用于[Happy Birthday 26-27]和泉朋花觉醒的道具",
+      "_korean": "[Happy Birthday 26-27] 이즈미 호우카 각성에 사용하는 아이템"
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "Member Piece (Tomori Takamatsu \"Right Here, Right Now\")",
@@ -39095,6 +39247,14 @@
       "_traditionalChinese": "團員星輝（[金黃微風]馬橋心玖）",
       "_simplifiedChinese": "成员星辉（[金黄微风]马桥心玖）",
       "_korean": "멤버 조각 ([옐로 브리즈] 마하시 미쿠)"
+    },
+    {
+      "_id": "Item_Name_10000071",
+      "_japanese": "メンバーピース([Happy Birthday 26-27]和泉 朋花)",
+      "_english": "Member Piece (Houka Izumi \"Happy Birthday 26-27\")",
+      "_traditionalChinese": "團員星輝（[Happy Birthday 26-27]和泉朋花）",
+      "_simplifiedChinese": "成员星辉（[Happy Birthday 26-27]和泉朋花）",
+      "_korean": "멤버 조각 ([Happy Birthday 26-27] 이즈미 호우카)"
     },
     {
       "_id": "Item_Phonetic_Name_10000001",
@@ -39657,6 +39817,14 @@
       "_korean": "멤버 조각 10000070"
     },
     {
+      "_id": "Item_Phonetic_Name_10000071",
+      "_japanese": "めんばーぴーす10000071",
+      "_english": "Member Piece 10000071",
+      "_traditionalChinese": "團員星輝10000071",
+      "_simplifiedChinese": "成员星辉10000071",
+      "_korean": "멤버 조각 10000071"
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "Star",
@@ -40121,12 +40289,28 @@
       "_korean": "<size=30>[DIMENSIONAL OVERLAP] 무겐다이 뮤타입</size>"
     },
     {
+      "_id": "Item_Name_69",
+      "_japanese": "朋花バースデーピック",
+      "_english": "Houka Birthday Pick",
+      "_traditionalChinese": "朋花生日撥片",
+      "_simplifiedChinese": "朋花生日拨片",
+      "_korean": "호우카 생일 기념 피크"
+    },
+    {
       "_id": "Item_Name_70",
       "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 ステッカー交換チケット",
       "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Sticker Exchange Ticket",
       "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 貼紙兌換券",
       "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 贴纸交换券",
       "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 스티커 교환 티켓"
+    },
+    {
+      "_id": "Item_Name_74",
+      "_japanese": "[Virtus]Ave Mujica",
+      "_english": "[Virtus] Ave Mujica",
+      "_traditionalChinese": "[Virtus]Ave Mujica",
+      "_simplifiedChinese": "[Virtus]Ave Mujica",
+      "_korean": "[Virtus] Ave Mujica"
     },
     {
       "_id": "Item_Phonetic_Name_1",
@@ -40593,12 +40777,28 @@
       "_korean": "[DIMENSIONAL OVERLAP] 무겐다이 뮤타입"
     },
     {
+      "_id": "Item_Phonetic_Name_69",
+      "_japanese": "ほうかばーすでーぴっく",
+      "_english": "Houka Birthday Pick",
+      "_traditionalChinese": "朋花生日撥片",
+      "_simplifiedChinese": "朋花生日拨片",
+      "_korean": "호우카 생일 기념 피크"
+    },
+    {
       "_id": "Item_Phonetic_Name_70",
       "_japanese": "えいがばんどりあべむじかぷりまあうろーら",
       "_english": "Movie \"BanG Dream! Ave Mujica prima aurora\"",
       "_traditionalChinese": "えいがばんどりあべむじかぷりまあうろーら",
       "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」",
       "_korean": "영화 「BanG Dream! Ave Mujica prima aurora」"
+    },
+    {
+      "_id": "Item_Phonetic_Name_74",
+      "_japanese": "[Virtus]Ave Mujica",
+      "_english": "[Virtus] Ave Mujica",
+      "_traditionalChinese": "[Virtus]Ave Mujica",
+      "_simplifiedChinese": "[Virtus]Ave Mujica",
+      "_korean": "[Virtus] Ave Mujica"
     },
     {
       "_id": "Leader_Skill_Name_Description_1",
@@ -41070,15 +41270,15 @@
       "_english": "Ikka Dumb Rock! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Violet's Member +{effects[1].value/100:F1}%",
       "_traditionalChinese": "一家Dumb Rock!團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紫苑的團員表演值{effects[1].value/100:F1}%UP",
       "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紫苑的成员表演值{effects[1].value/100:F1}%UP",
-      "_korean": "일가 Dumb Rock! 멤버의 퍼포먼스가<color=#66FF8C>{effects[0].value/100:F1}%UP</color> 또한 퍼플 멤버는 퍼포먼스가{effects[1].value/100:F1}%UP"
+      "_korean": "일가 Dumb Rock! 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 추가로 퍼플 멤버는 퍼포먼스 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_60",
-      "_japanese": "millsageメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紺碧のメンバーはパフォーマンスが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "millsage Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Azure's Member's performance +<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "millsage團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紺碧的團員表演值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "millsage成员的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且绀碧的成员表演值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_korean": "millsage 멤버의 퍼포먼스가 <color=#66FF8C>{effects[0].value/100:F1}%UP</color> 또한 블루 멤버는 퍼포먼스가 <color=#66FF8C>{effects[1].value/100:F1}%UP</color>"
+      "_japanese": "millsageメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紺碧のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
+      "_english": "millsage Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Azure Members +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "millsage團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紺碧團員的表演值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "millsage成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且绀碧成员表演值提升{effects[1].value/100:F1}%",
+      "_korean": "millsage 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 블루 멤버는 퍼포먼스 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_90001",
@@ -49801,6 +50001,14 @@
       "_korean": "Ave Mujica 미니 앨범 「신의 이름을」 발매 기념 선물!"
     },
     {
+      "_id": "LoginBonus_Name_7",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」開催記念 特別ログインボーナス",
+      "_english": "Ave Mujica 7th LIVE \"Virtus\" Celebration Special Login Bonus",
+      "_traditionalChinese": "Ave Mujica 7th LIVE「Virtus」舉辦紀念 特別登入獎勵",
+      "_simplifiedChinese": "Ave Mujica 7th LIVE「Virtus」举办纪念 特别登录奖励",
+      "_korean": "Ave Mujica 7th LIVE 「Virtus」 개최 기념 특별 로그인 보상"
+    },
+    {
       "_id": "LoginBonus_Name_1000000001",
       "_japanese": "\"Abracadabra\" Release Celebration Login Bonus!",
       "_english": "\"Abracadabra\" Release Celebration Login Bonus!",
@@ -50441,6 +50649,14 @@
       "_korean": "sabio"
     },
     {
+      "_id": "Lyricist_Name_100102",
+      "_japanese": "こゆびちゃん",
+      "_english": "こゆびちゃん",
+      "_traditionalChinese": "こゆびちゃん",
+      "_simplifiedChinese": "こゆびちゃん",
+      "_korean": "こゆびちゃん"
+    },
+    {
       "_id": "Lyricist_Name_100104",
       "_japanese": "リーシャウロン",
       "_english": "RIISHAURON",
@@ -50663,6 +50879,14 @@
       "_traditionalChinese": "一步步地學習新事物吧！",
       "_simplifiedChinese": "慢慢认识新事物吧！",
       "_korean": "새로운 걸 하나씩 알아가자!"
+    },
+    {
+      "_id": "MemberGachaVoice_71",
+      "_japanese": "ふふ、素敵な日になりそうですね♪",
+      "_english": "Hehe, it looks like it's going to be a lovely day♪",
+      "_traditionalChinese": "呵呵，看來會是美好的一天呢♪",
+      "_simplifiedChinese": "呵呵，看来今天会是美好的一天呢♪",
+      "_korean": "후후, 근사한 하루가 될 것 같네요♪"
     },
     {
       "_id": "MemberSubtitle_1",
@@ -51223,6 +51447,14 @@
       "_traditionalChinese": "金黃微風",
       "_simplifiedChinese": "金黄微风",
       "_korean": "옐로 브리즈"
+    },
+    {
+      "_id": "MemberSubtitle_71",
+      "_japanese": "Happy Birthday 26-27",
+      "_english": "Happy Birthday 26-27",
+      "_traditionalChinese": "Happy Birthday 26-27",
+      "_simplifiedChinese": "Happy Birthday 26-27",
+      "_korean": "Happy Birthday 26-27"
     },
     {
       "_id": "Mission_Description_Login1",
@@ -52771,7 +53003,7 @@
     {
       "_id": "Music_Tilte_100005",
       "_japanese": "潜在表明",
-      "_english": "潜在表明",
+      "_english": "Senzai Hyoumei",
       "_traditionalChinese": "潛在表明",
       "_simplifiedChinese": "潜在表明",
       "_korean": "잠재표명"
@@ -52779,7 +53011,7 @@
     {
       "_id": "Music_Tilte_100006",
       "_japanese": "音一会",
-      "_english": "音一会",
+      "_english": "Otoichie",
       "_traditionalChinese": "音一會",
       "_simplifiedChinese": "音一会",
       "_korean": "음일회"
@@ -53367,6 +53599,14 @@
       "_traditionalChinese": "愛是衝動",
       "_simplifiedChinese": "爱是冲动",
       "_korean": "사랑은 충동"
+    },
+    {
+      "_id": "Music_Tilte_100102",
+      "_japanese": "新人類は仮想世界の夢を見るか？",
+      "_english": "Do Newtypes have virtual dreams?",
+      "_traditionalChinese": "新人類は仮想世界の夢を見るか？",
+      "_simplifiedChinese": "新人类会梦见虚拟世界嘛？",
+      "_korean": "뉴타입은 버츄얼의 꿈을 꾸는가?"
     },
     {
       "_id": "Music_Tilte_100104",
@@ -54129,6 +54369,14 @@
       "_korean": "사랑은 충동"
     },
     {
+      "_id": "Music_Phonetic_Tilte_100102",
+      "_japanese": "にゅーたいぷはばーちゃるのゆめをみるか",
+      "_english": "Do Newtypes have virtual dreams?",
+      "_traditionalChinese": "にゅーたいぷはばーちゃるのゆめをみるか",
+      "_simplifiedChinese": "新人类会梦见虚拟世界嘛？",
+      "_korean": "뉴타입은 버츄얼의 꿈을 꾸는가?"
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100104",
       "_japanese": "ほほえみのばくだん",
       "_english": "Hohoemi no Bakudan",
@@ -54251,7 +54499,7 @@
     {
       "_id": "Music_Ruby_Tilte_100005",
       "_japanese": "<r=せんざいひょうめい>潜在表明</r>",
-      "_english": "<r=せんざいひょうめい>潜在表明</r>",
+      "_english": "<r=せんざいひょうめい>Senzai Hyoumei</r>",
       "_traditionalChinese": "<r=せんざいひょうめい>潛在表明</r>",
       "_simplifiedChinese": "<r=せんざいひょうめい>潜在表明</r>",
       "_korean": "<r=잠재표명>잠재표명</r>"
@@ -54259,7 +54507,7 @@
     {
       "_id": "Music_Ruby_Tilte_100006",
       "_japanese": "<r=おといちえ>音一会</r>",
-      "_english": "<r=おといちえ>音一会</r>",
+      "_english": "<r=おといちえ>Otoichie</r>",
       "_traditionalChinese": "<r=おといちえ>音一會</r>",
       "_simplifiedChinese": "<r=おといちえ>音一会</r>",
       "_korean": "<r=음일회>음일회</r>"
@@ -54847,6 +55095,14 @@
       "_traditionalChinese": "愛是衝動",
       "_simplifiedChinese": "爱是冲动",
       "_korean": "사랑은 충동"
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100102",
+      "_japanese": "新人類は仮想世界の夢を見るか？",
+      "_english": "Do Newtypes have virtual dreams?",
+      "_traditionalChinese": "新人類は仮想世界の夢を見るか？",
+      "_simplifiedChinese": "新人类会梦见虚拟世界嘛？",
+      "_korean": "뉴타입은 버츄얼의 꿈을 꾸는가?"
     },
     {
       "_id": "Music_Ruby_Tilte_100104",
@@ -55857,6 +56113,14 @@
       "_korean": "Shake Your 영혼, Baby!! 미션 패스가 해제됩니다."
     },
     {
+      "_id": "Season_Pass_Description_Season_Pass_Name_6",
+      "_japanese": "Ave Mujica 7th LIVE記念ミッションパスが解放されます。",
+      "_english": "Ave Mujica 7th LIVE Celebration Mission Pass will be unlocked.",
+      "_traditionalChinese": "開放Ave Mujica 7th LIVE紀念任務通行證。",
+      "_simplifiedChinese": "解锁Ave Mujica 7th LIVE 纪念任务通行证。",
+      "_korean": "Ave Mujica 7th LIVE 기념 미션 패스가 해제됩니다."
+    },
+    {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
       "_japanese": "ログインしよう",
       "_english": "Log in",
@@ -56207,6 +56471,14 @@
       "_traditionalChinese": "Shake Your 魂, Baby!! 任務通行證",
       "_simplifiedChinese": "Shake Your 魂, Baby!!任务通行证",
       "_korean": "Shake Your 영혼, Baby!! 미션 패스"
+    },
+    {
+      "_id": "Season_Pass_Name_6",
+      "_japanese": "Ave Mujica 7th LIVE記念ミッションパス",
+      "_english": "Ave Mujica 7th LIVE Celebration Mission Pass",
+      "_traditionalChinese": "Ave Mujica 7th LIVE紀念任務通行證",
+      "_simplifiedChinese": "Ave Mujica 7th LIVE 纪念任务通行证",
+      "_korean": "Ave Mujica 7th LIVE 기념 미션 패스"
     },
     {
       "_id": "ui_selectserver_title",
@@ -56681,6 +56953,14 @@
       "_korean": "일가 Dumb Rock! 채팅방 테마 패키지"
     },
     {
+      "_id": "Shop_Name_1000000130",
+      "_japanese": "",
+      "_english": "Ave Mujica 7th LIVE “Virtus” Celebration Premium Mission Pass",
+      "_traditionalChinese": "Ave Mujica 7th LIVE「Virtus」舉辦紀念 Premium任務通行證",
+      "_simplifiedChinese": "Ave Mujica 7th LIVE「Virtus」举办纪念 高级任务通行证",
+      "_korean": "Ave Mujica 7th LIVE「Virtus」개최 기념 프리미엄 미션 패스"
+    },
+    {
       "_id": "Shop_Name_1100000001",
       "_japanese": "",
       "_english": "Star×120 [MyCard]",
@@ -57063,6 +57343,14 @@
       "_traditionalChinese": "可購買星鑽轉蛋券10張。",
       "_simplifiedChinese": "可购买星钻招募券10张。",
       "_korean": "스타 뽑기 티켓 10장을 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1000000125",
+      "_japanese": "",
+      "_english": "Ave Mujica 7th LIVE “Virtus” Celebration Mission Pass+760 Paid Stars.",
+      "_traditionalChinese": "可購買Ave Mujica 7th LIVE「Virtus」舉辦紀念任務通行證與付費星鑽760個。",
+      "_simplifiedChinese": "可购买Ave Mujica 7th LIVE「Virtus」举办纪念任务通行证与付费星钻760个。",
+      "_korean": "Ave Mujica 7th LIVE 「Virtus」 개최 기념 미션 패스와 유료 스타 760개를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1100000001",
@@ -59523,7 +59811,7 @@
     {
       "_id": "Story_Chapter_Description_4",
       "_japanese": "過去のトラウマから音楽に恐怖を抱いていた蛍。彼女を\n救ったのは、沢海奏多という天才だった。ある日、奏多のバンドの\nライブに足を運んだ蛍は、そこで思わぬ事実を聞かされて――",
-      "_english": "Hotaru harbored a fear of music due to past trauma.\nHer savior was a genius named Kanata Sawami.\nOne day, when Hotaru went to Kanata's BAND LIVE show, she was told an unexpected fact...",
+      "_english": "Hotaru harbored a fear of music due to past trauma.\nHer savior was a genius named Kanata Sawami.\nOne day, when Hotaru went to Kanata's BAND LIVE, she was told an unexpected fact...",
       "_traditionalChinese": "螢曾因為過去的創傷而對音樂心懷畏懼，\n是名為「澤海奏多」的天才拯救了她。\n某天，螢前往參加奏多所屬樂團的演唱會，\n卻在那裡聽見了意想不到的事實──",
       "_simplifiedChinese": "因为过去的心理创伤而对音乐怀有恐惧的萤。拯救她的\n是一位名叫泽海奏多的天才。某天，萤前去观看奏多乐队的演出，\n却在那里听到了意想不到的事实——",
       "_korean": "과거의 트라우마로 음악에 대한 극심한 공포를 안고 살던 호타루.\n그런 그녀를 구원해 준 사람은 사와미 카나타라는 천재였다.\n어느 날, 카나타 밴드의 공연 무대를 찾아간 호타루는\n그곳에서 전혀 예상치 못한 진실과 마주하게 되는데......"
@@ -59731,7 +60019,7 @@
     {
       "_id": "Story_Episode_Description_112",
       "_japanese": "燈のライブは最高だから",
-      "_english": "Because Tomori's LIVE shows are amazing.",
+      "_english": "Because Tomori's LIVEs are amazing.",
       "_traditionalChinese": "燈唱的歌是最棒的。",
       "_simplifiedChinese": "灯的演唱是最棒的",
       "_korean": "토모리 노래는 최고니까"
@@ -60163,7 +60451,7 @@
     {
       "_id": "Story_Episode_Description_310",
       "_japanese": "ぼくも、夢、ずっとあって……\nそしたら、ライブができた！　だから……",
-      "_english": "I also had a dream...\nAnd then I got to do a live show! So...",
+      "_english": "I also had a dream...\nAnd then I got to do a live! So...",
       "_traditionalChinese": "我也一直懷抱著夢想……\n結果真的成功舉辦了演唱會！所以……",
       "_simplifiedChinese": "我也一直有一个梦想……\n然后，我就成功举办了演出！所以……",
       "_korean": "나도 계속 간직해 온 꿈이 있었는데......\n결국 이렇게 공연까지 하게 됐잖아! 그러니까......"
@@ -60619,7 +60907,7 @@
     {
       "_id": "Story_Episode_Description_514",
       "_japanese": "（これが私たちの『ホーム』でするライブ……！！）",
-      "_english": "(So this is a live show we play at our home...!!)",
+      "_english": "(So this is a live we play at our home...!!)",
       "_traditionalChinese": "（這就是在我們的「家」所舉辦的演出……！！）",
       "_simplifiedChinese": "（这就是在属于我们的『Home』里举办的演出……！！）",
       "_korean": "(이게 바로 우리의 「홈」에서 하는 공연......!!)"
@@ -60935,6 +61223,14 @@
       "_traditionalChinese": "26年生日：馬橋心玖（10/4）",
       "_simplifiedChinese": "26年生日：马桥心玖(10/4)",
       "_korean": "26년 생일: 마하시 미쿠 (10/4)"
+    },
+    {
+      "_id": "Story_Episode_Description_3302",
+      "_japanese": "26年誕生日：和泉 朋花(10/24)",
+      "_english": "2026 Birthday: Houka Izumi (10/24)",
+      "_traditionalChinese": "26年生日：和泉朋花(10/24)",
+      "_simplifiedChinese": "26年生日：和泉朋花(10/24)",
+      "_korean": "26년 생일: 이즈미 호우카 (10/24)"
     },
     {
       "_id": "Snap_Name_Tomori",
@@ -61609,6 +61905,14 @@
       "_korean": "치에리 연합의 자금이\n고작, 이것뿐이라니......!\n부하들을 위해 애쓰는 대단~한 치에리가\n겨우, 3접시......!\n\n시즈쿠는 좋아하는 걸 찾으려고 애쓰고 있고\n요모기도 시즈쿠의 스승으로서 열심히 하고 있는데\n배불리 먹지 못한다니\n말도 안 돼요\n\n무엇보다 이 치에리가\n연합 리더로서\n부하들을 데리고 초밥집 회식이라니\n치에리도 꽤 훌륭해졌구나 싶었는데......\n\n이래서야 폼이 안 나잖아요~~~!!"
     },
     {
+      "_id": "SupportDiary_74",
+      "_japanese": "Coming soon",
+      "_english": "Coming soon",
+      "_traditionalChinese": "Coming soon",
+      "_simplifiedChinese": "Coming soon",
+      "_korean": "Coming Soon"
+    },
+    {
       "_id": "SupportSubtitle_1",
       "_japanese": "人間になりたくて",
       "_english": "I Want to Be Human",
@@ -62172,7 +62476,7 @@
       "_id": "SupportSubtitle_71",
       "_japanese": "『正解』を選べるまで",
       "_english": "Until Finding the Right Answer",
-      "_traditionalChinese": "直到選出「正確答案」",
+      "_traditionalChinese": "直到選擇了「正確答案」",
       "_simplifiedChinese": "直到选择了「正确答案」",
       "_korean": "정답을 선택할 수 있을 때까지"
     },
@@ -62191,6 +62495,14 @@
       "_traditionalChinese": "一共1775圓",
       "_simplifiedChinese": "一共1775圆",
       "_korean": "1,775엔이로다"
+    },
+    {
+      "_id": "SupportSubtitle_74",
+      "_japanese": "Virtus",
+      "_english": "Virtus",
+      "_traditionalChinese": "Virtus",
+      "_simplifiedChinese": "Virtus",
+      "_korean": "Virtus"
     },
     {
       "_id": "Support_Skill_Description_1",
@@ -68083,7 +68395,7 @@
     {
       "_id": "Tips_Description_3",
       "_japanese": "ライブ前のバンド確認画面で楽曲ジャケットをタップすると楽曲詳細が開きます。",
-      "_english": "Before a LIVE show, tap the song jacket on the\nband confirmation screen to open the song details.",
+      "_english": "Before a LIVE, tap the song jacket on the\nband confirmation screen to open the song details.",
       "_traditionalChinese": "在演出前的樂團確認畫面點擊樂曲封面，即可查看樂曲詳情。",
       "_simplifiedChinese": "在演出前的乐队确认界面点击乐曲封面，即可打开乐曲详情。",
       "_korean": "라이브 전의 밴드 확인 화면에서 곡 재킷을 탭하면 곡 상세가 열립니다."
@@ -68611,7 +68923,7 @@
     {
       "_id": "tutorial_home_complete",
       "_japanese": "これでチュートリアルは終了です。\\nまずは、集めたメンバーでバンドを組んで、ライブを遊んでみましょう。",
-      "_english": "This concludes the tutorial.\\nFirst, form a band with the Members you've collected and try a LIVE show.",
+      "_english": "This concludes the tutorial.\\nFirst, form a band with the Members you've collected and try a LIVE.",
       "_traditionalChinese": "教學就到此為止。\\n首先就用招募到的團員組樂團，進行演出吧。",
       "_simplifiedChinese": "新手教程到此结束。\\n首先，用收集到的成员组建一支乐队，去体验一次演出。",
       "_korean": "튜토리얼을 모두 마쳤습니다.\\n지금 바로 모은 멤버들로 나만의 밴드를 구성해 라이브를 즐겨 보세요."
@@ -68627,7 +68939,7 @@
     {
       "_id": "tutorial_live_mode_select_message",
       "_japanese": "<size=32>ライブ中の画面モードを選択してください。</size>\n\n<b><size=32>【Live2D(<color=#66FF8C>推奨</color>)】</size></b>\n　Live2Dのキャラクター演出をオンにしてライブを楽しめます。\n<b><size=32>【軽量(<color=#66FF8C>低スペック端末向け</color>)】</size></b>\n　一部演出をオフにし、動作の軽さを優先します。\n\n※後から「オプション」にて変更可能。\n",
-      "_english": "<size=32>Select the screen mode for LIVE shows.</size>\n\n<b><size=32>[Live2D (<color=#66FF8C>Recommended</color>)]</size></b>\n Enjoy LIVE shows with Live2D character animations enabled.\n<b><size=32>[Lite (<color=#66FF8C>For Low-Spec Devices</color>)]</size></b>\n Turns off some effects to prioritize smoother performance.\n\n*This can be changed later in \"Options.\"\n",
+      "_english": "<size=32>Select the screen mode for LIVEs.</size>\n\n<b><size=32>[Live2D (<color=#66FF8C>Recommended</color>)]</size></b>\n Enjoy LIVEs with Live2D character animations enabled.\n<b><size=32>[Lite (<color=#66FF8C>For Low-Spec Devices</color>)]</size></b>\n Turns off some effects to prioritize smoother performance.\n\n*This can be changed later in \"Options.\"\n",
       "_traditionalChinese": "<size=32>請選擇演出中的畫面模式</size>\n\n<b><size=32>【Live2D(<color=#66FF8C>推薦</color>)】</size></b>\n　開啟Live2D的角色演出，盡情享受演唱會。\n<b><size=32>【輕量(<color=#66FF8C>適用於低規格裝置</color>)】</size></b>\n　關閉部分演出效果，以動作流暢度為優先。\n\n※之後可於「選項」中進行更改。\n",
       "_simplifiedChinese": "<size=32>请选择演出时的画面模式。</size>\n\n<b><size=32>【Live2D(<color=#66FF8C>推荐</color>)】</size></b>\n开启Live2D角色演出，享受演出乐趣。\n<b><size=32>【轻量(<color=#66FF8C>低配设备适用</color>)】</size></b>\n关闭部分演出，优先保证运行流畅。\n\n※之后可在「设置」中更改。\n",
       "_korean": "<size=32>라이브 중의 화면 모드를 선택해 주세요.</size>\n\n<b><size=32>[Live2D(<color=#66FF8C>권장</color>)]</size></b>\n Live2D 캐릭터 연출과 함께 라이브를 즐길 수 있습니다.\n<b><size=32>[저사양(<color=#66FF8C>저사양 기기용</color>)]</size></b>\n 일부 연출을 끄고 더 원활한 동작을 우선합니다.\n\n※이후 「설정」에서 변경 가능.\n"
@@ -78883,7 +79195,7 @@
     {
       "_id": "ui_exchange_end_notice_dialog_message_format",
       "_japanese": "yyyy/MM/dd HH:mmにイベント報酬受け取り期間が終了します。",
-      "_english": "Event reward claim period ends on yyyy/MM/dd HH:mm.",
+      "_english": "'Event' 'reward' 'claim' 'period' 'ends' 'on' yyyy/MM/dd HH:mm.",
       "_traditionalChinese": "活動報酬領取期間將於yyyy/MM/dd HH:mm結束。",
       "_simplifiedChinese": "活动奖励领取期将于yyyy/MM/dd HH:mm结束。",
       "_korean": "yyyy/MM/dd HH:mm에 이벤트 보상 수령 기간이 종료됩니다."
@@ -80868,8 +81180,8 @@
       "_id": "ui_serial_code_input_dialog_expired",
       "_japanese": "シリアルコードの有効期間外です。利用対象期間をご確認ください。",
       "_english": "The serial code is outside the valid period. Please check the applicable usage period.",
-      "_traditionalChinese": "此序號已過期。請確認序號的可使用期間。",
-      "_simplifiedChinese": "此兑换码已过期。请确认兑换码的可使用期间。",
+      "_traditionalChinese": "不在兌換時間內，請確認序號的可使用期間。",
+      "_simplifiedChinese": "不在兑换时问内，请确认兑换码的可使用期间。",
       "_korean": "교환 코드의 유효 기간이 아닙니다. 이용 대상 기간을 확인해 주세요."
     },
     {
@@ -83867,7 +84179,7 @@
     {
       "_id": "ui_monthly_pass_add_purchase",
       "_japanese": "yyyy/MM/dd に追加購入できるようになります。",
-      "_english": "Additional purchases will be available on yyyy/MM/dd.",
+      "_english": "'Additional' 'purchases' 'will' 'be' 'available' 'on' yyyy/MM/dd.",
       "_traditionalChinese": "可於 yyyy/MM/dd 進行加購。",
       "_simplifiedChinese": "yyyy/MM/dd 起可追加购买。",
       "_korean": "yyyy/MM/dd에 추가 구매할 수 있게 됩니다."
@@ -83883,7 +84195,7 @@
     {
       "_id": "ui_monthly_pass_expire_format",
       "_japanese": "MM/ddまで",
-      "_english": "Until MM/dd",
+      "_english": "'Until' MM/dd",
       "_traditionalChinese": "MM/dd為止",
       "_simplifiedChinese": "至MM/dd",
       "_korean": "MM/dd까지"
