@@ -7929,6 +7929,78 @@
       "_playbackMode": 0
     },
     {
+      "_id": 10991,
+      "_sheetName": "adv_script_eventstory_11_01",
+      "_advEpisodeAsset": "adv_script_eventstory_11_01",
+      "_titleTextId": "Chapter_Title_992",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10992,
+      "_sheetName": "adv_script_eventstory_11_02",
+      "_advEpisodeAsset": "adv_script_eventstory_11_02",
+      "_titleTextId": "Chapter_Title_993",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10993,
+      "_sheetName": "adv_script_eventstory_11_03",
+      "_advEpisodeAsset": "adv_script_eventstory_11_03",
+      "_titleTextId": "Chapter_Title_994",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10994,
+      "_sheetName": "adv_script_eventstory_11_04",
+      "_advEpisodeAsset": "adv_script_eventstory_11_04",
+      "_titleTextId": "Chapter_Title_995",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10995,
+      "_sheetName": "adv_script_eventstory_11_05",
+      "_advEpisodeAsset": "adv_script_eventstory_11_05",
+      "_titleTextId": "Chapter_Title_996",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10996,
+      "_sheetName": "adv_script_eventstory_11_06",
+      "_advEpisodeAsset": "adv_script_eventstory_11_06",
+      "_titleTextId": "Chapter_Title_997",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10997,
+      "_sheetName": "adv_script_eventstory_11_07",
+      "_advEpisodeAsset": "adv_script_eventstory_11_07",
+      "_titleTextId": "Chapter_Title_998",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10998,
+      "_sheetName": "adv_script_anotherstory_10998",
+      "_advEpisodeAsset": "adv_script_anotherstory_10998",
+      "_titleTextId": "Chapter_Title_999",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
+      "_id": 10999,
+      "_sheetName": "adv_script_anotherstory_10999",
+      "_advEpisodeAsset": "adv_script_anotherstory_10999",
+      "_titleTextId": "Chapter_Title_1000",
+      "_rubyTitleTextId": "",
+      "_playbackMode": 0
+    },
+    {
       "_id": 11198,
       "_sheetName": "adv_script_surprise_11198",
       "_advEpisodeAsset": "adv_script_surprise_11198",

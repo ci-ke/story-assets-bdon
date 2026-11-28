@@ -211,6 +211,27 @@
       "_background": ""
     },
     {
+      "_id": 11,
+      "_nameTextId": "Story_Chapter_Name_11",
+      "_descriptionTextId": "Story_Chapter_Description_11",
+      "_bandId": 4,
+      "_isSpecialStory": false,
+      "_mainCharacterIds": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "_musicId": 100119,
+      "_startAt": "2026/12/08 15:00:00",
+      "_endAt": "",
+      "_banner": "ui_banner_chapter_11",
+      "_image": "ui_image_chapter_11",
+      "_icon": "ui_icon_chapter_event_00007",
+      "_background": ""
+    },
+    {
       "_id": 33,
       "_nameTextId": "Story_Chapter_Name_33",
       "_descriptionTextId": "Story_Chapter_Description_33",

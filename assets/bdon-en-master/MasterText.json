@@ -8865,6 +8865,78 @@
       "_korean": "늑대인간"
     },
     {
+      "_id": "Chapter_Title_992",
+      "_japanese": "あの光を、もう一度",
+      "_english": "That Light, Once More",
+      "_traditionalChinese": "讓光芒再次出現",
+      "_simplifiedChinese": "愿那道光，再度闪耀",
+      "_korean": "그 빛을, 다시 한번"
+    },
+    {
+      "_id": "Chapter_Title_993",
+      "_japanese": "ただひとつの望み",
+      "_english": "The Only Wish",
+      "_traditionalChinese": "僅存的希望",
+      "_simplifiedChinese": "唯一的愿望",
+      "_korean": "단 하나의 소원"
+    },
+    {
+      "_id": "Chapter_Title_994",
+      "_japanese": "偽物の証明",
+      "_english": "Proof of Being Fake",
+      "_traditionalChinese": "冒牌貨的證明",
+      "_simplifiedChinese": "冒牌货的证明",
+      "_korean": "가짜라는 증명"
+    },
+    {
+      "_id": "Chapter_Title_995",
+      "_japanese": "救いのない世界",
+      "_english": "A World Without Salvation",
+      "_traditionalChinese": "毫無救贖的世界",
+      "_simplifiedChinese": "毫无救赎的世界",
+      "_korean": "구원이 없는 세상"
+    },
+    {
+      "_id": "Chapter_Title_996",
+      "_japanese": "輝きは見えない",
+      "_english": "No Radiance in Sight",
+      "_traditionalChinese": "看不見光芒",
+      "_simplifiedChinese": "看不见光芒",
+      "_korean": "반짝임이 보이지 않아"
+    },
+    {
+      "_id": "Chapter_Title_997",
+      "_japanese": "この道を選んだのは",
+      "_english": "The One Who Chose This Path",
+      "_traditionalChinese": "選擇這條路的是",
+      "_simplifiedChinese": "选择这条路的人",
+      "_korean": "이 길을 선택한 것은"
+    },
+    {
+      "_id": "Chapter_Title_998",
+      "_japanese": "黒く眩しい光",
+      "_english": "A Black, Dazzling Light",
+      "_traditionalChinese": "漆黑而耀眼的光",
+      "_simplifiedChinese": "漆黑而耀眼的光",
+      "_korean": "눈부신 검정빛"
+    },
+    {
+      "_id": "Chapter_Title_999",
+      "_japanese": "私だけの、閃光",
+      "_english": "My Very Own Flash of Light",
+      "_traditionalChinese": "只屬於我的，閃光",
+      "_simplifiedChinese": "只属于我的，那道闪光",
+      "_korean": "나만의 섬광"
+    },
+    {
+      "_id": "Chapter_Title_1000",
+      "_japanese": "歩みの果ては",
+      "_english": "Where the Journey Ends",
+      "_traditionalChinese": "前行的終點",
+      "_simplifiedChinese": "前行之路的尽头",
+      "_korean": "이 걸음의 끝에는"
+    },
+    {
       "_id": "Chapter_Title_1199",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "2026 Birthday: Miku Mahashi (10/4)",
@@ -9969,6 +10041,14 @@
       "_korean": "太田雄大"
     },
     {
+      "_id": "Arranger_Name_100077",
+      "_japanese": "T4K",
+      "_english": "T4K",
+      "_traditionalChinese": "T4K",
+      "_simplifiedChinese": "T4K",
+      "_korean": "T4K"
+    },
+    {
       "_id": "Arranger_Name_100080",
       "_japanese": "藤井健太郎",
       "_english": "藤井健太郎",
@@ -10097,6 +10177,14 @@
       "_korean": "sabio"
     },
     {
+      "_id": "Arranger_Name_100099",
+      "_japanese": "hisakuni(SUPA LOVE)",
+      "_english": "hisakuni (SUPA LOVE)",
+      "_traditionalChinese": "hisakuni(SUPA LOVE)",
+      "_simplifiedChinese": "hisakuni(SUPA LOVE)",
+      "_korean": "hisakuni(SUPA LOVE)"
+    },
+    {
       "_id": "Arranger_Name_100102",
       "_japanese": "堀江晶太",
       "_english": "Shota Horie",
@@ -10130,8 +10218,8 @@
     },
     {
       "_id": "Arranger_Name_100107",
-      "_japanese": "編曲_仮名",
-      "_english": "Arranger_Kana",
+      "_japanese": "長谷川大介(SUPA LOVE)",
+      "_english": "Daisuke Hasegawa (SUPA LOVE)",
       "_traditionalChinese": "長谷川大介(SUPA LOVE)",
       "_simplifiedChinese": "長谷川大介(SUPA LOVE)",
       "_korean": "하세가와 다이스케(SUPA LOVE)"
@@ -10231,6 +10319,14 @@
       "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
       "_korean": "토미타 카즈키 (SUPA LOVE)"
+    },
+    {
+      "_id": "Arranger_Name_100119",
+      "_japanese": "藤井健太郎",
+      "_english": "藤井健太郎",
+      "_traditionalChinese": "藤井健太郎",
+      "_simplifiedChinese": "藤井健太郎",
+      "_korean": "藤井健太郎"
     },
     {
       "_id": "AutoPostPresent_1",
@@ -10913,6 +11009,14 @@
       "_korean": "프로필 카드에서 사용할 수 있는 프레임입니다."
     },
     {
+      "_id": "Background_Description_31",
+      "_japanese": "プロフィールカードで使用できるフレーム",
+      "_english": "Frame available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的邊框",
+      "_simplifiedChinese": "可在名片中使用的边框",
+      "_korean": "프로필 카드에서 사용할 수 있는 프레임입니다."
+    },
+    {
       "_id": "Background_Name_1",
       "_japanese": "[背景]ブラック",
       "_english": "[Background] Black",
@@ -11151,6 +11255,14 @@
       "_traditionalChinese": "[邊框]Halloween",
       "_simplifiedChinese": "[边框]Halloween",
       "_korean": "[프레임] 할로윈"
+    },
+    {
+      "_id": "Background_Name_31",
+      "_japanese": "[フレーム]紅葉",
+      "_english": "[Frame] Autumn Leaves",
+      "_traditionalChinese": "[邊框]紅葉",
+      "_simplifiedChinese": "[边框]红叶",
+      "_korean": "[프레임] 단풍잎"
     },
     {
       "_id": "Band_Name_mygo",
@@ -14161,6 +14273,14 @@
       "_korean": "현금"
     },
     {
+      "_id": "ui_bili_confirm_private_room_next_message",
+      "_japanese": "同じルームで続けてライブしますか？",
+      "_english": "Continue playing lives in the same room?",
+      "_traditionalChinese": "要在同一房間繼續演出嗎？",
+      "_simplifiedChinese": "要在同一房间继续演出吗？",
+      "_korean": "같은 룸에서 이어서 라이브하시겠습니까?"
+    },
+    {
       "_id": "Campaign_Description_LiveRewardDrop01Nonenull",
       "_japanese": "ライブ報酬獲得時に、追加アイテムを別枠で獲得できる",
       "_english": "Additional items can be obtained in a separate slot when earning LIVE Rewards",
@@ -14827,7 +14947,7 @@
     {
       "_id": "Character_En_Name_Uika",
       "_japanese": "Doloris / Uika Misumi",
-      "_english": "",
+      "_english": "ドロリス / 三角 初華",
       "_traditionalChinese": "Doloris / Uika Misumi",
       "_simplifiedChinese": "Doloris / Uika Misumi",
       "_korean": "Doloris / Uika Misumi"
@@ -14835,7 +14955,7 @@
     {
       "_id": "Character_En_Name_Mutsumi",
       "_japanese": "Mortis / Mutsumi Wakaba",
-      "_english": "",
+      "_english": "モーティス / 若葉 睦",
       "_traditionalChinese": "Mortis / Mutsumi Wakaba",
       "_simplifiedChinese": "Mortis / Mutsumi Wakaba",
       "_korean": "Mortis / Mutsumi Wakaba"
@@ -14843,7 +14963,7 @@
     {
       "_id": "Character_En_Name_Umiri",
       "_japanese": "Timoris / Umiri Yahata",
-      "_english": "",
+      "_english": "ティモリス / 八幡 海鈴",
       "_traditionalChinese": "Timoris / Umiri Yahata",
       "_simplifiedChinese": "Timoris / Umiri Yahata",
       "_korean": "Timoris / Umiri Yahata"
@@ -14851,7 +14971,7 @@
     {
       "_id": "Character_En_Name_Nyamu",
       "_japanese": "Amoris / Nyamu Yūtenji",
-      "_english": "",
+      "_english": "アモーリス / 祐天寺 にゃむ",
       "_traditionalChinese": "Amoris / Nyamu Yūtenji",
       "_simplifiedChinese": "Amoris / Nyamu Yūtenji",
       "_korean": "Amoris / Nyamu Yūtenji"
@@ -14859,7 +14979,7 @@
     {
       "_id": "Character_En_Name_Sakiko",
       "_japanese": "Oblivionis / Sakiko Togawa",
-      "_english": "",
+      "_english": "オブリビオニス / 豊川 祥子",
       "_traditionalChinese": "Oblivionis / Sakiko Togawa",
       "_simplifiedChinese": "Oblivionis / Sakiko Togawa",
       "_korean": "Oblivionis / Sakiko Togawa"
@@ -23881,6 +24001,14 @@
       "_korean": "누유리"
     },
     {
+      "_id": "Composer_Name_100077",
+      "_japanese": "Eve",
+      "_english": "Eve",
+      "_traditionalChinese": "Eve",
+      "_simplifiedChinese": "Eve",
+      "_korean": "Eve"
+    },
+    {
       "_id": "Composer_Name_100080",
       "_japanese": "藤井健太郎",
       "_english": "藤井健太郎",
@@ -24009,6 +24137,14 @@
       "_korean": "sabio"
     },
     {
+      "_id": "Composer_Name_100099",
+      "_japanese": "hisakuni(SUPA LOVE)",
+      "_english": "hisakuni (SUPA LOVE)",
+      "_traditionalChinese": "hisakuni(SUPA LOVE)",
+      "_simplifiedChinese": "hisakuni(SUPA LOVE)",
+      "_korean": "hisakuni(SUPA LOVE)"
+    },
+    {
       "_id": "Composer_Name_100102",
       "_japanese": "こゆびちゃん、杉原亮",
       "_english": "こゆびちゃん、杉原亮",
@@ -24042,11 +24178,11 @@
     },
     {
       "_id": "Composer_Name_100107",
-      "_japanese": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_english": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_traditionalChinese": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_simplifiedChinese": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_korean": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke"
+      "_japanese": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_english": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_traditionalChinese": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_simplifiedChinese": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_korean": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke"
     },
     {
       "_id": "Composer_Name_100108",
@@ -24143,6 +24279,14 @@
       "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
       "_korean": "토미타 카즈키 (SUPA LOVE)"
+    },
+    {
+      "_id": "Composer_Name_100119",
+      "_japanese": "藤井健太郎",
+      "_english": "藤井健太郎",
+      "_traditionalChinese": "藤井健太郎",
+      "_simplifiedChinese": "藤井健太郎",
+      "_korean": "藤井健太郎"
     },
     {
       "_id": "Content_Name_1",
@@ -25105,6 +25249,166 @@
       "_korean": "격주 아레나 Season 1 최고 랭크 「플래티넘 4」 달성 시 획득"
     },
     {
+      "_id": "Degree_Description_502010001",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ビギナー1」で獲得",
+      "_english": "Obtained at the highest rank \"Beginner 1\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「新手1」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「新手1」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「비기너 1」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010002",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ビギナー2」で獲得",
+      "_english": "Obtained at the highest rank \"Beginner 2\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「新手2」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「新手2」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「비기너 2」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010003",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ビギナー3」で獲得",
+      "_english": "Obtained at the highest rank \"Beginner 3\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「新手3」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「新手3」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「비기너 3」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010004",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ビギナー4」で獲得",
+      "_english": "Obtained at the highest rank \"Beginner 4\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「新手4」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「新手4」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「비기너 4」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010005",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ブロンズ1」で獲得",
+      "_english": "Obtained at the highest rank \"Bronze 1\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「青銅1」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「青铜1」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「브론즈 1」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010006",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ブロンズ2」で獲得",
+      "_english": "Obtained at the highest rank \"Bronze 2\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「青銅2」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「青铜2」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「브론즈 2」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010007",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ブロンズ3」で獲得",
+      "_english": "Obtained at the highest rank \"Bronze 3\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「青銅3」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「青铜3」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「브론즈 3」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010008",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ブロンズ4」で獲得",
+      "_english": "Obtained at the highest rank \"Bronze 4\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「青銅4」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「青铜4」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「브론즈 4」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010009",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「シルバー1」で獲得",
+      "_english": "Obtained at the highest rank \"Silver 1\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白銀1」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白银1」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「실버 1」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010010",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「シルバー2」で獲得",
+      "_english": "Obtained at the highest rank \"Silver 2\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白銀2」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白银2」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「실버 2」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010011",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「シルバー3」で獲得",
+      "_english": "Obtained at the highest rank \"Silver 3\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白銀3」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白银3」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「실버 3」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010012",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「シルバー4」で獲得",
+      "_english": "Obtained at the highest rank \"Silver 4\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白銀4」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白银4」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「실버 4」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010013",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ゴールド1」で獲得",
+      "_english": "Obtained at the highest rank \"Gold 1\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「黃金1」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「黄金1」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「골드 1」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010014",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ゴールド2」で獲得",
+      "_english": "Obtained at the highest rank \"Gold 2\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「黃金2」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「黄金2」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「골드 2」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010015",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ゴールド3」で獲得",
+      "_english": "Obtained at the highest rank \"Gold 3\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「黃金3」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「黄金3」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「골드 3」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010016",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「ゴールド4」で獲得",
+      "_english": "Obtained at the highest rank \"Gold 4\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「黃金4」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「黄金4」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「골드 4」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010017",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「プラチナ1」で獲得",
+      "_english": "Obtained at the highest rank \"Platinum 1\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白金1」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白金1」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「플래티넘 1」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010018",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「プラチナ2」で獲得",
+      "_english": "Obtained at the highest rank \"Platinum 2\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白金2」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白金2」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「플래티넘 2」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010019",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「プラチナ3」で獲得",
+      "_english": "Obtained at the highest rank \"Platinum 3\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白金3」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白金3」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「플래티넘 3」 달성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_502010020",
+      "_japanese": "撃奏アリーナ Season2 の最高ランク「プラチナ4」で獲得",
+      "_english": "Obtained at the highest rank \"Platinum 4\" in GEKISO Arena Season 2.",
+      "_traditionalChinese": "激奏舞台 Season2 的最高等級達到「白金4」即獲得",
+      "_simplifiedChinese": "在激奏舞台 Season2 最高段位达到「白金4」获得",
+      "_korean": "격주 아레나 Season 2 최고 랭크 「플래티넘 4」 달성 시 획득"
+    },
+    {
       "_id": "Degree_Name_501010001",
       "_japanese": "[ステッカー]ビギナー1【Season1】",
       "_english": "[Sticker] Beginner 1 [Season 1]",
@@ -25263,6 +25567,166 @@
       "_traditionalChinese": "[貼紙]白金4【Season1】",
       "_simplifiedChinese": "[贴纸]白金4【Season1】",
       "_korean": "[스티커] 플래티넘 4【Season 1】"
+    },
+    {
+      "_id": "Degree_Name_502010001",
+      "_japanese": "[ステッカー]ビギナー1【Season2】",
+      "_english": "[Sticker] Beginner 1 [Season 2]",
+      "_traditionalChinese": "[貼紙]新手1【Season2】",
+      "_simplifiedChinese": "[贴纸]新手1【Season2】",
+      "_korean": "[스티커] 비기너 1【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010002",
+      "_japanese": "[ステッカー]ビギナー2【Season2】",
+      "_english": "[Sticker] Beginner 2 [Season 2]",
+      "_traditionalChinese": "[貼紙]新手2【Season2】",
+      "_simplifiedChinese": "[贴纸]新手2【Season2】",
+      "_korean": "[스티커] 비기너 2【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010003",
+      "_japanese": "[ステッカー]ビギナー3【Season2】",
+      "_english": "[Sticker] Beginner 3 [Season 2]",
+      "_traditionalChinese": "[貼紙]新手3【Season2】",
+      "_simplifiedChinese": "[贴纸]新手3【Season2】",
+      "_korean": "[스티커] 비기너 3【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010004",
+      "_japanese": "[ステッカー]ビギナー4【Season2】",
+      "_english": "[Sticker] Beginner 4 [Season 2]",
+      "_traditionalChinese": "[貼紙]新手4【Season2】",
+      "_simplifiedChinese": "[贴纸]新手4【Season2】",
+      "_korean": "[스티커] 비기너 4【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010005",
+      "_japanese": "[ステッカー]ブロンズ1【Season2】",
+      "_english": "[Sticker] Bronze 1 [Season 2]",
+      "_traditionalChinese": "[貼紙]青銅1【Season2】",
+      "_simplifiedChinese": "[贴纸]青铜1【Season2】",
+      "_korean": "[스티커] 브론즈 1【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010006",
+      "_japanese": "[ステッカー]ブロンズ2【Season2】",
+      "_english": "[Sticker] Bronze 2 [Season 2]",
+      "_traditionalChinese": "[貼紙]青銅2【Season2】",
+      "_simplifiedChinese": "[贴纸]青铜2【Season2】",
+      "_korean": "[스티커] 브론즈 2【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010007",
+      "_japanese": "[ステッカー]ブロンズ3【Season2】",
+      "_english": "[Sticker] Bronze 3 [Season 2]",
+      "_traditionalChinese": "[貼紙]青銅3【Season2】",
+      "_simplifiedChinese": "[贴纸]青铜3【Season2】",
+      "_korean": "[스티커] 브론즈 3【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010008",
+      "_japanese": "[ステッカー]ブロンズ4【Season2】",
+      "_english": "[Sticker] Bronze 4 [Season 2]",
+      "_traditionalChinese": "[貼紙]青銅4【Season2】",
+      "_simplifiedChinese": "[贴纸]青铜4【Season2】",
+      "_korean": "[스티커] 브론즈 4【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010009",
+      "_japanese": "[ステッカー]シルバー1【Season2】",
+      "_english": "[Sticker] Silver 1 [Season 2]",
+      "_traditionalChinese": "[貼紙]白銀1【Season2】",
+      "_simplifiedChinese": "[贴纸]白银1【Season2】",
+      "_korean": "[스티커] 실버 1【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010010",
+      "_japanese": "[ステッカー]シルバー2【Season2】",
+      "_english": "[Sticker] Silver 2 [Season 2]",
+      "_traditionalChinese": "[貼紙]白銀2【Season2】",
+      "_simplifiedChinese": "[贴纸]白银2【Season2】",
+      "_korean": "[스티커] 실버 2【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010011",
+      "_japanese": "[ステッカー]シルバー3【Season2】",
+      "_english": "[Sticker] Silver 3 [Season 2]",
+      "_traditionalChinese": "[貼紙]白銀3【Season2】",
+      "_simplifiedChinese": "[贴纸]白银3【Season2】",
+      "_korean": "[스티커] 실버 3【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010012",
+      "_japanese": "[ステッカー]シルバー4【Season2】",
+      "_english": "[Sticker] Silver 4 [Season 2]",
+      "_traditionalChinese": "[貼紙]白銀4【Season2】",
+      "_simplifiedChinese": "[贴纸]白银4【Season2】",
+      "_korean": "[스티커] 실버 4【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010013",
+      "_japanese": "[ステッカー]ゴールド1【Season2】",
+      "_english": "[Sticker] Gold 1 [Season 2]",
+      "_traditionalChinese": "[貼紙]黃金1【Season2】",
+      "_simplifiedChinese": "[贴纸]黄金1【Season2】",
+      "_korean": "[스티커] 골드 1【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010014",
+      "_japanese": "[ステッカー]ゴールド2【Season2】",
+      "_english": "[Sticker] Gold 2 [Season 2]",
+      "_traditionalChinese": "[貼紙]黃金2【Season2】",
+      "_simplifiedChinese": "[贴纸]黄金2【Season2】",
+      "_korean": "[스티커] 골드 2【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010015",
+      "_japanese": "[ステッカー]ゴールド3【Season2】",
+      "_english": "[Sticker] Gold 3 [Season 2]",
+      "_traditionalChinese": "[貼紙]黃金3【Season2】",
+      "_simplifiedChinese": "[贴纸]黄金3【Season2】",
+      "_korean": "[스티커] 골드 3【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010016",
+      "_japanese": "[ステッカー]ゴールド4【Season2】",
+      "_english": "[Sticker] Gold 4 [Season 2]",
+      "_traditionalChinese": "[貼紙]黃金4【Season2】",
+      "_simplifiedChinese": "[贴纸]黄金4【Season2】",
+      "_korean": "[스티커] 골드 4【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010017",
+      "_japanese": "[ステッカー]プラチナ1【Season2】",
+      "_english": "[Sticker] Platinum 1 [Season 2]",
+      "_traditionalChinese": "[貼紙]白金1【Season2】",
+      "_simplifiedChinese": "[贴纸]白金1【Season2】",
+      "_korean": "[스티커] 플래티넘 1【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010018",
+      "_japanese": "[ステッカー]プラチナ2【Season2】",
+      "_english": "[Sticker] Platinum 2 [Season 2]",
+      "_traditionalChinese": "[貼紙]白金2【Season2】",
+      "_simplifiedChinese": "[贴纸]白金2【Season2】",
+      "_korean": "[스티커] 플래티넘 2【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010019",
+      "_japanese": "[ステッカー]プラチナ3【Season2】",
+      "_english": "[Sticker] Platinum 3 [Season 2]",
+      "_traditionalChinese": "[貼紙]白金3【Season2】",
+      "_simplifiedChinese": "[贴纸]白金3【Season2】",
+      "_korean": "[스티커] 플래티넘 3【Season 2】"
+    },
+    {
+      "_id": "Degree_Name_502010020",
+      "_japanese": "[ステッカー]プラチナ4【Season2】",
+      "_english": "[Sticker] Platinum 4 [Season 2]",
+      "_traditionalChinese": "[貼紙]白金4【Season2】",
+      "_simplifiedChinese": "[贴纸]白金4【Season2】",
+      "_korean": "[스티커] 플래티넘 4【Season 2】"
     },
     {
       "_id": "Degree_Description_1",
@@ -27201,6 +27665,14 @@
       "_korean": "토모리 생일 기념 피크 교환소에서 획득"
     },
     {
+      "_id": "Degree_Description_281",
+      "_japanese": "「誰が為のサクリファイスガチャ」の交換所で獲得",
+      "_english": "Obtained at the Exchange Shop for the \"For Whom the Sacrifice Gacha.\"",
+      "_traditionalChinese": "透過「為誰而獻的Sacrifice轉蛋」的兌換所獲得",
+      "_simplifiedChinese": "通过「为谁而献的Sacrifice招募」的交换所获得",
+      "_korean": "「누군가를 위한 희생 뽑기」 교환소에서 획득"
+    },
+    {
       "_id": "Degree_Description_287",
       "_japanese": "夢限大みゅーたいぷ バンド記念日ピック交換所で獲得",
       "_english": "Obtained at the Mugendai MewType Band Anniversary Pick Exchange Shop",
@@ -27209,12 +27681,36 @@
       "_korean": "무겐다이 뮤타입 밴드 기념일 피크 교환소에서 획득"
     },
     {
+      "_id": "Degree_Description_288",
+      "_japanese": "ブラックフライデー ステッカーパックで獲得",
+      "_english": "Obtained from the Black Friday Sticker Pack.",
+      "_traditionalChinese": "透過Black Friday 貼紙禮包獲得",
+      "_simplifiedChinese": "通过黑色星期五贴纸礼包获得",
+      "_korean": "블랙프라이데이 스티커 패키지에서 획득"
+    },
+    {
+      "_id": "Degree_Description_289",
+      "_japanese": "ブラックフライデー ステッカーパックで獲得",
+      "_english": "Obtained from the Black Friday Sticker Pack.",
+      "_traditionalChinese": "透過Black Friday 貼紙禮包獲得",
+      "_simplifiedChinese": "通过黑色星期五贴纸礼包获得",
+      "_korean": "블랙프라이데이 스티커 패키지에서 획득"
+    },
+    {
       "_id": "Degree_Description_1000000001",
       "_japanese": "",
       "_english": "Obtained with the AGF2026 bonus serial code.",
       "_traditionalChinese": "透過AGF2026特典序號獲得",
       "_simplifiedChinese": "使用AGF2026参展特典兑换码获得",
       "_korean": "AGF2026 혜택 교환 코드로 획득"
+    },
+    {
+      "_id": "Degree_Description_1000000002",
+      "_japanese": "",
+      "_english": "\"Obtained from the Our Notes × AGF2026 Special Login Bonus.\"",
+      "_traditionalChinese": "透過AGF2026出席紀念特別登入獎勵獲得",
+      "_simplifiedChinese": "通过AGF2026出演纪念特别登录奖励获得",
+      "_korean": "AGF 2026 출연 기념 특별 로그인 보상으로 획득 가능"
     },
     {
       "_id": "Degree_Description_20000001",
@@ -28681,6 +29177,270 @@
       "_korean": "이벤트 「너는 마루 군」 프리미엄 미션 패스 보상으로 획득"
     },
     {
+      "_id": "Degree_Description_20000184",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000185",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000186",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000187",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000188",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000189",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000190",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000191",
+      "_japanese": "イベント「光、ゆびのすきまから。」「反照は背理」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Reflection Implies a Contradiction.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「反照は背理」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「反照は背理」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Reflection Implies a Contradiction」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000192",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000193",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000194",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000195",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000196",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000197",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000198",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000199",
+      "_japanese": "イベント「光、ゆびのすきまから。」「鳴らす」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Narasu.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「鳴らす」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「鳴らす」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「Narasu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000200",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000201",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000202",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000203",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000204",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000205",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000206",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000207",
+      "_japanese": "イベント「光、ゆびのすきまから。」「青のすみか」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Light, Through My Fingers \"Where Our Blue Is.\"",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，樂曲「青のすみか」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」「青のすみか」分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 「우리들의 푸르름이 있는 곳」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000208",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000209",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000210",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000211",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000212",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000213",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000214",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000215",
+      "_japanese": "イベント「光、ゆびのすきまから。」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」综合分数排名奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000216",
+      "_japanese": "イベント「光、ゆびのすきまから。」 プレミアムミッションパス報酬で獲得",
+      "_english": "Obtained via the Premium Mission Pass Rewards for Light, Through My Fingers.",
+      "_traditionalChinese": "透過活動「光，自指縫間灑落。」Premium任務通行證報酬獲得",
+      "_simplifiedChinese": "通过活动「光，自指缝间洒落。」高级任务通行证奖励获得",
+      "_korean": "이벤트 「빛, 손가락 사이로」 프리미엄 미션 패스 보상으로 획득"
+    },
+    {
       "_id": "Degree_Name_20000001",
       "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 1位",
       "_english": "[Sticker] Love Rush A to Z/mugamuchu 1st place",
@@ -30145,6 +30905,270 @@
       "_korean": "[스티커] 너는 마루 군"
     },
     {
+      "_id": "Degree_Name_20000184",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 1位",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction 1st Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 第1名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 第1名",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction 1위"
+    },
+    {
+      "_id": "Degree_Name_20000185",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 2位",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction 2nd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 第2名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 第2名",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction 2위"
+    },
+    {
+      "_id": "Degree_Name_20000186",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 3位",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction 3rd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 第3名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 第3名",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction 3위"
+    },
+    {
+      "_id": "Degree_Name_20000187",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 TOP10",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction TOP10",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 TOP10",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 TOP10",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000188",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 TOP100",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction TOP100",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 TOP100",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 TOP100",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000189",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 TOP1000",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction TOP1000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 TOP1000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 TOP1000",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000190",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 TOP5000",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction TOP5000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 TOP5000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 TOP5000",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000191",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/反照は背理 TOP10000",
+      "_english": "[Sticker] Light, Through My Fingers/Reflection Implies a Contradiction TOP10000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/反照は背理 TOP10000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/反照は背理 TOP10000",
+      "_korean": "[스티커] 빛, 손가락 사이로/Reflection Implies a Contradiction TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000192",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす 1位",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu 1st Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす 第1名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす 第1名",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu 1위"
+    },
+    {
+      "_id": "Degree_Name_20000193",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす 2位",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu 2nd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす 第2名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす 第2名",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu 2위"
+    },
+    {
+      "_id": "Degree_Name_20000194",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす 3位",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu 3rd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす 第3名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす 第3名",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu 3위"
+    },
+    {
+      "_id": "Degree_Name_20000195",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす TOP10",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu TOP10",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす TOP10",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす TOP10",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000196",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす TOP100",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu TOP100",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす TOP100",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす TOP100",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000197",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす TOP1000",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu TOP1000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす TOP1000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす TOP1000",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000198",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす TOP5000",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu TOP5000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす TOP5000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす TOP5000",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000199",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/鳴らす TOP10000",
+      "_english": "[Sticker] Light, Through My Fingers/Narasu TOP10000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/鳴らす TOP10000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/鳴らす TOP10000",
+      "_korean": "[스티커] 빛, 손가락 사이로/Narasu TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000200",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか 1位",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is 1st Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか 第1名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか 第1名",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 1위"
+    },
+    {
+      "_id": "Degree_Name_20000201",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか 2位",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is 2nd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか 第2名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか 第2名",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 2위"
+    },
+    {
+      "_id": "Degree_Name_20000202",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか 3位",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is 3rd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか 第3名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか 第3名",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 3위"
+    },
+    {
+      "_id": "Degree_Name_20000203",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか TOP10",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is TOP10",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか TOP10",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか TOP10",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000204",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか TOP100",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is TOP100",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか TOP100",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか TOP100",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000205",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか TOP1000",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is TOP1000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか TOP1000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか TOP1000",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000206",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか TOP5000",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is TOP5000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか TOP5000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか TOP5000",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000207",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/青のすみか TOP10000",
+      "_english": "[Sticker] Light, Through My Fingers/Where Our Blue Is TOP10000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/ 青のすみか TOP10000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/青のすみか TOP10000",
+      "_korean": "[스티커] 빛, 손가락 사이로/우리들의 푸르름이 있는 곳 TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000208",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング 1位",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking 1st Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 第1名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 第1名",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 1위"
+    },
+    {
+      "_id": "Degree_Name_20000209",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング 2位",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking 2nd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 第2名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 第2名",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 2위"
+    },
+    {
+      "_id": "Degree_Name_20000210",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング 3位",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking 3rd Place",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 第3名",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 第3名",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 3위"
+    },
+    {
+      "_id": "Degree_Name_20000211",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング TOP10",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking TOP10",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 TOP10",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 TOP10",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000212",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング TOP100",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking TOP100",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 TOP100",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 TOP100",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000213",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング TOP1000",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking TOP1000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 TOP1000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 TOP1000",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000214",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング TOP5000",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking TOP5000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 TOP5000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 TOP5000",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000215",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。/総合ランキング TOP10000",
+      "_english": "[Sticker] Light, Through My Fingers/Total Ranking TOP10000",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。/綜合排行榜 TOP10000",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。/综合排名 TOP10000",
+      "_korean": "[스티커] 빛, 손가락 사이로/종합 랭킹 TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000216",
+      "_japanese": "[ステッカー]光、ゆびのすきまから。",
+      "_english": "[Sticker] Light, Through My Fingers",
+      "_traditionalChinese": "[貼紙]光，自指縫間灑落。",
+      "_simplifiedChinese": "[贴纸]光，自指缝间洒落。",
+      "_korean": "[스티커] 빛, 손가락 사이로"
+    },
+    {
       "_id": "Degree_Description_10000001",
       "_japanese": "「迷星叫」を100回クリアで獲得",
       "_english": "Obtained by clearing \"Mayoiuta\" 100 times.",
@@ -30657,6 +31681,14 @@
       "_korean": "「로워」 100회 클리어 시 획득"
     },
     {
+      "_id": "Degree_Description_10000077",
+      "_japanese": "「ドラマツルギー」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"Dramaturgy\" 100 times.",
+      "_traditionalChinese": "通關「ドラマツルギー」100次即獲得",
+      "_simplifiedChinese": "完成「ドラマツルギー」100次时获得",
+      "_korean": "「드라마투르기」 100회 클리어 시 획득"
+    },
+    {
       "_id": "Degree_Description_10000079",
       "_japanese": "「ホーミー・タイッ！！」を100回クリアで獲得",
       "_english": "Obtained by clearing \"Homie's Tie!!\" 100 times.",
@@ -30783,6 +31815,14 @@
       "_traditionalChinese": "通關「愛是衝動」100次即獲得",
       "_simplifiedChinese": "完成「爱是冲动」100次时获得",
       "_korean": "「사랑은 충동」 100회 클리어 시 획득"
+    },
+    {
+      "_id": "Degree_Description_10000097",
+      "_japanese": "「回層浮」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"Kaisou\" 100 times.",
+      "_traditionalChinese": "通關「回層浮」100次即獲得",
+      "_simplifiedChinese": "完成「回层浮」100次时获得",
+      "_korean": "「회상」 100회 클리어 시 획득"
     },
     {
       "_id": "Degree_Description_10000100",
@@ -30919,6 +31959,14 @@
       "_traditionalChinese": "通關「世點彩」100次即獲得",
       "_simplifiedChinese": "完成「世点彩」100次时获得",
       "_korean": "「세피아」 100회 클리어 시 획득"
+    },
+    {
+      "_id": "Degree_Description_10000133",
+      "_japanese": "「反照は背理」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"Reflection Implies a Contradiction\" 100 times.",
+      "_traditionalChinese": "通關「反照は背理」100次即獲得",
+      "_simplifiedChinese": "完成「反照は背理」100次时获得",
+      "_korean": "「Reflection Implies a Contradiction」 100회 클리어 시 획득"
     },
     {
       "_id": "Degree_Name_10000001",
@@ -31433,6 +32481,14 @@
       "_korean": "[스티커] 로워 재킷"
     },
     {
+      "_id": "Degree_Name_10000077",
+      "_japanese": "[ステッカー]ドラマツルギージャケット",
+      "_english": "[Sticker] Dramaturgy Jacket",
+      "_traditionalChinese": "[貼紙]ドラマツルギー封面",
+      "_simplifiedChinese": "[贴纸]ドラマツルギー封面",
+      "_korean": "[스티커] 드라마투르기 재킷"
+    },
+    {
       "_id": "Degree_Name_10000079",
       "_japanese": "[ステッカー]ホーミー・タイッ！！ジャケット",
       "_english": "[Sticker] Homie's Tie!! Jacket",
@@ -31559,6 +32615,14 @@
       "_traditionalChinese": "[貼紙]愛是衝動封面",
       "_simplifiedChinese": "[贴纸]爱是冲动封面",
       "_korean": "[스티커] 사랑은 충동 재킷"
+    },
+    {
+      "_id": "Degree_Name_10000097",
+      "_japanese": "[ステッカー]回層浮ジャケット",
+      "_english": "[Sticker] Kaisou Jacket",
+      "_traditionalChinese": "[貼紙]回層浮封面",
+      "_simplifiedChinese": "[贴纸]回层浮封面",
+      "_korean": "[스티커] 회상 재킷"
     },
     {
       "_id": "Degree_Name_10000100",
@@ -31695,6 +32759,14 @@
       "_traditionalChinese": "[貼紙]世點彩封面",
       "_simplifiedChinese": "[贴纸]世点彩封面",
       "_korean": "[스티커] 세피아 재킷"
+    },
+    {
+      "_id": "Degree_Name_10000133",
+      "_japanese": "[ステッカー]反照は背理ジャケット",
+      "_english": "[Sticker] Reflection Implies a Contradiction Jacket",
+      "_traditionalChinese": "[貼紙]反照は背理封面",
+      "_simplifiedChinese": "[贴纸]反照は背理封面",
+      "_korean": "[스티커] Reflection Implies a Contradiction 재킷"
     },
     {
       "_id": "Degree_Description_30000001",
@@ -32153,6 +33225,30 @@
       "_korean": "「[Happy Birthday 26-27] 타카마츠 토모리」 4회 각성 시 획득"
     },
     {
+      "_id": "Degree_Description_30000058",
+      "_japanese": "「[終わりをくれる光]和泉 朋花」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Houka Izumi [The Light That Grants the End]\" 4 times.",
+      "_traditionalChinese": "「[迎來終結的光芒]和泉朋花」覺醒4次後獲得",
+      "_simplifiedChinese": "「[赐我终结之光]和泉朋花」觉醒4次后获得",
+      "_korean": "「[끝을 선사하는 빛] 이즈미 호우카」 4회 각성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_30000059",
+      "_japanese": "「[願いのため、光となる]汐見 蛍」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Hotaru Shiomi [I'll Be the Light You Wish For]\" 4 times.",
+      "_traditionalChinese": "「[為償所願，化身為光]汐見螢」覺醒4次後獲得",
+      "_simplifiedChinese": "「[为偿所愿，化身为光]汐见萤」觉醒4次后获得",
+      "_korean": "「[소원을 위해, 빛이 되다] 시오미 호타루」 4회 각성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_30000060",
+      "_japanese": "「[瞳の奥に抱えるもの]浜崎 まほろ」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Mahoro Hamasaki [What Lies Behind Those Eyes]\" 4 times.",
+      "_traditionalChinese": "「[藏於眼眸深處]濱崎茉幌」覺醒4次後獲得",
+      "_simplifiedChinese": "「[藏于眼眸深处之物]滨崎茉幌」觉醒4次后获得",
+      "_korean": "「[눈동자 깊이 간직한 것] 하마사키 마호로」 4회 각성 시 획득"
+    },
+    {
       "_id": "Degree_Name_30000001",
       "_japanese": "[ステッカー][残したい詩、まっすぐに]高松 燈",
       "_english": "[Sticker] Tomori Takamatsu [Words That Stay]",
@@ -32607,6 +33703,30 @@
       "_traditionalChinese": "[貼紙][Happy Birthday 26-27]高松燈",
       "_simplifiedChinese": "[贴纸][Happy Birthday 26-27]高松灯",
       "_korean": "[스티커] [Happy Birthday 26-27] 타카마츠 토모리"
+    },
+    {
+      "_id": "Degree_Name_30000058",
+      "_japanese": "[ステッカー][終わりをくれる光]和泉 朋花",
+      "_english": "[Sticker] Houka Izumi [The Light That Grants the End]",
+      "_traditionalChinese": "[貼紙][迎來終結的光芒]和泉朋花",
+      "_simplifiedChinese": "[贴纸][赐我终结之光]和泉朋花",
+      "_korean": "[스티커] [끝을 선사하는 빛] 이즈미 호우카"
+    },
+    {
+      "_id": "Degree_Name_30000059",
+      "_japanese": "[ステッカー][願いのため、光となる]汐見 蛍",
+      "_english": "[Sticker] Hotaru Shiomi [I'll Be the Light You Wish For]",
+      "_traditionalChinese": "[貼紙][為償所願，化身為光]汐見螢",
+      "_simplifiedChinese": "[贴纸][为偿所愿，化身为光]汐见萤",
+      "_korean": "[스티커] [소원을 위해, 빛이 되다] 시오미 호타루"
+    },
+    {
+      "_id": "Degree_Name_30000060",
+      "_japanese": "[ステッカー][瞳の奥に抱えるもの]浜崎 まほろ",
+      "_english": "[Sticker] Mahoro Hamasaki [What Lies Behind Those Eyes]",
+      "_traditionalChinese": "[貼紙][藏於眼眸深處]濱崎茉幌",
+      "_simplifiedChinese": "[贴纸][藏于眼眸深处之物]滨崎茉幌",
+      "_korean": "[스티커] [눈동자 깊이 간직한 것] 하마사키 마호로"
     },
     {
       "_id": "Degree_Name_1",
@@ -34545,6 +35665,14 @@
       "_korean": "[스티커] 타카마츠 토모리 Happy Birthday 26-27"
     },
     {
+      "_id": "Degree_Name_281",
+      "_japanese": "[ステッカー]誰が為のサクリファイス",
+      "_english": "[Sticker] For Whom the Sacrifice",
+      "_traditionalChinese": "[貼紙]為誰而獻的Sacrifice",
+      "_simplifiedChinese": "[贴纸]为谁而献的Sacrifice",
+      "_korean": "[스티커] 누군가를 위한 희생"
+    },
+    {
       "_id": "Degree_Name_287",
       "_japanese": "[ステッカー]夢限大みゅーたいぷ Band Anniversary 26",
       "_english": "[Sticker] Mugendai MewType Band Anniversary 26",
@@ -34553,12 +35681,36 @@
       "_korean": "[스티커] 무겐다이 뮤타입 Band Anniversary 26"
     },
     {
+      "_id": "Degree_Name_288",
+      "_japanese": "[ステッカー]ウミリウイング(元祖！バンドリちゃん)",
+      "_english": "[Sticker] UMIRI WING (GANSO! BanG Dream Chan)",
+      "_traditionalChinese": "[貼紙]UMIRI WING (元祖！BanG Dream Chan)",
+      "_simplifiedChinese": "[贴纸]UMIRI WING (元祖！BanG Dream Chan)",
+      "_korean": "[스티커] 우미리 윙 (원조! 뱅드림짱)"
+    },
+    {
+      "_id": "Degree_Name_289",
+      "_japanese": "[ステッカー]ユノカスタム(元祖！バンドリちゃん)",
+      "_english": "[Sticker] YUNO CUSTOM (GANSO! BanG Dream Chan)",
+      "_traditionalChinese": "[貼紙]YUNO CUSTOM (元祖！BanG Dream Chan)",
+      "_simplifiedChinese": "[贴纸]YUNO CUSTOM (元祖！BanG Dream Chan)",
+      "_korean": "[스티커] 유노 커스텀 (원조! 뱅드림짱)"
+    },
+    {
       "_id": "Degree_Name_1000000001",
       "_japanese": "",
       "_english": "[Sticker] Celebrating the Event Appearance 2026.12.4 (Limited)",
       "_traditionalChinese": "[貼圖] 線下活動出席紀念2026.12.4（限定）",
       "_simplifiedChinese": "[贴纸] 线下活动出演纪念2026.12.4（限定）",
       "_korean": "[스티커] 오프라인 이벤트 출연 기념2026.12.4 (한정)"
+    },
+    {
+      "_id": "Degree_Name_1000000002",
+      "_japanese": "",
+      "_english": "[Sticker] Celebrating the Event Appearance 2026.12.6",
+      "_traditionalChinese": "[貼圖] 線下活動出席紀念2026.12.6",
+      "_simplifiedChinese": "[贴纸] 线下活动出演纪念2026.12.6",
+      "_korean": "[스티커] 오프라인 이벤트 출연 기념2026.12.6"
     },
     {
       "_id": "Degree_Description_40000001",
@@ -35034,11 +36186,35 @@
     },
     {
       "_id": "Degree_Description_40000060",
-      "_japanese": "「[Band Anniversary 26]夢限大みゅーたいぷ」を4回上限解放すると獲得",
-      "_english": "Obtained by limit breaking \"Mugendai MewType [Band Anniversary 26]\" 4 times.",
-      "_traditionalChinese": "「[Band Anniversary 26]夢限大MewType」開放上限4次後獲得",
-      "_simplifiedChinese": "「[Band Anniversary 26]梦限大MewType」上限解锁4次后获得",
-      "_korean": "「[Band Anniversary 26] 무겐다이 뮤타입」 4회 상한 해제 시 획득"
+      "_japanese": "「[だいすきなもの]夢限大みゅーたいぷ」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Mugendai MewType [Things I Love]\" 4 times.",
+      "_traditionalChinese": "「[最喜歡的事物]夢限大MewType」開放上限4次後獲得",
+      "_simplifiedChinese": "「[我最喜欢的东西]梦限大MewType」上限解锁4次后获得",
+      "_korean": "「[가장 좋아하는 것] 무겐다이 뮤타입」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000061",
+      "_japanese": "「[歓喜と恍惚の中で]和泉 朋花」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Houka Izumi [Lost in Joy and Rapture]\" 4 times.",
+      "_traditionalChinese": "「[在歡喜與恍惚之間]和泉朋花」開放上限4次後獲得",
+      "_simplifiedChinese": "「[在喜悦与恍惚之间]和泉朋花」上限解锁4次后获得",
+      "_korean": "「[환희와 황홀 속에서] 이즈미 호우카」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000062",
+      "_japanese": "「[凍りつくほどの旋律]伊沢 なつめ」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Natsume Izawa [The Bone-Chilling Melody]\" 4 times.",
+      "_traditionalChinese": "「[冰封心魄的旋律]伊澤棗」開放上限4次後獲得",
+      "_simplifiedChinese": "「[冰冷刺骨的旋律]伊泽枣」上限解锁4次后获得",
+      "_korean": "「[얼어붙을 만큼의 선율] 이자와 나츠메」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000063",
+      "_japanese": "「[喜びをかわして]凪&まほろ」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Nagi & Mahoro [Sharing Joy]\" 4 times.",
+      "_traditionalChinese": "「[分享喜悅]凪&茉幌」開放上限4次後獲得",
+      "_simplifiedChinese": "「[分享喜悦]凪&茉幌」上限解锁4次后获得",
+      "_korean": "「[기쁨을 나누며] 나기&마호로」 4회 상한 해제 시 획득"
     },
     {
       "_id": "Degree_Name_40000001",
@@ -35514,11 +36690,35 @@
     },
     {
       "_id": "Degree_Name_40000060",
-      "_japanese": "[ステッカー][Band Anniversary 26]夢限大みゅーたいぷ",
-      "_english": "[Sticker] Mugendai MewType [Band Anniversary 26]",
-      "_traditionalChinese": "[貼紙][Band Anniversary 26]夢限大MewType",
-      "_simplifiedChinese": "[贴纸][Band Anniversary 26]梦限大MewType",
-      "_korean": "[스티커] [Band Anniversary 26] 무겐다이 뮤타입"
+      "_japanese": "[ステッカー][だいすきなもの]夢限大みゅーたいぷ",
+      "_english": "[Sticker] Mugendai MewType [Things I Love]",
+      "_traditionalChinese": "[貼紙][最喜歡的事物]夢限大MewType",
+      "_simplifiedChinese": "[贴纸][我最喜欢的东西]梦限大MewType",
+      "_korean": "[스티커] [가장 좋아하는 것] 무겐다이 뮤타입"
+    },
+    {
+      "_id": "Degree_Name_40000061",
+      "_japanese": "[ステッカー][歓喜と恍惚の中で]和泉 朋花",
+      "_english": "[Sticker] Houka Izumi [Lost in Joy and Rapture]",
+      "_traditionalChinese": "[貼紙][在歡喜與恍惚之間]和泉朋花",
+      "_simplifiedChinese": "[贴纸][在喜悦与恍惚之间]和泉朋花",
+      "_korean": "[스티커] [환희와 황홀 속에서] 이즈미 호우카"
+    },
+    {
+      "_id": "Degree_Name_40000062",
+      "_japanese": "[ステッカー][凍りつくほどの旋律]伊沢 なつめ",
+      "_english": "[Sticker] Natsume Izawa [The Bone-Chilling Melody]",
+      "_traditionalChinese": "[貼紙][冰封心魄的旋律]伊澤棗",
+      "_simplifiedChinese": "[贴纸][冰冷刺骨的旋律]伊泽枣",
+      "_korean": "[스티커] [얼어붙을 만큼의 선율] 이자와 나츠메"
+    },
+    {
+      "_id": "Degree_Name_40000063",
+      "_japanese": "[ステッカー][喜びをかわして]凪&まほろ",
+      "_english": "[Sticker] Nagi & Mahoro [Sharing Joy]",
+      "_traditionalChinese": "[貼紙][分享喜悅]凪&茉幌",
+      "_simplifiedChinese": "[贴纸][分享喜悦]凪&茉幌",
+      "_korean": "[스티커] [기쁨을 나누며] 마호로&나기"
     },
     {
       "_id": "Item_Source_Name_1",
@@ -35703,6 +36903,14 @@
       "_traditionalChinese": "你是丸君",
       "_simplifiedChinese": "你是丸君",
       "_korean": "너는 마루 군"
+    },
+    {
+      "_id": "Event_Name_0007",
+      "_japanese": "光、ゆびのすきまから。",
+      "_english": "Light, Through My Fingers",
+      "_traditionalChinese": "光，自指縫間灑落。",
+      "_simplifiedChinese": "光，自指缝间洒落。",
+      "_korean": "빛, 손가락 사이로"
     },
     {
       "_id": "Exchange_Name_1",
@@ -36007,6 +37215,22 @@
       "_traditionalChinese": "夢限大MewType 樂團紀念日 撥片兌換所",
       "_simplifiedChinese": "梦限大MewType 乐队纪念日 拨片交换所",
       "_korean": "무겐다이 뮤타입 밴드 기념일 피크 교환소"
+    },
+    {
+      "_id": "Exchange_Name_40",
+      "_japanese": "光、ゆびのすきまから。 イベント交換所",
+      "_english": "Light, Through My Fingers Event Exchange Shop",
+      "_traditionalChinese": "光，自指縫間灑落。活動兌換所",
+      "_simplifiedChinese": "光，自指缝间洒落。 活动交换所",
+      "_korean": "빛, 손가락 사이로 이벤트 교환소"
+    },
+    {
+      "_id": "Exchange_Name_41",
+      "_japanese": "誰が為のサクリファイスガチャ交換所",
+      "_english": "For Whom the Sacrifice Gacha Exchange Shop",
+      "_traditionalChinese": "為誰而獻的Sacrifice轉蛋兌換所",
+      "_simplifiedChinese": "为谁而献的Sacrifice招募交换所",
+      "_korean": "누군가를 위한 희생 뽑기 교환소"
     },
     {
       "_id": "exchange_title",
@@ -37369,6 +38593,30 @@
       "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기\n\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\n(1회 뽑기: 5개／10회 뽑기: 50개)\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
     },
     {
+      "_id": "Gacha_Description_26",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with R or Higher Members or Snapshots",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得R及以上成员或留影的招募",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
+      "_id": "Gacha_Description_27",
+      "_japanese": "SR以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with SR or Higher Members or Snapshots",
+      "_traditionalChinese": "可獲得SR以上團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得SR及以上成员或留影的招募",
+      "_korean": "SR 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
+      "_id": "Gacha_Description_28",
+      "_japanese": "SSRのメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with SSR Members or Snapshots",
+      "_traditionalChinese": "可獲得SSR團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得SSR成员或留影的招募",
+      "_korean": "SSR 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -37913,6 +39161,30 @@
       "_korean": "【{0}】{1}"
     },
     {
+      "_id": "gacha_draw_again",
+      "_japanese": "もう一度引く",
+      "_english": "Draw Again",
+      "_traditionalChinese": "再次抽取",
+      "_simplifiedChinese": "再次招募",
+      "_korean": "한번 더 뽑기"
+    },
+    {
+      "_id": "gacha_detail_dialog_pickup_ratio_title",
+      "_japanese": "ピックアップの提供割合",
+      "_english": "Pickup Drop Rates",
+      "_traditionalChinese": "Pick Up的出現機率",
+      "_simplifiedChinese": "Pick Up的出现概率",
+      "_korean": "픽업 출현 확률"
+    },
+    {
+      "_id": "gacha_detail_dialog_pickup_group_title",
+      "_japanese": "{0} {1}",
+      "_english": "{0} {1}",
+      "_traditionalChinese": "{0} {1}",
+      "_simplifiedChinese": "{0} {1}",
+      "_korean": "{0} {1}"
+    },
+    {
       "_id": "Gacha_Name_1",
       "_japanese": "リリース記念！MyGO!!!!!ピックアップガチャ",
       "_english": "Launch Celebration! MyGO!!!!! Pickup Gacha",
@@ -38111,6 +39383,30 @@
       "_traditionalChinese": "高松燈 Happy Birthday 26-27轉蛋",
       "_simplifiedChinese": "高松灯 Happy Birthday 26-27招募",
       "_korean": "타카마츠 토모리 Happy Birthday 26-27 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_26",
+      "_japanese": "誰が為のサクリファイスガチャ",
+      "_english": "For Whom the Sacrifice Gacha",
+      "_traditionalChinese": "為誰而獻的Sacrifice轉蛋",
+      "_simplifiedChinese": "为谁而献的Sacrifice招募",
+      "_korean": "누군가를 위한 희생 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_27",
+      "_japanese": "撃奏アリーナ Season2 SR以上確定チケットガチャ",
+      "_english": "GEKISO ARENA Season 2 SR+ Guaranteed Ticket Gacha",
+      "_traditionalChinese": "激奏舞台 Season2 SR以上保證券轉蛋",
+      "_simplifiedChinese": "激奏舞台 Season2 SR及以上必得券招募",
+      "_korean": "격주 아레나 Season 2 SR 이상 확정 티켓 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_28",
+      "_japanese": "撃奏アリーナ Season2 SSR確定チケットガチャ",
+      "_english": "GEKISO ARENA Season 2 SSR Guaranteed Ticket Gacha",
+      "_traditionalChinese": "激奏舞台 Season2 SSR保證券轉蛋",
+      "_simplifiedChinese": "激奏舞台 Season2 SSR必得券招募",
+      "_korean": "격주 아레나 Season 2 SSR 확정 티켓 뽑기"
     },
     {
       "_id": "gacha_rates_label_draw_one",
@@ -38553,6 +39849,110 @@
       "_korean": ""
     },
     {
+      "_id": "gacha_warning_limited_pickup_detail_member_only",
+      "_japanese": "※ピックアップ対象メンバーのパラメータやスキルはガチャのピックアップ詳細にてご確認ください",
+      "_english": "*For the Parameters and Skills of the Pickup Members, please check the Gacha's Pickup details.",
+      "_traditionalChinese": "※Pick Up對象團員的能力值與技能，請在轉蛋頁面的Pick Up詳情中確認。",
+      "_simplifiedChinese": "※Pick Up成员的能力值和技能请于招募的Pick Up详情中确认",
+      "_korean": "※픽업 대상 멤버의 능력치나 스킬은 뽑기의 픽업 상세에서 확인해 주시기 바랍니다"
+    },
+    {
+      "_id": "gacha_warning_limited_disappear_member_only",
+      "_japanese": "※「期間限定」のメンバーは本ガチャ終了後出現しなくなりますが、今後再登場する場合がございます。再登場の時期や提供割合については現在未定です",
+      "_english": "*\"Limited-Time\" Members obtainable from this Gacha will no longer be available after this Gacha ends, but they may return in the future. The schedule and drop rates for their return are currently undetermined.",
+      "_traditionalChinese": "※「期間限定」的團員在本次轉蛋期間結束後將不會再次出現，但未來仍有可能再次登場。再次登場的時間及出現機率目前尚未決定。",
+      "_simplifiedChinese": "※标有「期间限定」的成员将在本招募结束后停止出现，但今后可能再次登场。目前尚未确定再次登场的时间及出现概率",
+      "_korean": "※「기간 한정」 멤버는 본 뽑기 종료 후 더 이상 등장하지 않지만 추후 재등장할 수 있습니다. 재등장 시기와 출현 확률에 대해서는 현재 미정입니다"
+    },
+    {
+      "_id": "gacha_warning_before_enhance_member_only",
+      "_japanese": "※出現するメンバーは強化前の状態となります",
+      "_english": "*Members obtained from this Gacha will be in their unenhanced state.",
+      "_traditionalChinese": "※可獲得的團員皆為完成強化前的初始狀態。",
+      "_simplifiedChinese": "※通过招募获得的成员均为强化前的状态。",
+      "_korean": "※뽑기에 출현하는 멤버는 강화 전 상태입니다."
+    },
+    {
+      "_id": "gacha_warning_duplicate_member_only",
+      "_japanese": "※ガチャで出現するメンバーは同一のものが重複する場合があります",
+      "_english": "*You may obtain duplicates of the same Member from this Gacha.",
+      "_traditionalChinese": "※轉蛋可獲得的團員皆有可能出現重複的情況。",
+      "_simplifiedChinese": "※招募中可能重复获得相同成员。",
+      "_korean": "※뽑기에서 동일한 멤버가 중복 출현할 수 있습니다."
+    },
+    {
+      "_id": "gacha_warning_independent_lottery_member_only",
+      "_japanese": "※ガチャは1回ごとに提供割合に基づいた抽選が行われ、前回の結果は引き継がれません。そのため、提供割合1%のメンバーを100回中1回必ず獲得できるものではありません",
+      "_english": "*Each pull is conducted independently based on the drop rates, and previous results are not carried over. Therefore, you are not guaranteed to obtain a Member with a 1% drop rate in 100 pulls.",
+      "_traditionalChinese": "※每次抽取轉蛋都會根據出現機率進行抽選，不會繼承前一次的結果。因此不代表抽100次就必定能獲得1次出現機率為1%的團員。",
+      "_simplifiedChinese": "※每次招募均按提供概率独立抽取，前一次的结果不会影响下一次。因此，即使某位成员的提供概率为1%，抽取100次也不保证一定能获得1次。",
+      "_korean": "※뽑기는 매번 출현 확률에 따라 추첨이 진행되며, 이전 결과는 다음 뽑기에 반영되지 않습니다. 따라서 출현 확률이 1%인 멤버를 100회 중 반드시 1회 획득할 수 있는 것은 아닙니다."
+    },
+    {
+      "_id": "gacha_warning_limited_pickup_detail_snap_only",
+      "_japanese": "※ピックアップ対象スナップのパラメータやスキルはガチャのピックアップ詳細にてご確認ください",
+      "_english": "*For the Parameters and Skills of the Pickup Snapshots, please check the Gacha's Pickup details.",
+      "_traditionalChinese": "※Pick Up對象快照的能力值與技能，請在轉蛋頁面的Pick Up詳情中確認。",
+      "_simplifiedChinese": "※Pick Up留影的能力值和技能请于招募的Pick Up详情中确认",
+      "_korean": "※픽업 대상 스냅의 능력치나 스킬은 뽑기의 픽업 상세에서 확인해 주시기 바랍니다"
+    },
+    {
+      "_id": "gacha_warning_limited_disappear_snap_only",
+      "_japanese": "※「期間限定」のスナップは本ガチャ終了後出現しなくなりますが、今後再登場する場合がございます。再登場の時期や提供割合については現在未定です",
+      "_english": "*\"Limited-Time\" Snapshots obtainable from this Gacha will no longer be available after this Gacha ends, but they may return in the future. The schedule and drop rates for their return are currently undetermined.",
+      "_traditionalChinese": "※「期間限定」的快照在本次轉蛋期間結束後將不會再次出現，但未來仍有可能再次登場。再次登場的時間及出現機率目前尚未決定。",
+      "_simplifiedChinese": "※标有「期间限定」的留影将在本招募结束后停止出现，但今后可能再次登场。目前尚未确定再次登场的时间及出现概率",
+      "_korean": "※「기간 한정」 스냅은 본 뽑기 종료 후 더 이상 등장하지 않지만 추후 재등장할 수 있습니다. 재등장 시기와 출현 확률에 대해서는 현재 미정입니다"
+    },
+    {
+      "_id": "gacha_warning_before_enhance_snap_only",
+      "_japanese": "※出現するスナップは強化前の状態となります",
+      "_english": "*Snapshots obtained from this Gacha will be in their unenhanced state.",
+      "_traditionalChinese": "※可獲得的快照皆為完成強化前的初始狀態。",
+      "_simplifiedChinese": "※通过招募获得的留影均为强化前的状态。",
+      "_korean": "※뽑기에 출현하는 스냅은 강화 전 상태입니다."
+    },
+    {
+      "_id": "gacha_warning_duplicate_snap_only",
+      "_japanese": "※ガチャで出現するスナップは同一のものが重複する場合があります",
+      "_english": "*You may obtain duplicates of the same Snapshot from this Gacha.",
+      "_traditionalChinese": "※轉蛋可獲得的快照皆有可能出現重複的情況。",
+      "_simplifiedChinese": "※招募中可能重复获得相同留影。",
+      "_korean": "※뽑기에서 동일한 스냅이 중복 출현할 수 있습니다."
+    },
+    {
+      "_id": "gacha_warning_independent_lottery_snap_only",
+      "_japanese": "※ガチャは1回ごとに提供割合に基づいた抽選が行われ、前回の結果は引き継がれません。そのため、提供割合1%のスナップを100回中1回必ず獲得できるものではありません",
+      "_english": "*Each pull is conducted independently based on the drop rates, and previous results are not carried over. Therefore, you are not guaranteed to obtain a Snapshot with a 1% drop rate in 100 pulls.",
+      "_traditionalChinese": "※每次抽取轉蛋都會根據出現機率進行抽選，不會繼承前一次的結果。因此不代表抽100次就必定能獲得1次出現機率為1%的快照。",
+      "_simplifiedChinese": "※每次招募均按提供概率独立抽取，前一次的结果不会影响下一次。因此，即使某张留影的提供概率为1%，抽取100次也不保证一定能获得1次。",
+      "_korean": "※뽑기는 매번 출현 확률에 따라 추첨이 진행되며, 이전 결과는 다음 뽑기에 반영되지 않습니다. 따라서 출현 확률이 1%인 스냅을 100회 중 반드시 1회 획득할 수 있는 것은 아닙니다."
+    },
+    {
+      "_id": "gacha_warning_point_auto_convert_item",
+      "_japanese": "※ガチャptは、本ガチャのガチャpt交換所の終了後に、1ptごとに{GachaPointConvertItemName}×{GachaPointConvertRate}に自動変換されます",
+      "_english": "*After the Gacha Pt Exchange Shop for this Gacha closes, any remaining Gacha Pts will be automatically converted into {GachaPointConvertItemName} at a rate of {GachaPointConvertRate} per Pt.",
+      "_traditionalChinese": "※轉蛋pt在本轉蛋的轉蛋pt兌換所結束後，每1pt將會自動轉換為{GachaPointConvertItemName}×{GachaPointConvertRate}。",
+      "_simplifiedChinese": "※本招募的招募pt交换所结束后，招募pt将按每1pt兑换「{GachaPointConvertItemName}×{GachaPointConvertRate}」的比例自动转化",
+      "_korean": "※뽑기 pt는 해당 뽑기의 뽑기 pt 교환소 종료 후, 1 pt당 {GachaPointConvertItemName}×{GachaPointConvertRate}(으)로 자동 변환됩니다"
+    },
+    {
+      "_id": "gacha_warning_point_convert_item_present",
+      "_japanese": "※自動変換された{GachaPointConvertItemName}は、本ガチャのガチャpt交換所の終了後一定期間を経てプレゼントに送られます",
+      "_english": "*The automatically converted {GachaPointConvertItemName} will be sent to your Gift Box a certain period of time after the Gacha Pt Exchange Shop for this Gacha closes.",
+      "_traditionalChinese": "※自動轉換的{GachaPointConvertItemName}將會在本轉蛋的轉蛋pt兌換所結束後一段時間，發送至禮物盒。",
+      "_simplifiedChinese": "※自动转化的{GachaPointConvertItemName}将在本招募的招募pt交换所结束一段时间后发送至礼物盒",
+      "_korean": "※자동 변환된 {GachaPointConvertItemName}은(는) 해당 뽑기의 뽑기 pt 교환소 종료 후, 일정 기간이 지난 뒤 선물함으로 전송됩니다"
+    },
+    {
+      "_id": "gacha_warning_point_disappear",
+      "_japanese": "※ガチャptは、本ガチャのガチャpt交換所の終了後に自動的に消失しますので、ご注意ください",
+      "_english": "*Please note that Gacha Pts will automatically expire after the Gacha Pt Exchange Shop for this Gacha closes.",
+      "_traditionalChinese": "※轉蛋pt在本轉蛋的轉蛋pt兌換所結束後將會自動消失，請特別注意。",
+      "_simplifiedChinese": "※本招募的招募pt交换所结束后，招募pt将自动消失，敬请留意",
+      "_korean": "※뽑기 pt는 해당 뽑기의 뽑기 pt 교환소 종료 후, 자동으로 소멸하므로 주의해 주시기 바랍니다"
+    },
+    {
       "_id": "Gekisou_Skill_Description_1",
       "_japanese": "{0 < effects[0].time ? \"JUST撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"JUST撃奏中\"}</color>\nJUST数獲得量{effects[0].value}UP",
       "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} <color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}</color>,\nJUST Count gain +{effects[0].value}",
@@ -38938,123 +40338,123 @@
     },
     {
       "_id": "Gekisou_Support_Description_1",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_2",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_3",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_4",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_5",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_6",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_7",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_8",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_9",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_10",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_11",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_12",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_13",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_14",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_15",
-      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア<color=#66FF8C>{effects[0].value/100:F0}%ずつ</color>UP（最大<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア<color=#66FF8C>{effects[1].value/100:F0}%ずつ</color>UP",
-      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
-      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
-      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_japanese": "JUST撃奏中、JUST判定{effects[0].cCon.values[0]}回ごとに\nスコア{effects[0].value/100:F0}%ずつUP（最大<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nスコア{effects[1].value/100:F0}%ずつUP",
+      "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HITs,\nScore+{effects[0].value/100:F2}% each time (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nScore +{effects[1].value/100:F2}% each time.",
+      "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\n分數{effects[0].value/100:F0}%UP（最多<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\n分數則{effects[1].value/100:F0}%UP",
+      "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\n得分提升{effects[0].value/100:F0}%（最高<color=#66FF8C>{effects[0].maxValue/100:F1}%</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n则每次得分提升{effects[1].value/100:F0}%",
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\n스코어 {effects[0].value/100:F0}%씩 UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\n스코어 {effects[1].value/100:F0}%씩 UP"
     },
     {
       "_id": "Gekisou_Support_Description_16",
@@ -41019,7 +42419,7 @@
     {
       "_id": "ui_hc_history_present_detail_29",
       "_japanese": "アワーノーツパス初回特典",
-      "_english": "Our Notes Pass first-time bonus",
+      "_english": "Our Notes Pass First-Time Bonus",
       "_traditionalChinese": "交織的樂章通行證的首次購買特典",
       "_simplifiedChinese": "交织的乐章通行证首次购买特典",
       "_korean": "아워 노트 패스 첫 회 혜택"
@@ -41079,6 +42479,54 @@
       "_traditionalChinese": "商店購買的贈品",
       "_simplifiedChinese": "商店购买的赠品",
       "_korean": "상점 구매 보너스"
+    },
+    {
+      "_id": "ui_hc_history_present_detail_38",
+      "_japanese": "運営からのお詫び",
+      "_english": "Apology from the Operations Team",
+      "_traditionalChinese": "營運團隊的補償",
+      "_simplifiedChinese": "来自运营的致歉",
+      "_korean": "운영팀 사과 보상"
+    },
+    {
+      "_id": "ui_hc_history_present_detail_39",
+      "_japanese": "シリアルコード特典",
+      "_english": "Serial Code Bonus",
+      "_traditionalChinese": "序號特典",
+      "_simplifiedChinese": "兑换码特典",
+      "_korean": "교환 코드 혜택"
+    },
+    {
+      "_id": "ui_hc_history_present_detail_40",
+      "_japanese": "メンテナンス協力のお礼",
+      "_english": "Thanks for Your Cooperation During Maintenance",
+      "_traditionalChinese": "協助維護的禮物",
+      "_simplifiedChinese": "维护补偿",
+      "_korean": "점검 협조 감사 보상"
+    },
+    {
+      "_id": "ui_hc_history_present_detail_41",
+      "_japanese": "アップデート協力のお礼",
+      "_english": "Thanks for Your Cooperation During the Update",
+      "_traditionalChinese": "協助更新的禮物",
+      "_simplifiedChinese": "更新补偿",
+      "_korean": "업데이트 협조 감사 보상"
+    },
+    {
+      "_id": "ui_hc_history_present_detail_42",
+      "_japanese": "緊急メンテナンスのお詫び",
+      "_english": "Apology for Emergency Maintenance",
+      "_traditionalChinese": "緊急維護的補償",
+      "_simplifiedChinese": "紧急维护致歉",
+      "_korean": "긴급 점검 사과 보상"
+    },
+    {
+      "_id": "ui_hc_history_present_detail_43",
+      "_japanese": "メンテナンス延長のお詫び",
+      "_english": "Apology for Extended Maintenance",
+      "_traditionalChinese": "維護時間延長的補償",
+      "_simplifiedChinese": "维护时间延长致歉",
+      "_korean": "점검 연장 사과 보상"
     },
     {
       "_id": "Help_Category_Title_10",
@@ -41594,11 +43042,11 @@
     },
     {
       "_id": "Help_SubCategory_Description_100002",
-      "_japanese": "リズムゲームをプレイせずにクリア報酬を獲得できる機能です。\nフリーライブでのみ使用でき、1日の使用回数には上限があります。\nスキップ機能を使用した際は、スコアランク「C」相当の報酬を獲得できます。\n\n>>>スキップ使用時の注意点\n・楽曲のクリア扱いにはなりません。\n・ハイスコアなどの記録は更新されません。",
-      "_english": "This feature lets you earn Clear rewards without playing the rhythm game.\nIt can only be used in Free LIVE, and has a daily use limit.\nWhen using Skip, you can earn rewards equivalent to Socre Rank \"C.\"\n\n>>>Notes on Using Skip\n・Songs will not count as Cleared.\n・Records such as High Scores will not be updated.",
-      "_traditionalChinese": "此功能可在不遊玩節奏遊戲的情況下獲得通關報酬。\n僅可用於自由演出，且每日使用次數有限。\n使用跳過功能時，可獲得相當於分數等級「B」的報酬。\n\n>>>使用跳過時的注意事項\n·不會視為通關樂曲\n·不會更新最高分數等紀錄",
-      "_simplifiedChinese": "无需游玩音乐游戏即可获得完成奖励的功能。\n仅限在自由演出中使用，且每天的使用次数有上限。\n使用跳过功能时，可以获得相当于得分评级「C」的奖励。\n\n>>>使用跳过功能时的注意事项\n・不会视为已完成该乐曲。\n・不会更新最高分等记录。",
-      "_korean": "리듬 게임을 플레이하지 않고 클리어 보상을 획득할 수 있는 기능입니다.\n프리 라이브에서만 사용 가능하며, 1일 사용 횟수에 제한이 있습니다.\n스킵 기능을 사용했을 때는 스코어 랭크 「C」 상당의 보상을 획득합니다.\n\n>>>스킵 사용 시 주의 사항\n·곡 클리어로 인정되지 않습니다.\n·하이 스코어 등 기록은 업데이트되지 않습니다."
+      "_japanese": "リズムゲームをプレイせずにクリア報酬を獲得できる機能です。\n\nフリーライブ、チャレンジライブで使用でき、1日の使用回数には上限があります。\nスキップ機能を使用した際は、獲得した最高スコアランク相当の報酬を獲得できます。\n\n>>>スキップ使用時の注意点\n・楽曲のクリア扱いにはなりません。\n・ハイスコアなどの記録は更新されません。\n・チャレンジライブの場合、チャレンジライブで獲得したスコアランクで判定されます。\n・チャレンジライブの最高スコアランクはイベントごとにリセットされ、引き継がれません。\n・どちらのライブも共通して、未プレイの場合は「Cランク」相当の報酬になります。",
+      "_english": "This feature lets you earn Clear Rewards without playing the rhythm game.\n\nIt can be used in Free LIVE and Challenge LIVE, with a daily limit on the number of uses.\nWhen you use the Skip feature, you receive rewards based on the highest Score Rank you have achieved.\n\n>>>Notes on Using Skip\n- Skipping a song does not count as clearing it.\n- Records such as High Scores will not be updated.\n- For Challenge LIVE, rewards are based on the Score Rank achieved in Challenge LIVE.\n- The highest Score Rank for Challenge LIVE resets with each event and does not carry over.\n- In either LIVE mode, if you have not played the song, you receive rewards equivalent to Rank C.",
+      "_traditionalChinese": "此功能可在不遊玩節奏遊戲的情況下獲得通關報酬。\n\n可用於自由演出與挑戰演出，且每日使用次數有限。\n使用跳過功能時，可獲得相當於已達到之最高分數等級的報酬。\n\n>>>使用跳過時的注意事項\n·不會視為通關樂曲\n·不會更新最高分數等紀錄\n·若在挑戰演出時使用，將判定為在挑戰演出中獲得的分數等級。\n·挑戰演出的最高分數等級將於每次活動開始時進行重置，不會繼承至下次的活動。\n·無論哪種演出模式，若在未遊玩的情況下使用跳過，將會獲得相當於「C等級」的報酬。",
+      "_simplifiedChinese": "无需游玩音乐游戏即可获得完成奖励的功能。\n\n可在自由演出、挑战演出中使用，每天的使用次数设有上限。\n使用跳过功能时，可获得与已达到的最高得分评级相对应的奖励。\n\n>>>使用跳过功能时的注意事项\n・不会计为完成乐曲。\n・最高分等记录不会更新。\n・在挑战演出中，以在挑战演出中达到的得分评级为准。\n・挑战演出的最高得分评级会在每次活动时重置，无法保留至下一次活动。\n・两种演出均适用：若尚未游玩过该乐曲，将获得相当于「C级」的奖励。",
+      "_korean": "리듬 게임을 플레이하지 않고 클리어 보상을 획득할 수 있는 기능입니다.\n\n프리 라이브와 챌린지 라이브에서 사용할 수 있으며, 1일 사용 횟수에는 제한이 있습니다.\n스킵 기능을 사용하면 달성한 최고 스코어 랭크에 해당하는 보상을 획득할 수 있습니다.\n\n>>>스킵 사용 시 주의 사항\n・곡을 클리어한 것으로 처리되지 않습니다.\n・하이 스코어 등의 기록은 갱신되지 않습니다.\n・챌린지 라이브의 경우, 챌린지 라이브에서 달성한 스코어 랭크를 기준으로 보상이 결정됩니다.\n・챌린지 라이브의 최고 스코어 랭크는 이벤트마다 초기화되며, 다음 이벤트로 이월되지 않습니다.\n・두 라이브 모두 해당 곡을 플레이한 적이 없는 경우 「C 랭크」에 해당하는 보상이 지급됩니다."
     },
     {
       "_id": "Help_SubCategory_Description_110001",
@@ -44177,6 +45625,14 @@
       "_korean": "이벤트 교환소에서 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_3000004",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "Item used in the Event Exchange Shop",
+      "_traditionalChinese": "活動兌換所使用的道具",
+      "_simplifiedChinese": "活动交换所使用的道具",
+      "_korean": "이벤트 교환소에서 사용하는 아이템"
+    },
+    {
       "_id": "Item_Name_3000001",
       "_japanese": "夢限大みゅーたいぷ バンド記念日ピック",
       "_english": "Mugendai MewType Band Anniversary Pick",
@@ -44193,6 +45649,14 @@
       "_korean": "토모리 생일 기념 피크"
     },
     {
+      "_id": "Item_Name_3000004",
+      "_japanese": "イベントバッジ(紺碧)",
+      "_english": "Event Badge (Azure)",
+      "_traditionalChinese": "活動徽章（紺碧）",
+      "_simplifiedChinese": "活动徽章（绀碧）",
+      "_korean": "이벤트 배지 (블루)"
+    },
+    {
       "_id": "Item_Phonetic_Name_3000001",
       "_japanese": "むげんだいみゅーたいぷ ばんどきねんびぴっく",
       "_english": "Mugendai MewType Band Anniversary Pick",
@@ -44207,6 +45671,14 @@
       "_traditionalChinese": "燈生日撥片",
       "_simplifiedChinese": "灯生日拨片",
       "_korean": "토모리 생일 기념 피크"
+    },
+    {
+      "_id": "Item_Phonetic_Name_3000004",
+      "_japanese": "イベントバッジ(紺碧)",
+      "_english": "Event Badge (Azure)",
+      "_traditionalChinese": "活動徽章（紺碧）",
+      "_simplifiedChinese": "活动徽章（绀碧）",
+      "_korean": "이벤트 배지 (블루)"
     },
     {
       "_id": "Gacha_Ticket_Description_2000001",
@@ -44297,6 +45769,22 @@
       "_korean": "격주 아레나 Season 1 SSR 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
     {
+      "_id": "Gacha_Ticket_Description_2000012",
+      "_japanese": "撃奏アリーナ Season2 SR以上確定チケットガチャが引けるチケット",
+      "_english": "A ticket for the GEKISO ARENA Season 2 SR+ Guaranteed Ticket Gacha.",
+      "_traditionalChinese": "可抽取「激奏舞台 Season2 SR以上保證券轉蛋」的轉蛋券。",
+      "_simplifiedChinese": "可用于激奏舞台 Season2 SR及以上必得券招募的招募券",
+      "_korean": "격주 아레나 Season 2 SR 이상 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
+    },
+    {
+      "_id": "Gacha_Ticket_Description_2000013",
+      "_japanese": "撃奏アリーナ Season2 SSR確定チケットガチャが引けるチケット",
+      "_english": "A ticket for the GEKISO ARENA Season 2 SSR Guaranteed Ticket Gacha.",
+      "_traditionalChinese": "可抽取「激奏舞台 Season2 SSR保證券轉蛋」的轉蛋券。",
+      "_simplifiedChinese": "可用于激奏舞台 Season2 SSR必得券招募的招募券",
+      "_korean": "격주 아레나 Season 2 SSR 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
+    },
+    {
       "_id": "Gacha_Ticket_Name_2000001",
       "_japanese": "スターガチャチケット",
       "_english": "Star Gacha Ticket",
@@ -44385,6 +45873,22 @@
       "_korean": "격주 아레나 Season1 SSR 확정 뽑기 티켓"
     },
     {
+      "_id": "Gacha_Ticket_Name_2000012",
+      "_japanese": "撃奏アリーナ Season2 SR以上確定ガチャチケット",
+      "_english": "GEKISO ARENA Season 2 SR+ Guaranteed Gacha Ticket",
+      "_traditionalChinese": "激奏舞台 Season2 保證SR以上轉蛋券",
+      "_simplifiedChinese": "激奏舞台 Season2 SR及以上必得招募券",
+      "_korean": "격주 아레나 Season 2 SR 이상 확정 뽑기 티켓"
+    },
+    {
+      "_id": "Gacha_Ticket_Name_2000013",
+      "_japanese": "撃奏アリーナ Season2 SSR確定ガチャチケット",
+      "_english": "GEKISO ARENA Season 2 SSR Guaranteed Gacha Ticket",
+      "_traditionalChinese": "激奏舞台 Season2 保證SSR轉蛋券",
+      "_simplifiedChinese": "激奏舞台 Season2 SSR必得招募券",
+      "_korean": "격주 아레나 Season 2 SSR 확정 뽑기 티켓"
+    },
+    {
       "_id": "Gacha_Ticket_Phonetic_Name_2000001",
       "_japanese": "スターガチャチケット",
       "_english": "Star Gacha Ticket",
@@ -44471,6 +45975,22 @@
       "_traditionalChinese": "激奏舞台 Season1 保證SSR轉蛋券",
       "_simplifiedChinese": "激奏舞台第1赛季SSR必得招募券",
       "_korean": "격주 아레나 Season 1 SSR 확정 뽑기 티켓"
+    },
+    {
+      "_id": "Gacha_Ticket_Phonetic_Name_2000012",
+      "_japanese": "げきそうアリーナ しーずん2 SRいじょうかくていガチャチケット",
+      "_english": "GEKISO ARENA Season 2 SR+ Guaranteed Gacha Ticket",
+      "_traditionalChinese": "激奏舞台 Season2 保證SR以上轉蛋券",
+      "_simplifiedChinese": "激奏舞台第2赛季SR及以上必得招募券",
+      "_korean": "격주 아레나 Season 2 SR 이상 확정 뽑기 티켓"
+    },
+    {
+      "_id": "Gacha_Ticket_Phonetic_Name_2000013",
+      "_japanese": "げきそうアリーナ しーずん2 SSRかくていガチャチケット",
+      "_english": "GEKISO ARENA Season 2 SSR Guaranteed Gacha Ticket",
+      "_traditionalChinese": "激奏舞台 Season2 保證SSR轉蛋券",
+      "_simplifiedChinese": "激奏舞台第2赛季SSR必得招募券",
+      "_korean": "격주 아레나 Season 2 SSR 확정 뽑기 티켓"
     },
     {
       "_id": "Item_Description_10000001",
@@ -45068,7 +46588,7 @@
       "_id": "Item_Description_10000075",
       "_japanese": "[Happy Birthday 26-27]千石 ユノの覚醒に使用するアイテム",
       "_english": "An item used to Awaken Yuno Sengoku \"Happy Birthday 26-27\"",
-      "_traditionalChinese": "[HAPPY BIRTHDAY 26-27]千石由乃覺醒時使用的道具",
+      "_traditionalChinese": "[Happy Birthday 26-27]千石由乃覺醒時使用的道具",
       "_simplifiedChinese": "用于[Happy Birthday 26-27]千石由乃觉醒的道具",
       "_korean": "[Happy Birthday 26-27]센고쿠 유노 각성에 사용하는 아이템"
     },
@@ -45127,6 +46647,30 @@
       "_traditionalChinese": "[Happy Birthday 26-27]高松燈覺醒時使用的道具",
       "_simplifiedChinese": "用于[Happy Birthday 26-27]高松灯觉醒的道具",
       "_korean": "[Happy Birthday 26-27]타카마츠 토모리 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000083",
+      "_japanese": "[終わりをくれる光]和泉 朋花の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Houka Izumi \"The Light That Grants the End\"",
+      "_traditionalChinese": "[迎來終結的光芒]和泉朋花覺醒時使用的道具",
+      "_simplifiedChinese": "用于[赐我终结之光]和泉朋花觉醒的道具",
+      "_korean": "[끝을 선사하는 빛]이즈미 호우카 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000084",
+      "_japanese": "[願いのため、光となる]汐見 蛍の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Hotaru Shiomi \"I'll Be the Light You Wish For\"",
+      "_traditionalChinese": "[為償所願，化身為光]汐見螢覺醒時使用的道具",
+      "_simplifiedChinese": "用于[为偿所愿，化身为光]汐见萤觉醒的道具",
+      "_korean": "[소원을 위해, 빛이 되다]시오미 호타루 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000085",
+      "_japanese": "[瞳の奥に抱えるもの]浜崎 まほろの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Mahoro Hamasaki \"What Lies Behind Those Eyes\"",
+      "_traditionalChinese": "[藏於眼眸深處]濱崎茉幌覺醒時使用的道具",
+      "_simplifiedChinese": "用于[藏于眼眸深处之物]滨崎茉幌觉醒的道具",
+      "_korean": "[눈동자 깊이 간직한 것]하마사키 마호로 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Name_10000001",
@@ -45785,6 +47329,30 @@
       "_korean": "멤버 조각 ([Happy Birthday 26-27] 타카마츠 토모리)"
     },
     {
+      "_id": "Item_Name_10000083",
+      "_japanese": "メンバーピース([終わりをくれる光]和泉 朋花)",
+      "_english": "Member Piece (Houka Izumi \"The Light That Grants the End\")",
+      "_traditionalChinese": "團員星輝（[迎來終結的光芒]和泉朋花）",
+      "_simplifiedChinese": "成员星辉（[赐我终结之光]和泉朋花）",
+      "_korean": "멤버 조각 ([끝을 선사하는 빛] 이즈미 호우카)"
+    },
+    {
+      "_id": "Item_Name_10000084",
+      "_japanese": "メンバーピース([願いのため、光となる]汐見 蛍)",
+      "_english": "Member Pieces (Hotaru Shiomi \"I'll Be the Light You Wish For\")",
+      "_traditionalChinese": "團員星輝（[為償所願，化身為光]汐見螢）",
+      "_simplifiedChinese": "成员星辉（[为偿所愿，化身为光]汐见萤）",
+      "_korean": "멤버 조각 ([소원을 위해, 빛이 되다] 시오미 호타루)"
+    },
+    {
+      "_id": "Item_Name_10000085",
+      "_japanese": "メンバーピース([瞳の奥に抱えるもの]浜崎 まほろ)",
+      "_english": "Member Piece (Mahoro Hamasaki \"What Lies Behind Those Eyes\")",
+      "_traditionalChinese": "團員星輝（[藏於眼眸深處]濱崎茉幌）",
+      "_simplifiedChinese": "成员星辉（[藏于眼眸深处之物]滨崎茉幌）",
+      "_korean": "멤버 조각 ([눈동자 깊이 간직한 것] 하마사키 마호로)"
+    },
+    {
       "_id": "Item_Phonetic_Name_10000001",
       "_japanese": "めんばーぴーす10000001",
       "_english": "Member Piece 10000001",
@@ -46439,6 +48007,30 @@
       "_traditionalChinese": "團員星輝10000082",
       "_simplifiedChinese": "成员星辉10000082",
       "_korean": "멤버 조각 10000082"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000083",
+      "_japanese": "めんばーぴーす10000083",
+      "_english": "Member Piece 10000083",
+      "_traditionalChinese": "團員星輝10000083",
+      "_simplifiedChinese": "成员星辉10000083",
+      "_korean": "멤버 조각 10000083"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000084",
+      "_japanese": "めんばーぴーす10000084",
+      "_english": "Member Piece 10000084",
+      "_traditionalChinese": "團員星輝10000084",
+      "_simplifiedChinese": "成员星辉10000084",
+      "_korean": "멤버 조각 10000084"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000085",
+      "_japanese": "めんばーぴーす10000085",
+      "_english": "Member Piece 10000085",
+      "_traditionalChinese": "團員星輝10000085",
+      "_simplifiedChinese": "成员星辉10000085",
+      "_korean": "멤버 조각 10000085"
     },
     {
       "_id": "Item_Name_1",
@@ -48037,7 +49629,7 @@
       "_japanese": "MyGO!!!!!メンバーのテクニック、ビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紅赤のメンバーはテクニック、ビジュアル{effects[2].value/100:F1}%UP",
       "_english": "MyGO!!!!! members' Technique and Visual <color=#66FF8C>{effects[0].value/100:F1}%UP</color>. Ruby members gain an additional {effects[2].value/100:F1}% Technique and Visual UP",
       "_traditionalChinese": "MyGO!!!!!團員的技巧值、形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且緋紅團員的技巧值、形象值再提升{effects[2].value/100:F1}%",
-      "_simplifiedChinese": "MyGO!!!!!成员的技巧值、形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且绯红成员的技巧值、形象值再提升{effects[2].value/100:F1}%",
+      "_simplifiedChinese": "MyGO!!!!!成员的技巧值、形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color> 并且绯红成员的技巧值、形象值再提升{effects[2].value/100:F1}%",
       "_korean": "MyGO!!!!! 멤버의 테크닉, 비주얼 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 또한 레드 멤버는 테크닉, 비주얼 {effects[2].value/100:F1}% 추가 UP"
     },
     {
@@ -48045,16 +49637,32 @@
       "_japanese": "山吹のメンバーはパフォーマンス<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに夢限大みゅーたいぷメンバーのパフォーマンス{effects[1].value/100:F1}%UP",
       "_english": "Amber Type Members' Performance <color=#66FF8C>increases by {effects[0].value/100:F1}%</color>. Mugendai MewType Members' Performance also increases by {effects[1].value/100:F1}%.",
       "_traditionalChinese": "琉金屬性團員的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，此外夢限大MewType團員的表演值提升{effects[1].value/100:F1}%。",
-      "_simplifiedChinese": "琉金属性成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，此外梦限大MewType成员的表演值提升{effects[1].value/100:F1}%。",
+      "_simplifiedChinese": "琉金属性成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且梦限大MewType成员的表演值提升{effects[1].value/100:F1}%。",
       "_korean": "옐로우 타입 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 추가로 무겐다이 뮤타입 멤버의 퍼포먼스 {effects[1].value/100:F1}%UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_68",
       "_japanese": "夢限大みゅーたいぷメンバーの全パラメータ<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【COMBO】のメンバーは全パラメータ{effects[1].value/100:F1}%UP",
-      "_english": "Mugendai MewType Member's all parameters <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the parameter of Member with COMBO type GEKISO Skill +{effects[1].value/100:F1}%",
+      "_english": "Mugendai MewType Member's all parameters <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and all parameters of Member with COMBO type GEKISO Skill +{effects[1].value/100:F1}%",
       "_traditionalChinese": "夢限大MewType團員的所有能力值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【COMBO】團員的所有能力值{effects[1].value/100:F1}%UP",
       "_simplifiedChinese": "梦限大MewType成员的全部能力值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【COMBO】激奏技能的成员全部能力值提升{effects[1].value/100:F1}%",
       "_korean": "무겐다이 뮤타입 멤버의 전체 능력치 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [COMBO] 멤버는 전체 능력치 {effects[1].value/100:F1}% UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_69",
+      "_japanese": "紺碧メンバーはビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにmillsageメンバーのビジュアル{effects[1].value/100:F1}%UP",
+      "_english": "Azure Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and millsage Member's visual +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "紺碧團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且millsage團員的形象值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "绀碧属性成员的形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且millsage成员的形象值提升{effects[1].value/100:F1}%。",
+      "_korean": "블루 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 millsage 멤버의 비주얼 {effects[1].value/100:F1}% UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_70",
+      "_japanese": "millsageメンバーの全パラメータ<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【JUST】のメンバーは全パラメータ{effects[1].value/100:F1}%UP",
+      "_english": "millsage Member's all parameters <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and all parameters of Member with JUST type GEKISO Skill +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "millsage團員的所有能力值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【JUST】團員的所有能力值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "millsage成员的全部能力值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【JUST】激奏技能的成员全部能力值提升{effects[1].value/100:F1}%",
+      "_korean": "millsage 멤버의 전체 능력치 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [JUST] 멤버는 전체 능력치 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_90001",
@@ -49878,7 +51486,7 @@
       "_english": "MyGO!!!!! & Ruby Technique, Visual UP",
       "_traditionalChinese": "MyGO!!!!!&緋紅技巧值、形象值UP",
       "_simplifiedChinese": "MyGO!!!!!&绯红技巧值、形象值UP",
-      "_korean": "MyGO!!!!!&레드 테크닉, 비주얼 UP"
+      "_korean": "MyGO!!!!! & 레드 테크닉, 비주얼 UP"
     },
     {
       "_id": "Leader_Skill_Name_67",
@@ -49894,7 +51502,23 @@
       "_english": "Mugendai MewType & COMBO Type GEKISO Skill & All Parameters UP",
       "_traditionalChinese": "夢限大MewType＆激奏技能【COMBO】＆所有能力值UP",
       "_simplifiedChinese": "梦限大MewType&激奏技能【COMBO】&全部能力值UP",
-      "_korean": "무겐다이 뮤타입 & 격주 스킬 [COMBO] 전체 능력치 UP"
+      "_korean": "무겐다이 뮤타입 & 격주 스킬 [COMBO] & 전체 능력치 UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_69",
+      "_japanese": "millsage&紺碧ビジュアルUP",
+      "_english": "millsage & Azure Visual UP",
+      "_traditionalChinese": "millsage＆紺碧形象值UP",
+      "_simplifiedChinese": "millsage&绀碧形象值UP",
+      "_korean": "millsage & 블루 비주얼 UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_70",
+      "_japanese": "millsage&撃奏スキル【JUST】&全パラメータUP",
+      "_english": "millsage & JUST Type GEKISO Skill & All Parameters UP",
+      "_traditionalChinese": "millsage＆激奏技能【JUST】&所有能力值UP",
+      "_simplifiedChinese": "millsage&激奏技能【JUST】&全部能力值UP",
+      "_korean": "millsage & 격주 스킬 [JUST] & 전체 능력치 UP"
     },
     {
       "_id": "Leader_Skill_Name_90001",
@@ -57737,6 +59361,14 @@
       "_korean": "스페셜 곡 'Abracadabra' 추가 기념! 로그인 보상!"
     },
     {
+      "_id": "LoginBonus_Name_1000000002",
+      "_japanese": "",
+      "_english": "Our Notes × AGF2026 Special Login Bonus ",
+      "_traditionalChinese": "AGF2026出席紀念 特別登入獎勵",
+      "_simplifiedChinese": "AGF2026出演纪念 特别登录奖励",
+      "_korean": "AGF 2026 출연 기념 특별 로그인 보상"
+    },
+    {
       "_id": "Lyricist_Name_100001",
       "_japanese": "藤原優樹(SUPA LOVE)",
       "_english": "Masaki Fujiwara (SUPA LOVE)",
@@ -58249,6 +59881,14 @@
       "_korean": "누유리"
     },
     {
+      "_id": "Lyricist_Name_100077",
+      "_japanese": "Eve",
+      "_english": "Eve",
+      "_traditionalChinese": "Eve",
+      "_simplifiedChinese": "Eve",
+      "_korean": "Eve"
+    },
+    {
       "_id": "Lyricist_Name_100080",
       "_japanese": "藤井健太郎",
       "_english": "藤井健太郎",
@@ -58375,6 +60015,14 @@
       "_traditionalChinese": "sabio",
       "_simplifiedChinese": "sabio",
       "_korean": "sabio"
+    },
+    {
+      "_id": "Lyricist_Name_100099",
+      "_japanese": "藤原優樹(SUPA LOVE)",
+      "_english": "Masaki Fujiwara (SUPA LOVE)",
+      "_traditionalChinese": "藤原優樹(SUPA LOVE)",
+      "_simplifiedChinese": "藤原優樹(SUPA LOVE)",
+      "_korean": "후지와라 마사키(SUPA LOVE)"
     },
     {
       "_id": "Lyricist_Name_100102",
@@ -58511,6 +60159,14 @@
       "_traditionalChinese": "藤原優樹(SUPA LOVE)",
       "_simplifiedChinese": "藤原優樹(SUPA LOVE)",
       "_korean": "후지와라 마사키(SUPA LOVE)"
+    },
+    {
+      "_id": "Lyricist_Name_100119",
+      "_japanese": "藤井健太郎",
+      "_english": "藤井健太郎",
+      "_traditionalChinese": "藤井健太郎",
+      "_simplifiedChinese": "藤井健太郎",
+      "_korean": "藤井健太郎"
     },
     {
       "_id": "MemberGachaVoice_51",
@@ -58719,6 +60375,22 @@
       "_traditionalChinese": "我會，好好珍惜的……",
       "_simplifiedChinese": "我会，好好珍惜的……",
       "_korean": "소중히 간직할게......"
+    },
+    {
+      "_id": "MemberGachaVoice_83",
+      "_japanese": "嗚呼、私だけの救世主……♡",
+      "_english": "Ah... my savior, mine alone...♡",
+      "_traditionalChinese": "啊啊～只屬於我的救世主……♡",
+      "_simplifiedChinese": "啊……只属于我的救世主……♡",
+      "_korean": "아아~ 나만의 구세주......♡"
+    },
+    {
+      "_id": "MemberGachaVoice_84",
+      "_japanese": "光を……届けなきゃ",
+      "_english": "I have to... bring the light.",
+      "_traditionalChinese": "得讓光……照耀到",
+      "_simplifiedChinese": "得让光……照耀到",
+      "_korean": "빛을...... 전해야 해"
     },
     {
       "_id": "MemberSubtitle_1",
@@ -59375,6 +61047,30 @@
       "_traditionalChinese": "Happy Birthday 26-27",
       "_simplifiedChinese": "Happy Birthday 26-27",
       "_korean": "Happy Birthday 26-27"
+    },
+    {
+      "_id": "MemberSubtitle_83",
+      "_japanese": "終わりをくれる光",
+      "_english": "The Light That Grants the End",
+      "_traditionalChinese": "迎來終結的光芒",
+      "_simplifiedChinese": "赐我终结之光",
+      "_korean": "끝을 선사하는 빛"
+    },
+    {
+      "_id": "MemberSubtitle_84",
+      "_japanese": "願いのため、光となる",
+      "_english": "I'll Be the Light You Wish For",
+      "_traditionalChinese": "為償所願，化身為光",
+      "_simplifiedChinese": "为偿所愿，化身为光",
+      "_korean": "소원을 위해, 빛이 되다"
+    },
+    {
+      "_id": "MemberSubtitle_85",
+      "_japanese": "瞳の奥に抱えるもの",
+      "_english": "What Lies Behind Those Eyes",
+      "_traditionalChinese": "藏於眼眸深處",
+      "_simplifiedChinese": "藏于眼眸深处之物",
+      "_korean": "눈동자 깊이 간직한 것"
     },
     {
       "_id": "Mission_Description_Login1",
@@ -61601,6 +63297,14 @@
       "_korean": "로워"
     },
     {
+      "_id": "Music_Tilte_100077",
+      "_japanese": "ドラマツルギー",
+      "_english": "Dramaturgy",
+      "_traditionalChinese": "ドラマツルギー",
+      "_simplifiedChinese": "ドラマツルギー",
+      "_korean": "드라마투르기"
+    },
+    {
       "_id": "Music_Tilte_100080",
       "_japanese": "ホーミー・タイッ！！",
       "_english": "Homie's Tie!!",
@@ -61727,6 +63431,14 @@
       "_traditionalChinese": "愛是衝動",
       "_simplifiedChinese": "爱是冲动",
       "_korean": "사랑은 충동"
+    },
+    {
+      "_id": "Music_Tilte_100099",
+      "_japanese": "回層浮",
+      "_english": "Kaisou",
+      "_traditionalChinese": "回層浮",
+      "_simplifiedChinese": "回层浮",
+      "_korean": "회상"
     },
     {
       "_id": "Music_Tilte_100102",
@@ -61863,6 +63575,14 @@
       "_traditionalChinese": "世點彩",
       "_simplifiedChinese": "世点彩",
       "_korean": "세피아"
+    },
+    {
+      "_id": "Music_Tilte_100119",
+      "_japanese": "反照は背理",
+      "_english": "Reflection Implies a Contradiction",
+      "_traditionalChinese": "反照は背理",
+      "_simplifiedChinese": "反照は背理",
+      "_korean": "Reflection Implies a Contradiction"
     },
     {
       "_id": "Music_Category_1",
@@ -62425,6 +64145,14 @@
       "_korean": "로워"
     },
     {
+      "_id": "Music_Phonetic_Tilte_100077",
+      "_japanese": "どらまつるぎー",
+      "_english": "Dramaturgy",
+      "_traditionalChinese": "どらまつるぎー",
+      "_simplifiedChinese": "ドラマツルギー",
+      "_korean": "드라마투르기"
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100080",
       "_japanese": "ほーみーたいっ",
       "_english": "Homie's Tie!!",
@@ -62551,6 +64279,14 @@
       "_traditionalChinese": "あいはしょうどう",
       "_simplifiedChinese": "爱是冲动",
       "_korean": "사랑은 충동"
+    },
+    {
+      "_id": "Music_Phonetic_Tilte_100099",
+      "_japanese": "かいそう",
+      "_english": "Kaisou",
+      "_traditionalChinese": "かいそう",
+      "_simplifiedChinese": "回层浮",
+      "_korean": "회상"
     },
     {
       "_id": "Music_Phonetic_Tilte_100102",
@@ -62687,6 +64423,14 @@
       "_traditionalChinese": "せぴあ",
       "_simplifiedChinese": "せぴあ",
       "_korean": "세피아"
+    },
+    {
+      "_id": "Music_Phonetic_Tilte_100119",
+      "_japanese": "はんしょうははいり",
+      "_english": "Reflection Implies a Contradiction",
+      "_traditionalChinese": "はんしょうははいり",
+      "_simplifiedChinese": "反照は背理",
+      "_korean": "Reflection Implies a Contradiction"
     },
     {
       "_id": "Music_Ruby_Tilte_100001",
@@ -63201,6 +64945,14 @@
       "_korean": "로워"
     },
     {
+      "_id": "Music_Ruby_Tilte_100077",
+      "_japanese": "ドラマツルギー",
+      "_english": "Dramaturgy",
+      "_traditionalChinese": "ドラマツルギー",
+      "_simplifiedChinese": "ドラマツルギー",
+      "_korean": "드라마투르기"
+    },
+    {
       "_id": "Music_Ruby_Tilte_100080",
       "_japanese": "ホーミー・タイッ！！",
       "_english": "Homie's Tie!!",
@@ -63327,6 +65079,14 @@
       "_traditionalChinese": "愛是衝動",
       "_simplifiedChinese": "爱是冲动",
       "_korean": "사랑은 충동"
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100099",
+      "_japanese": "<r=かいそう>回層浮</r>",
+      "_english": "<r=かいそう>Kaisou</r>",
+      "_traditionalChinese": "<r=かいそう>回層浮</r>",
+      "_simplifiedChinese": "<r=かいそう>回层浮</r>",
+      "_korean": "<r=회상>회상</r>"
     },
     {
       "_id": "Music_Ruby_Tilte_100102",
@@ -63463,6 +65223,14 @@
       "_traditionalChinese": "<r=セピア>世點彩</r>",
       "_simplifiedChinese": "<r=セピア>世点彩</r>",
       "_korean": "<r=세피아>세피아</r>"
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100119",
+      "_japanese": "反照は背理",
+      "_english": "Reflection Implies a Contradiction",
+      "_traditionalChinese": "反照は背理",
+      "_simplifiedChinese": "反照は背理",
+      "_korean": "Reflection Implies a Contradiction"
     },
     {
       "_id": "Option_Preset_Default_Name_1",
@@ -64193,6 +65961,14 @@
       "_korean": "미션 패스"
     },
     {
+      "_id": "ui_season_pass_updated",
+      "_japanese": "ミッションパスが更新されました。",
+      "_english": "Mission Pass has been updated.",
+      "_traditionalChinese": "任務通行證已更新。",
+      "_simplifiedChinese": "任务通行证已更新。",
+      "_korean": "미션 패스가 업데이트되었습니다."
+    },
+    {
       "_id": "ui_season_pass_purchase_premium_pass",
       "_japanese": "プレミアムミッションパス購入",
       "_english": "Purchase Premium Mission Pass",
@@ -64479,6 +66255,22 @@
       "_traditionalChinese": "開放你是丸君 Premium任務通行證。",
       "_simplifiedChinese": "解锁你是丸君高级任务通行证。",
       "_korean": "너는 마루 군 프리미엄 미션 패스가 해제됩니다."
+    },
+    {
+      "_id": "Season_Pass_Description_Season_Pass_Name_12",
+      "_japanese": "光、ゆびのすきまから。プレミアムミッションパスが解放されます。",
+      "_english": "Light, Through My Fingers Premium Mission Pass will be unlocked.",
+      "_traditionalChinese": "開放光，自指縫間灑落。 Premium任務通行證。",
+      "_simplifiedChinese": "解锁光，自指缝间洒落。高级任务通行证。",
+      "_korean": "빛, 손가락 사이로 프리미엄 미션 패스가 해제됩니다."
+    },
+    {
+      "_id": "Season_Pass_Description_Season_Pass_Name_13",
+      "_japanese": "シーズンミッションパス Season 2プレミアムミッションパスが解放されます。",
+      "_english": "Season 2 Premium Mission Pass for the Season Mission Pass will be unlocked.",
+      "_traditionalChinese": "開放賽季任務通行證 Season 2 Premium任務通行證。",
+      "_simplifiedChinese": "解锁赛季任务通行证 Season 2高级任务通行证。",
+      "_korean": "시즌 미션 패스 Season 2 프리미엄 미션 패스가 해제됩니다."
     },
     {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
@@ -64834,11 +66626,11 @@
     },
     {
       "_id": "Season_Pass_Name_6",
-      "_japanese": "Ave Mujica 7th LIVE記念ミッションパス",
+      "_japanese": "Ave Mujica 7th LIVE開催記念 ミッションパス",
       "_english": "Ave Mujica 7th LIVE Celebration Mission Pass",
-      "_traditionalChinese": "Ave Mujica 7th LIVE紀念任務通行證",
-      "_simplifiedChinese": "Ave Mujica 7th LIVE 纪念任务通行证",
-      "_korean": "Ave Mujica 7th LIVE 기념 미션 패스"
+      "_traditionalChinese": "Ave Mujica 7th LIVE舉辦紀念 任務通行證",
+      "_simplifiedChinese": "Ave Mujica 7th LIVE举办纪念 任务通行证",
+      "_korean": "Ave Mujica 7th LIVE 개최 기념 미션 패스"
     },
     {
       "_id": "Season_Pass_Name_7",
@@ -64879,6 +66671,22 @@
       "_traditionalChinese": "你是丸君任務通行證",
       "_simplifiedChinese": "你是丸君任务通行证",
       "_korean": "너는 마루 군 미션 패스"
+    },
+    {
+      "_id": "Season_Pass_Name_12",
+      "_japanese": "光、ゆびのすきまから。ミッションパス",
+      "_english": "Light, Through My Fingers Mission Pass",
+      "_traditionalChinese": "光，自指縫間灑落。 任務通行證",
+      "_simplifiedChinese": "光，自指缝间洒落。任务通行证",
+      "_korean": "빛, 손가락 사이로 미션 패스"
+    },
+    {
+      "_id": "Season_Pass_Name_13",
+      "_japanese": "シーズンミッションパス Season 2",
+      "_english": "Season Mission Pass Season 2",
+      "_traditionalChinese": "賽季任務通行證 Season 2",
+      "_simplifiedChinese": "赛季任务通行证 Season 2",
+      "_korean": "시즌 미션 패스 Season 2"
     },
     {
       "_id": "ui_selectserver_title",
@@ -65513,6 +67321,38 @@
       "_korean": "무겐다이 뮤타입 밴드 기념일 패키지"
     },
     {
+      "_id": "Shop_Name_1000000153",
+      "_japanese": "",
+      "_english": "Black Friday Sticker Pack",
+      "_traditionalChinese": "Black Friday 貼紙禮包",
+      "_simplifiedChinese": "Black Friday 贴纸礼包",
+      "_korean": "Black Friday 스티커 패키지"
+    },
+    {
+      "_id": "Shop_Name_1000000154",
+      "_japanese": "",
+      "_english": "Black Friday Gacha Pack",
+      "_traditionalChinese": "Black Friday 轉蛋禮包",
+      "_simplifiedChinese": "Black Friday 招募礼包",
+      "_korean": "Black Friday 뽑기 패키지"
+    },
+    {
+      "_id": "Shop_Name_1000000156",
+      "_japanese": "",
+      "_english": "Light, Through My Fingers Premium Mission Pass",
+      "_traditionalChinese": "光，自指縫間灑落。Premium任務通行證",
+      "_simplifiedChinese": "光，自指缝间洒落。高级任务通行证",
+      "_korean": "빛, 손가락 사이로 프리미엄 미션 패스"
+    },
+    {
+      "_id": "Shop_Name_1000000157",
+      "_japanese": "",
+      "_english": "Season 2 Premium Mission Pass",
+      "_traditionalChinese": "Premium賽季任務通行證 Season 2",
+      "_simplifiedChinese": "高级赛季任务通行证 Season 2",
+      "_korean": "프리미엄 시즌 미션 패스 Season 2"
+    },
+    {
       "_id": "Shop_Name_1100000001",
       "_japanese": "",
       "_english": "Star×120 [MyCard]",
@@ -66007,6 +67847,22 @@
       "_traditionalChinese": "可購買夢限大MewType樂團紀念日撥片與夢限大MewType稜晶。",
       "_simplifiedChinese": "可购买梦限大MewType乐队纪念日拨片与梦限大MewType棱晶。",
       "_korean": "무겐다이 뮤타입 밴드 기념일 피크와 무겐다이 뮤타입 젬을 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1000000139",
+      "_japanese": "",
+      "_english": "Includes 120 Paid Stars and Stickers.",
+      "_traditionalChinese": "可購買付費星鑽120個與貼紙.",
+      "_simplifiedChinese": "可购买付费星钻120个与贴纸。",
+      "_korean": "유료 스타 120개와 스티커를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1000000140",
+      "_japanese": "",
+      "_english": "Includes Star Gacha Tickets, Crystals of Miracle and SP Skill Upgrade Tickets.",
+      "_traditionalChinese": "可購買星鑽轉蛋、奇蹟水晶與SP技能強化券。",
+      "_simplifiedChinese": "可购买星钻招募券、奇迹水晶与SP技能强化券。",
+      "_korean": "스타 뽑기 티켓, 기적의 크리스털, SP 스킬 강화 티켓을 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1100000001",
@@ -68561,6 +70417,14 @@
       "_korean": "Ave Mujica 스탬프 [Abracadabra]"
     },
     {
+      "_id": "Stamp_Name_89",
+      "_japanese": "光、ゆびのすきまから。 報酬スタンプ",
+      "_english": "Light, Through My Fingers reward stamp",
+      "_traditionalChinese": "光，自指縫間灑落。 報酬貼圖",
+      "_simplifiedChinese": "光，自指缝间洒落。 奖励表情",
+      "_korean": "빛, 손가락 사이로 보상 스탬프"
+    },
+    {
       "_id": "Stamp_Name_1000000001",
       "_japanese": "",
       "_english": "ABRACADABRA",
@@ -68666,23 +70530,23 @@
     },
     {
       "_id": "Story_Chapter_Description_6",
-      "_japanese": "早速全国ツアーへ向けて動き出した夢限大みゅーたいぷ。\n看板曲を引っ提げて、いざ！　――といきたいところだが、\nユノの作曲は進捗が思わしくなく……？                ",
+      "_japanese": "早速全国ツアーへ向けて動き出した夢限大みゅーたいぷ。\n看板曲を引っ提げて、いざ！　――といきたいところだが、\nユノの作曲は進捗が思わしくなく……？",
       "_english": "Mugendai MewType has quickly started making moves toward a nationwide tour.\nWith their signature song in hand, it's time to go! That's how they'd like it to play out, but...\nYuno's composition isn't coming along well...?                ",
       "_traditionalChinese": "夢限大MewType立刻開始為全國巡演展開行動。\n帶著主題曲準備出發──原本是想這麼做的，\n但由乃的作曲進度似乎不太理想……？                ",
-      "_simplifiedChinese": "梦限大MewType马不停蹄地开始为全国巡演展开行动。\n本想带上主打歌就此出发——话虽如此，\n但由乃的作曲进度却似乎不太乐观……？                ",
+      "_simplifiedChinese": "梦限大MewType马不停蹄地开始为全国巡演展开行动。\n本想带上主打歌就此出发——话虽如此，\n但由乃的作曲进度却似乎不太乐观……？",
       "_korean": "본격적으로 전국 투어 준비에 나선 무겐다이 뮤타입.\n대표곡을 내걸고 출발! ......하고 싶었지만\n유노의 작곡 진도가 영 나가지 않는데......?                "
     },
     {
       "_id": "Story_Chapter_Description_7",
-      "_japanese": "再始動したmillsage。が、ひとり浮かない顔の凪。\n去来するのは憧憬と、シューズが床を擦る音。\n全部全部閉じ込めて、しまっておいたはずなのに。                ",
+      "_japanese": "再始動したmillsage。が、ひとり浮かない顔の凪。\n去来するのは憧憬と、シューズが床を擦る音。\n全部全部閉じ込めて、しまっておいたはずなのに。",
       "_english": "millsage has started anew. But Nagi alone wears a downcast look.\nWhat comes and goes are yearning and the sound of shoes scraping the floor.\nShe was supposed to have locked it all away, every last bit of it. And yet...                ",
       "_traditionalChinese": "millsage再次展開活動。然而，凪卻獨自面露愁容。\n不斷在腦海中浮現的，是憧憬，以及鞋底摩擦地板的聲響。\n明明已經把這一切塵封，好好收進心底了才對啊。                ",
-      "_simplifiedChinese": "millsage重新启程。然而，唯独凪的面容笼罩着阴霾。\n在心头萦绕不去的，是昔日的憧憬，与球鞋摩擦地板的回响。\n明明早就将这一切的一切，都深深封锁在暗处了才对。                ",
+      "_simplifiedChinese": "millsage重新启程。然而，唯独凪的面容笼罩着阴霾。\n在心头萦绕不去的，是昔日的憧憬，与球鞋摩擦地板的回响。\n明明早就将这一切的一切，都深深封锁在暗处了才对。",
       "_korean": "다시금 활기를 되찾은 millsage. 하지만 나기만은 홀로 어두운 표정이다.\n머릿속을 맴도는 것은 동경과 바닥을 스치는 신발 소리.\n그것은 전부 다 가슴속 깊이 묻어두었던 기억들이었다.                "
     },
     {
       "_id": "Story_Chapter_Description_8",
-      "_japanese": "好きな色、好きな味、好きなもの。\nみんな当たり前に答えられることだが、寧月はいつも答えられない。\nこの問いの正解を探すため、寧月は蓬咲にある頼みごとをする。                ",
+      "_japanese": "好きな色、好きな味、好きなもの。\nみんな当たり前に答えられることだが、寧月はいつも答えられない。\nこの問いの正解を探すため、寧月は蓬咲にある頼みごとをする。",
       "_english": "Favorite colors, favorite flavors, favorite things.\nWhile everyone else can answer these questions without a second thought, Shizuku can't seem to find the answers.\nTo find her own answers, Shizuku asks Yomogi for a favor.",
       "_traditionalChinese": "喜歡的顏色、喜歡的味道、喜歡的東西。\n這些大家都能理所當然回答的問題，寧月卻總是答不上來。\n為了尋找心中的答案，寧月向蓬咲提出了一個特別的請求。 \n",
       "_simplifiedChinese": "喜欢的颜色、喜欢的味道、喜欢的东西。\n这些大家都能脱口而出的东西，宁月却总是回答不上来。\n为了寻找这个问题的正确答案，宁月拜托了蓬咲一件事。",
@@ -68690,19 +70554,27 @@
     },
     {
       "_id": "Story_Chapter_Description_9",
-      "_japanese": "Ave Mujica再デビュー後、次なるマスカレードの構想を練る祥子。\nそこで紡がれるのは、森の古城の姫を巡る物語。\n彼女の顔は、見る者によって違っていて……\t\t",
+      "_japanese": "Ave Mujica再デビュー後、次なるマスカレードの構想を練る祥子。\nそこで紡がれるのは、森の古城の姫を巡る物語。\n彼女の顔は、見る者によって違っていて……",
       "_english": "After Ave Mujica's re-debut, Sakiko works on the concept for their next masquerade.\nWhat unfolds is a tale centering on the princess of an old castle in the woods.\nHer face looks different to each beholder...\t\t",
       "_traditionalChinese": "Ave Mujica再次出道後，祥子開始構思下一場假面舞會。\n她所編織的，是一段關於森林古堡公主的故事。\n然而公主的面貌，在每個人的眼中似乎都截然不同……\t\t",
-      "_simplifiedChinese": "Ave Mujica重新出道后，祥子正构思着下一场假面舞会。\n在那里上演的，是一段围绕森林古堡中的公主所展开的故事。\n而公主的面孔，在每个人眼中都截然不同…………\t\t",
+      "_simplifiedChinese": "Ave Mujica重新出道后，祥子正构思着下一场假面舞会。\n在那里上演的，是一段围绕森林古堡中的公主所展开的故事。\n而公主的面孔，在每个人眼中都截然不同……",
       "_korean": "Ave Mujica 재데뷔 후, 다음 매스커레이드의 구상을 다듬는 사키코.\n그 무대에서 엮어내는 것은 숲속 고성의 공주를 둘러싼 이야기.\n그녀의 얼굴은 보는 이에 따라 저마다 달랐는데......\t\t"
     },
     {
       "_id": "Story_Chapter_Description_10",
-      "_japanese": "迫る全国ツアーに備え、強化合宿を行うゆめみた。\n大部屋、カレー、大自然の中で育まれる青春の絆――に、\n思わずトラウマがフラッシュバックする都子。\t\t",
+      "_japanese": "迫る全国ツアーに備え、強化合宿を行うゆめみた。\n大部屋、カレー、大自然の中で育まれる青春の絆――に、\n思わずトラウマがフラッシュバックする都子。",
       "_english": "To prepare for their fast-approaching nationwide tour, YMMT holds a training camp.\nThe youthful bonds forged in a shared room, over curry, and amid the great outdoors—\npromptly trigger a traumatic flashback for Miyako.\t\t",
       "_traditionalChinese": "為了迎接即將到來的全國巡演，夢限大舉辦了集訓。\n大房間、咖哩飯、在大自然中培育出的青春羈絆──\n面對這一切，都子的心靈創傷卻不禁歷歷在目。\t\t",
-      "_simplifiedChinese": "为备战即将到来的全国巡演，梦限大开展了强化集训。\n集体宿舍、咖喱，还有在大自然中孕育的青春情谊——\n面对这一切，都子的心理阴影却不由自主地闪回浮现。\t\t",
+      "_simplifiedChinese": "为备战即将到来的全国巡演，梦限大开展了强化集训。\n集体宿舍、咖喱，还有在大自然中孕育的青春情谊——\n面对这一切，都子的心理阴影却不由自主地闪回浮现。",
       "_korean": "전국 투어를 앞두고 강화 합숙을 떠난 유메미타.\n한 방에서 카레도 만들고 대자연 속에서 유대를 쌓아가던 중......\n불현듯 과거의 트라우마가 되살아나는 미야코.\t\t"
+    },
+    {
+      "_id": "Story_Chapter_Description_11",
+      "_japanese": "<Size=21>彗星ライジング一次審査に向け、音源を録音することになったmillsage。\n気合いが入る一同の中、朋花の蛍を見つめるまなざしはどこか尋常ではなく——</Size>",
+      "_english": "<Size=21>millsage is set to make a recording for the first round of Comet Rising.\nEveryone is fired up, but there's something unusual about the way Houka gazes at Hotaru...</Size>",
+      "_traditionalChinese": "<Size=21>millsage為了彗星Rising的第一次審查，開始錄製音源。\n大家都充滿幹勁，但朋花注視螢的眼神中卻含有一絲不尋常──</Size>",
+      "_simplifiedChinese": "<Size=21>为参加「彗星崛起」的初选，millsage决定录制音源。\n大家都干劲十足，然而朋花望向萤的目光却有些不同寻常——</Size>",
+      "_korean": "<Size=21>혜성 라이징 1차 심사를 위해 음원을 녹음하게 된 millsage.\n모두가 의욕에 찬 가운데, 호타루를 바라보는 호우카의 눈빛은 어딘가 심상치 않은데......</Size>"
     },
     {
       "_id": "Story_Chapter_Description_33",
@@ -68791,6 +70663,14 @@
       "_traditionalChinese": "你是丸君",
       "_simplifiedChinese": "你是丸君",
       "_korean": "너는 마루 군"
+    },
+    {
+      "_id": "Story_Chapter_Name_11",
+      "_japanese": "光、ゆびのすきまから。",
+      "_english": "Light, Through My Fingers",
+      "_traditionalChinese": "光，自指縫間灑落。",
+      "_simplifiedChinese": "光，自指缝间洒落。",
+      "_korean": "빛, 손가락 사이로"
     },
     {
       "_id": "Story_Chapter_Name_33",
@@ -70233,6 +72113,78 @@
       "_korean": "세상에, 간밤에 릿 짱이 잡아먹히고 말았습니다!"
     },
     {
+      "_id": "Story_Episode_Description_1101",
+      "_japanese": "（もっと確実なやり方で……確かめなくては）",
+      "_english": "(I have to confirm it... in a more reliable way.)",
+      "_traditionalChinese": "（我必須……用更準確的方法去確認才行。）",
+      "_simplifiedChinese": "（必须用更可靠的方式……去确认）",
+      "_korean": "(좀 더 확실한 방법으로...... 확인해야 해)"
+    },
+    {
+      "_id": "Story_Episode_Description_1102",
+      "_japanese": "あれじゃなきゃダメなんです！！",
+      "_english": "It has to be that! Nothing else will do!!",
+      "_traditionalChinese": "必須是那個才行！！",
+      "_simplifiedChinese": "不是那样的演奏就不行！！",
+      "_korean": "그게 아니면 안 된다고요!!"
+    },
+    {
+      "_id": "Story_Episode_Description_1103",
+      "_japanese": "この人を絶対に離さない",
+      "_english": "I will never let this person go.",
+      "_traditionalChinese": "我絕對不會放開這個人。",
+      "_simplifiedChinese": "我绝对不会放开这个人",
+      "_korean": "이 사람만큼은 절대로 놓치지 않겠어"
+    },
+    {
+      "_id": "Story_Episode_Description_1104",
+      "_japanese": "あんたって思ったより弱虫なのね",
+      "_english": "You're more of a coward than I thought.",
+      "_traditionalChinese": "妳比我想像的還要膽小呢。",
+      "_simplifiedChinese": "你比我想的还要懦弱呢",
+      "_korean": "너 생각보다 완전 겁쟁이네"
+    },
+    {
+      "_id": "Story_Episode_Description_1105",
+      "_japanese": "朋花さんには……幸せになってほしいんです",
+      "_english": "I want... Houka-san to be happy.",
+      "_traditionalChinese": "我希望朋花同學……能夠獲得幸福。",
+      "_simplifiedChinese": "我……希望朋花同学能幸福",
+      "_korean": "호우카 씨가...... 행복해졌으면 좋겠거든요"
+    },
+    {
+      "_id": "Story_Episode_Description_1106",
+      "_japanese": "（私は……この道を自分で選んだんでしたっけ？）",
+      "_english": "(Did I... really choose this path myself?)",
+      "_traditionalChinese": "（我是……自己選擇走上這條路的嗎？）",
+      "_simplifiedChinese": "（这条路……真的是我自己选的吗？）",
+      "_korean": "(나는...... 이 길을 나 스스로 선택했던가?)"
+    },
+    {
+      "_id": "Story_Episode_Description_1107",
+      "_japanese": "こんなにうまくいっているんだもの",
+      "_english": "Things are going this well, so...",
+      "_traditionalChinese": "畢竟事情進展得這麼順利……",
+      "_simplifiedChinese": "毕竟一切都这么顺利",
+      "_korean": "이렇게나 모든 게 다 잘 굴러가고 있는걸?"
+    },
+    {
+      "_id": "Story_Episode_Description_1108",
+      "_japanese": "（ああ、あなたに出会えてよかった）",
+      "_english": "(Ah, I'm so glad I met you.)",
+      "_traditionalChinese": "（啊……能遇見妳真是太好了。）",
+      "_simplifiedChinese": "（啊，能遇见你真是太好了）",
+      "_korean": "(아아, 당신을 만날 수 있어서 정말 다행이야)"
+    },
+    {
+      "_id": "Story_Episode_Description_1109",
+      "_japanese": "いつまで走ればいいんだろう",
+      "_english": "(How long do I have to keep running?)",
+      "_traditionalChinese": "究竟要努力前進到什麼時候？",
+      "_simplifiedChinese": "要一直跑到什么时候呢",
+      "_korean": "언제까지 달려야 하는 걸까"
+    },
+    {
       "_id": "Story_Episode_Description_3301",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "2026 Birthday: Miku Mahashi (10/4)",
@@ -70259,7 +72211,7 @@
     {
       "_id": "Story_Episode_Description_3304",
       "_japanese": "26年誕生日：高松 燈(11/22)",
-      "_english": "2026 Birthday:Tomori Takamatsu (11/22)",
+      "_english": "2026 Birthday: Tomori Takamatsu (11/22)",
       "_traditionalChinese": "26年生日：高松燈（11/22）",
       "_simplifiedChinese": "26年生日：高松灯(11/22)",
       "_korean": "26년 생일: 타카마츠 토모리 (11/22)"
@@ -70546,10 +72498,10 @@
     },
     {
       "_id": "Snap_Name_Miyako_Ritsu",
-      "_japanese": "都子＆律",
+      "_japanese": "都子&律",
       "_english": "Miyako & Ritsu",
       "_traditionalChinese": "都子&律",
-      "_simplifiedChinese": "都子＆律",
+      "_simplifiedChinese": "都子&律",
       "_korean": "미야코 & 리츠"
     },
     {
@@ -70623,6 +72575,14 @@
       "_traditionalChinese": "律&阿拉蕾&由乃",
       "_simplifiedChinese": "律&阿拉蕾&由乃",
       "_korean": "리츠 & 아라레 & 유노"
+    },
+    {
+      "_id": "Snap_Name_Nagi_Mahoro",
+      "_japanese": "凪&まほろ",
+      "_english": "Nagi & Mahoro",
+      "_traditionalChinese": "凪&茉幌",
+      "_simplifiedChinese": "凪&茉幌",
+      "_korean": "나기 & 마호로"
     },
     {
       "_id": "SupportDiary_26",
@@ -71087,6 +73047,30 @@
       "_traditionalChinese": "這是大家在演唱會結束後一起拍的照片！\n每個人都閃閃發亮，笑容也都好耀眼！\n那天，能透過歌聲和大家聊天，\n毫不保留地吐露我一直以來藏在心底的情感，\n和大家一起演奏、看著台下觀眾的臉，\n我總算能確定這件事了。\n我，有辦法和大家聊天！\n我，最喜歡和大家聊天了！\n從今以後，我也想一直一直和大家聊下去！\n\n都子同學全力以赴的帥氣笑容，\n小律軟綿綿的笑容，\n由乃同學醬像是鬆了一口氣的笑容，\n野乃醬同學幸福洋溢的笑容，\n我通──通都喜歡！\n今後也請大家多多指教了！",
       "_simplifiedChinese": "大家一起演出完拍的照片！\n大家全都神采奕奕，笑得闪闪发光！\n那天能够用歌声和大家聊天\n把一直藏在心底的一切毫无保留地倾吐出来\n和大家一起演奏，看着台下观众们的脸庞\n这一切都让我彻底确信了\n我，也是能和大家聊天的！\n我，最喜欢聊天了！\n以后我也想一直、一直这样聊下去！\n\n无论是都子同学拼尽全力后帅气的笑容\n小律软乎乎的笑容\n小由乃同学如释重负般的笑容\n还是小野乃同学幸福满溢的笑容\n我全部、全部都最喜欢了！\n今后也请一直、一直多多关照哦！",
       "_korean": "다 같이 공연하고 나서 찍은 사진!\n다들 생글생글 눈부시게 웃고 있어!\n그날, 노래로 수다 떨었을 때\n줄곧 마음속에 가둬 두었던 걸 전부 털어놓고,\n멤버들과 같이 연주하고, 관객분들의 얼굴을 보면서\n확신할 수 있었어\n나는 얘기할 수 있다고!\n나는 수다 떠는 게 너무 좋다고!\n앞으로도 계~속 수다 떨고 싶어!\n\n모든 걸 쏟아부은 미야코 씨의 멋진 미소도\n사르르 풀어진 릿 짱의 말랑말랑한 미소도\n어딘가 안심한 듯한 유노짱 씨의 미소도\n행복이 활짝 피어난 노노짱 씨의 미소도\n전부 다~~ 너무 좋아!\n앞으로도 쭉~ 잘 부탁해!"
+    },
+    {
+      "_id": "SupportDiary_86",
+      "_japanese": "人は本当に幸せな瞬間\n呼吸の仕方を忘れてしまう\n\nそれだけではなくて\n血管が激しく脈打ち　肌という肌は粟立つ\n全身が痺れたような感覚に包まれるのに\nちっとも苦しくない\n\nむしろ\n心の渇きが満たされていくようで\nたまらなく心地いい……♡\n\nこの瞬間を　どんなに待ちわびたことでしょう\n視界が　あなたでいっぱいになっていく……\nあなたという光が　私という偽物を裁いてくれる……\n\nもっと……もっと……！\nその光を　私に――！",
+      "_english": "In a truly happy moment,\npeople forget how to breathe.\n\nAnd that's not all—\nveins throbbing wildly, every inch of skin prickling with goosebumps,\nthe whole body wrapped in a numb, tingling sensation—\nyet it's not painful at all.\n\nIf anything,\nit's as if the thirst of my heart is being quenched,\nan intolerable bliss......♡\n\nHow long I have waited for this moment...\nMy vision is filling, filling with you...\nThe light that is you judges the fake that I am...\n\nMore... more...!\nThat light, shine it on me—!",
+      "_traditionalChinese": "當人打從心底感到快樂的那一刻，\n會忘記要怎麼呼吸。\n\n不只如此，\n血液還會劇烈鼓動，全身的肌膚都激起一陣顫慄。\n整個人會陷入一種酥麻的狀態，\n卻一點也不覺得難受。\n\n反而會覺得\n內心的飢渴逐漸填滿，\n感到通體舒暢……♡\n\n我等這一刻已經等了許久。\n我的眼中漸漸被妳占據……\n妳宛如一道光芒，即將制裁我這個冒牌貨……\n\n不夠……再多一點……！\n展現更多光芒給我吧──！",
+      "_simplifiedChinese": "人在真正幸福的瞬间\n会忘记该如何呼吸\n\n不仅如此\n血管剧烈搏动　每一寸肌肤都在战栗\n明明全身都被一阵酥麻感包裹\n却一点也不觉得难受\n\n倒不如说\n干渴的内心仿佛正被一点点滋润\n舒服得令人难以自持……♡\n\n这一瞬间　我究竟期盼了多久啊\n我的视野　正逐渐被你填满……\n你这道光　正对我这个冒牌货降下审判……\n\n再多一些……再多一些……！\n让那道光　照向我——！",
+      "_korean": "사람은 진짜로 행복할 땐\n숨 쉬는 법을 잊어버리고 말죠\n\n그뿐만 아니라\n혈관이 터질 듯이 요동치고 소름이 쫙 돋아요\n온몸이 찌릿하게 저려오는데도\n조금도 괴롭지 않죠\n\n오히려\n메말랐던 마음이 가득 채워지는 것 같아서\n미칠 듯이 기분 좋아져요......♡\n\n이 순간을 얼마나 기다렸는지 모르겠어요\n시야가 온통 당신의 모습으로 가득 차올라요......\n당신이라는 빛이 가짜에 불과한 저를 심판해 줘요......\n\n더...... 더......!\n그 빛을 저에게......!"
+    },
+    {
+      "_id": "SupportDiary_87",
+      "_japanese": "なに……なんなの……\nこの演奏……\n\n今までとは　また違う\nぞっとするくらい　すごい音\n\nそんなフラフラの状態で\nなんでそんな演奏ができるわけ？\n\n音だけじゃないわ\nあんな表情　見たことない\n\nさっきからずっと　鳥肌が立ってる\n圧倒されて　身動きができない\n\nこのまま　呑み込まれそう……\n\n蛍　あんた……\n一体何があったのよ……",
+      "_english": "What... what is this...?\nThis performance...\n\nIt's different from anything before—\na sound so incredible it sends a chill down your spine.\n\nIn that wobbly state—\nhow can you even play like that?\n\nAnd it's not just the sound.\nI've never seen an expression like that on her.\n\nI've had goosebumps this whole time.\nOverwhelmed. Unable to move.\n\nAt this rate, I'll be swallowed whole...\n\nHotaru, you...\nWhat on earth happened to you...?",
+      "_traditionalChinese": "這究竟……該怎麼解釋……\n這次的演奏……\n\n展現出不同以往的樣貌，\n每個音色都厲害到令人害怕。\n\n妳整個人都左搖右晃的，\n究竟是怎麼在這狀態下彈出這種表現？\n\n而且除了沒聽過這種音色，\n我也沒見過那種表情。\n\n從剛才開始，我的雞皮疙瘩一直停不下來。\n我完全被震住，連動都動不了。\n\n我簡直快要被妳吞噬了……\n\n螢……\n妳究竟發生什麼事了……",
+      "_simplifiedChinese": "什么……这是怎么回事……\n这段演奏……\n\n跟以前　又不一样\n让人不寒而栗的　惊人琴声\n\n明明人都已经摇摇欲坠了\n为什么还能弹出那样的琴声啊？\n\n而且还不只是声音\n那种表情　我也从来没见过\n\n从刚才开始　我就一直在起鸡皮疙瘩\n整个人被彻底震慑住　根本动弹不得\n\n再这样下去　我快要被吞噬了……\n\n萤　你这家伙……\n到底经历了什么啊……",
+      "_korean": "뭐야...... 대체 뭐야......\n이 연주는......\n\n지금까지 해왔던 거랑은 또 다른 느낌이야\n등골이 오싹해질 정도로 굉장한 소리야\n\n금방이라도 쓰러질 것 같은 상태에서\n어떻게 저런 연주가 나올 수 있는 건데?\n\n소리뿐만이 아니야\n저런 표정을 지은 적도 없었어\n\n아까부터 온몸에 소름이 가시질 않아\n기세에 압도당해서 꼼짝도 못 하겠어\n\n이대로 집어삼켜질 것만 같아......\n\n호타루, 너......\n도대체 무슨 일이 있었던 거야......"
+    },
+    {
+      "_id": "SupportDiary_88",
+      "_japanese": "あーもう　こうなると思った\n\n嬉しいことがあると　全力で喜んで\nほんと無邪気なんだから\n\n気持ちはわかるけど　私にまでやらせないでほしいな\n\nなんて言っても　まほろは絶対\n一緒にやろうって言ってくるだろうけど\n\n私だって　嬉しくないわけじゃないよ\n\nでも――\nたぶん　それだけじゃないから\n\nいや　やっぱ\n嬉しいってだけだったとしても\nばんざいは勘弁かな",
+      "_english": "Ah, jeez. I knew it'd turn out like this.\n\nWhen something good happens, she celebrates with everything she's got.\nShe really is so innocent.\n\nI get it, I do—but I wish she wouldn't drag me into it too.\n\nNo matter what I say, Mahoro would definitely come\nask me to join in anyway.\n\nIt's not like I'm not happy either, you know.\n\nBut—\nI don't think that's all there is to it.\n\n...No, forget it.\nEven if it is just happiness,\nI'll pass on the banzai, thanks.",
+      "_traditionalChinese": "啊──真是的，我就知道會變這樣。\n\n一有開心的事就整個人就興奮成那樣，\n真的很天真。\n\n我明白她的心情，但拜託不要拉我下水。\n\n就算我這麼說，茉幌一定還是會叫我一起做吧。\n我也不是不開心。\n\n只是──\n還有其他原因。\n\n話是這麼說，\n就算只是純粹想表達很開心，\n我還是不太想喊萬歲。",
+      "_simplifiedChinese": "啊，真是的　我就知道会变成这样\n\n一遇到开心的事　就这么全力以赴地高兴\n真是太天真了\n\n虽然我能理解她的心情　但还是别拉着我一起做吧\n\n不过就算我这么说　茉幌也绝对\n会拉着我喊一起来吧就是了\n\n其实我也　并不是不开心哦\n\n只是——\n大概　并不只有开心而已\n\n不对　应该说\n就算心里真的只有开心\n高呼万岁什么的还是饶了我吧",
+      "_korean": "아휴 진짜, 이럴 줄 알았어\n\n기쁜 일만 생기면 저렇게 온몸으로 좋아하고\n참 해맑다니까\n\n마음은 이해하지만 나한테까지 그 텐션에 맞추라고 하진 말았으면 좋겠는데\n\n뭐, 이렇게 말해도 마호로는 무조건\n같이 좋아하자고 할 테지만\n\n나라고 기쁘지 않은 건 아니야\n\n하지만......\n마냥 기쁘기만 한 건 아니니까\n\n아니, 그래도\n설령 내가 단순히 기쁘기만 한 거라 쳐도\n만세는 좀 아닌 것 같아"
     },
     {
       "_id": "SupportSubtitle_1",
@@ -71767,6 +73751,30 @@
       "_traditionalChinese": "我最喜歡的東西",
       "_simplifiedChinese": "我最喜欢的东西",
       "_korean": "가장 좋아하는 것"
+    },
+    {
+      "_id": "SupportSubtitle_86",
+      "_japanese": "歓喜と恍惚の中で",
+      "_english": "Lost in Joy and Rapture",
+      "_traditionalChinese": "在歡喜與恍惚之間",
+      "_simplifiedChinese": "在喜悦与恍惚之间",
+      "_korean": "환희와 황홀 속에서"
+    },
+    {
+      "_id": "SupportSubtitle_87",
+      "_japanese": "凍りつくほどの旋律",
+      "_english": "The Bone-Chilling Melody",
+      "_traditionalChinese": "冰封心魄的旋律",
+      "_simplifiedChinese": "冰冷刺骨的旋律",
+      "_korean": "얼어붙을 만큼의 선율"
+    },
+    {
+      "_id": "SupportSubtitle_88",
+      "_japanese": "喜びをかわして",
+      "_english": "Sharing Joy",
+      "_traditionalChinese": "分享喜悅",
+      "_simplifiedChinese": "分享喜悦",
+      "_korean": "기쁨을 나누며"
     },
     {
       "_id": "Support_Skill_Description_1",
@@ -83321,6 +85329,14 @@
       "_korean": "※중복 획득한 멤버는 조각으로 변환되었습니다."
     },
     {
+      "_id": "ui_receiving_reward_expired_item",
+      "_japanese": "※受け取り期限を過ぎた一部のアイテムは受け取れませんでした。",
+      "_english": "*Some items could not be received because their claim period has expired.",
+      "_traditionalChinese": "※部分道具已過期，無法領取。",
+      "_simplifiedChinese": "※部分道具已超过领取期限，无法领取。",
+      "_korean": "※수령 기한이 지난 일부 아이템은 수령하지 못했습니다."
+    },
+    {
       "_id": "ui_support_rank_enhance_title",
       "_japanese": "スナップ上限解放確認",
       "_english": "Snapshot Limit Unlock",
@@ -85146,11 +87162,11 @@
     },
     {
       "_id": "ui_room_join_error_dialog_reason_1",
-      "_japanese": "ルームが解散している",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_japanese": "ルーム解散または既にライブが始まっている",
+      "_english": "The room was disbanded, or the LIVE has already started.",
+      "_traditionalChinese": "房間已解散，或是演出已經開始",
+      "_simplifiedChinese": "房间已解散或演出已经开始",
+      "_korean": "룸이 해산되었거나 이미 라이브가 시작되었습니다"
     },
     {
       "_id": "ui_room_join_error_dialog_reason_2",
@@ -85201,6 +87217,38 @@
       "_korean": "접속자가 많아\\n룸 생성에 실패했습니다.\\n다시 시도해 주세요."
     },
     {
+      "_id": "ui_title_room_exit_confirm_dialog",
+      "_japanese": "ルーム退出",
+      "_english": "Exit Room",
+      "_traditionalChinese": "退出房間",
+      "_simplifiedChinese": "退出房间",
+      "_korean": "룸 퇴장"
+    },
+    {
+      "_id": "ui_room_exit_confirm_dialog_message",
+      "_japanese": "プライベートルームを退出します。\\nよろしいですか？",
+      "_english": "You are about to exit the Private Room.\\nAre you sure?",
+      "_traditionalChinese": "即將退出私人房間。\\n確定要退出嗎？",
+      "_simplifiedChinese": "即将退出私人房间。\\n确定吗？",
+      "_korean": "프라이빗 룸을 퇴장합니다.\\n계속 진행하시겠습니까?"
+    },
+    {
+      "_id": "ui_title_room_open_confirm_dialog",
+      "_japanese": "ルーム開放",
+      "_english": "Open Room",
+      "_traditionalChinese": "公開房間",
+      "_simplifiedChinese": "开放房间",
+      "_korean": "룸 개방"
+    },
+    {
+      "_id": "ui_room_open_confirm_dialog_message",
+      "_japanese": "ルームを開放して他のプレイヤーの入室を許可しますか？",
+      "_english": "Open the Room and allow other players to enter?",
+      "_traditionalChinese": "要公開房間，允許其他玩家加入嗎？",
+      "_simplifiedChinese": "要开放房间，允许其他玩家进入吗？",
+      "_korean": "룸을 개방하여 다른 플레이어의 입장을 허용하시겠습니까?"
+    },
+    {
       "_id": "ui_title_room_exit_error_dialog",
       "_japanese": "通信エラー",
       "_english": "Communication Error",
@@ -85215,6 +87263,22 @@
       "_traditionalChinese": "發生通訊錯誤。\\n將退出房間並返回樂團選擇。",
       "_simplifiedChinese": "发生网络连接错误。\\n即将退出房间，返回选择乐队界面。",
       "_korean": "네트워크 연결이 끊어졌습니다.\\n룸에서 퇴장하여 밴드 선택으로 돌아갑니다."
+    },
+    {
+      "_id": "ui_room_exit_error_dialog_message_result",
+      "_japanese": "通信エラーが発生しました。\\nルームから退出します。",
+      "_english": "A communication error occurred.\\nExiting the room.",
+      "_traditionalChinese": "發生通訊錯誤。\\n將退出房間。",
+      "_simplifiedChinese": "发生网络连接错误。\\n即将退出房间。",
+      "_korean": "네트워크 연결이 끊어졌습니다.\\n룸에서 퇴장합니다."
+    },
+    {
+      "_id": "ui_room_exit_error_dialog_message_music_select",
+      "_japanese": "通信エラーが発生しました。\\nルームを退出し、楽曲選択へ戻ります。",
+      "_english": "A communication error occurred.\\nExiting the room and returning to Song selection.",
+      "_traditionalChinese": "發生通訊錯誤。\\n將退出房間，返回樂曲選擇。",
+      "_simplifiedChinese": "发生网络连接错误。\\n即将退出房间，返回乐曲选择界面。",
+      "_korean": "네트워크 연결이 끊어졌습니다.\\n룸에서 퇴장하여 곡 선택 화면으로 돌아갑니다."
     },
     {
       "_id": "ui_title_band_item_enhance_dialog",
@@ -85351,6 +87415,22 @@
       "_traditionalChinese": "確定團員",
       "_simplifiedChinese": "成员已确定",
       "_korean": "멤버 결정"
+    },
+    {
+      "_id": "ui_battle_live_matching_lobby_close_session_not_ready_message",
+      "_japanese": "全員の準備が完了していません。",
+      "_english": "Not everyone is ready yet.",
+      "_traditionalChinese": "還有玩家未完成準備。",
+      "_simplifiedChinese": "全员尚未完成准备。",
+      "_korean": "준비를 완료하지 않은 플레이어가 있습니다."
+    },
+    {
+      "_id": "ui_battle_live_matching_lobby_room_open_not_ready_message",
+      "_japanese": "全員の準備が完了すると開放できます。",
+      "_english": "The room can be opened once everyone is ready.",
+      "_traditionalChinese": "所有玩家完成準備後就會開放。",
+      "_simplifiedChinese": "全员完成准备后即可开放。",
+      "_korean": "모든 플레이어가 준비를 완료하면 개방됩니다."
     },
     {
       "_id": "ui_battle_live_matching_lobby_close_session",
@@ -86162,11 +88242,11 @@
     },
     {
       "_id": "ui_account_ban_dialog_message",
-      "_japanese": "現在アカウントの利用が制限されています。\nタイトル画面へ戻ります。",
-      "_english": "Your account is currently restricted.\nReturning to the title screen.",
-      "_traditionalChinese": "目前此帳號的使用已受到限制。\n將返回標題畫面。",
-      "_simplifiedChinese": "当前账号已被限制使用。\n即将返回标题画面。",
-      "_korean": "현재 계정 이용이 제한되었습니다.\n타이틀 화면으로 돌아갑니다."
+      "_japanese": "現在アカウントの利用が制限されています。タイトル画面へ戻ります。",
+      "_english": "Your account has been banned and will be unbanned on {0} (UTC+9). If you have any questions, please contact Customer Support for more information.",
+      "_traditionalChinese": "您目前的帳號已遭封禁，將於{0}（UTC+9）解除封禁。如有疑問，請聯絡客服了解詳情。",
+      "_simplifiedChinese": "您当前的账号已被封禁，将于{0}（UTC+9）解封，如有疑问可联系客服了解详情。",
+      "_korean": "계정 이용이 정지되었습니다. {0}(UTC+9)부터 정상적으로 이용하실 수 있습니다. 자세한 내용은 고객센터로 문의해 주세요."
     },
     {
       "_id": "ui_title_live_music_release_effect_original_music",
@@ -87639,6 +89719,14 @@
       "_traditionalChinese": "因連線中斷，將返回選擇樂曲畫面。",
       "_simplifiedChinese": "网络连接已断开，即将返回选择乐曲界面。",
       "_korean": "네트워크가 끊겨 곡 선택 화면으로 돌아갑니다."
+    },
+    {
+      "_id": "ui_return_music_select_room_exit",
+      "_japanese": "通信が切れたので楽曲選択に戻ります。\\nルームから退出します",
+      "_english": "Connection lost. Returning to song selection.\\nExiting the room.",
+      "_traditionalChinese": "因連線中斷，將返回樂曲選擇。\\n將退出房間。",
+      "_simplifiedChinese": "网络连接已断开，即将返回选择乐曲界面。\\n即将退出房间",
+      "_korean": "네트워크가 끊겨 곡 선택 화면으로 돌아갑니다.\\n룸에서 퇴장합니다."
     },
     {
       "_id": "ui_credit_lyrics",
@@ -89889,6 +91977,14 @@
       "_korean": "이번 시즌 최고 pt"
     },
     {
+      "_id": "ui_arena_reward_window_season_highest_point_zero",
+      "_japanese": "集計中",
+      "_english": "Calculating",
+      "_traditionalChinese": "統計中",
+      "_simplifiedChinese": "统计中",
+      "_korean": "집계 중"
+    },
+    {
       "_id": "ui_arena_reward_window_league_point_format",
       "_japanese": "AP{0}～",
       "_english": "AP{0}~",
@@ -90482,11 +92578,11 @@
     },
     {
       "_id": "ui_event_chapter_unlocked",
-      "_japanese": "{0}/{1} 解放済",
-      "_english": "{0}/{1} Unlocked",
-      "_traditionalChinese": "{0}/{1} 已開放",
-      "_simplifiedChinese": "已解锁{0}/{1}",
-      "_korean": "{0}/{1} 해제 완료"
+      "_japanese": "{0}/{1}話\n解放済",
+      "_english": "{0}/{1}Episodes\nUnlocked",
+      "_traditionalChinese": "{0}/{1}話\n已開放",
+      "_simplifiedChinese": "{0}/{1}话\n已解锁",
+      "_korean": "{0}/{1}화\n해제 완료"
     },
     {
       "_id": "ui_event_not_started",
@@ -90554,11 +92650,11 @@
     },
     {
       "_id": "ui_event_consume_liveboost_earned_event_reward",
-      "_japanese": "イベントpt\nチャレンジpt",
-      "_english": "Event Pts\nChallenge Pts",
-      "_traditionalChinese": "活動pt\n挑戰pt",
-      "_simplifiedChinese": "活动pt\n挑战pt",
-      "_korean": "이벤트 pt\n챌린지 pt"
+      "_japanese": "イベントpt",
+      "_english": "Event Pts",
+      "_traditionalChinese": "活動pt",
+      "_simplifiedChinese": "活动pt",
+      "_korean": "이벤트 pt"
     },
     {
       "_id": "ui_event_consume_challenge_point_earned_event_reward",
@@ -90994,11 +93090,11 @@
     },
     {
       "_id": "ui_live_result_event_point_rate_format",
-      "_japanese": "イベントpt・チャレンジpt・報酬{0}倍!",
-      "_english": "Event Pts & Challenge Pts & Rewards {0}x!",
-      "_traditionalChinese": "活動pt、挑戰pt、報酬{0}倍！",
-      "_simplifiedChinese": "活动pt・挑战pt・奖励{0}倍！",
-      "_korean": "이벤트 pt·챌린지 pt·보상 {0}배!"
+      "_japanese": "イベントpt・報酬{0}倍!",
+      "_english": "Event Pts & Rewards {0}x!",
+      "_traditionalChinese": "活動pt、報酬{0}倍!",
+      "_simplifiedChinese": "活动pt・奖励{0}倍！",
+      "_korean": "이벤트 pt·보상 {0}배!"
     },
     {
       "_id": "ui_live_result_event_point_total",
@@ -91026,11 +93122,11 @@
     },
     {
       "_id": "ui_live_result_event_next_event_point_reward",
-      "_japanese": "次のイベントpt報酬",
-      "_english": "Next Event Pt Reward",
-      "_traditionalChinese": "下一個活動pt報酬",
-      "_simplifiedChinese": "下一个活动pt奖励",
-      "_korean": "다음 이벤트 pt 보상"
+      "_japanese": "次の累計イベントpt報酬",
+      "_english": "Next Total Event Pts Reward",
+      "_traditionalChinese": "下一個累計活動pt報酬",
+      "_simplifiedChinese": "下一累计活动pt奖励",
+      "_korean": "다음 누적 이벤트 pt 보상"
     },
     {
       "_id": "ui_live_result_event_next_story_point",
@@ -95075,10 +97171,42 @@
     {
       "_id": "ui_title_try_event",
       "_japanese": "トライイベント",
-      "_english": "Try Event",
-      "_traditionalChinese": "挑戰活動",
+      "_english": "Trial Event",
+      "_traditionalChinese": "試煉活動",
       "_simplifiedChinese": "试炼活动",
       "_korean": "트라이 이벤트"
+    },
+    {
+      "_id": "ui_title_try_mission",
+      "_japanese": "トライ目標",
+      "_english": "Trial Goals",
+      "_traditionalChinese": "試煉目標",
+      "_simplifiedChinese": "试炼目标",
+      "_korean": "트라이 목표"
+    },
+    {
+      "_id": "ui_title_try_music_total_score",
+      "_japanese": "トータルハイスコア",
+      "_english": "Total High Score",
+      "_traditionalChinese": "綜合最高分數",
+      "_simplifiedChinese": "最高总分",
+      "_korean": "종합 하이 스코어"
+    },
+    {
+      "_id": "ui_event_try_level",
+      "_japanese": "トライLv",
+      "_english": "Trial Lv",
+      "_traditionalChinese": "試煉Lv",
+      "_simplifiedChinese": "试炼Lv",
+      "_korean": "트라이 Lv"
+    },
+    {
+      "_id": "ui_event_try_music",
+      "_japanese": "課題曲トライ",
+      "_english": "Trial Assigned Song",
+      "_traditionalChinese": "課題曲目試煉",
+      "_simplifiedChinese": "课题曲试炼",
+      "_korean": "과제 곡 트라이"
     },
     {
       "_id": "ui_title_event",
@@ -95113,6 +97241,14 @@
       "_korean": "해당 라이브는\n하이 스코어 레이팅의 대상 외입니다."
     },
     {
+      "_id": "ui_try_live_result_no_high_score_rating",
+      "_japanese": "トライ楽曲は、\nハイスコアレーティングの対象外です。",
+      "_english": "Trial Songs\nare not eligible for High Score Rating.",
+      "_traditionalChinese": "試煉樂曲，\n不會列入最高分評級的計算對象。",
+      "_simplifiedChinese": "试炼乐曲，\n不计入最高分评级。",
+      "_korean": "트라이 곡은\n하이 스코어 레이팅의 대상 외입니다."
+    },
+    {
       "_id": "ui_live_cannot_play",
       "_japanese": "この楽曲はプレイすることができません。",
       "_english": "This song cannot be played.",
@@ -95121,12 +97257,292 @@
       "_korean": "이 곡은 플레이할 수 없습니다."
     },
     {
+      "_id": "ui_try_music_total_score_remaining",
+      "_japanese": "あと",
+      "_english": "Left",
+      "_traditionalChinese": "剩餘",
+      "_simplifiedChinese": "还差",
+      "_korean": "남음"
+    },
+    {
+      "_id": "ui_try_level_reward",
+      "_japanese": "トライLv報酬",
+      "_english": "Trial Lv Rewards",
+      "_traditionalChinese": "試煉Lv報酬",
+      "_simplifiedChinese": "试炼Lv奖励",
+      "_korean": "트라이 Lv 보상"
+    },
+    {
+      "_id": "ui_try_mission_level_format",
+      "_japanese": "Lv.{0}/{1}",
+      "_english": "Lv.{0}/{1}",
+      "_traditionalChinese": "Lv.{0}/{1}",
+      "_simplifiedChinese": "Lv.{0}/{1}",
+      "_korean": "Lv. {0}/{1}"
+    },
+    {
+      "_id": "ui_try_mission_completed",
+      "_japanese": "コンプリート",
+      "_english": "Complete",
+      "_traditionalChinese": "完成",
+      "_simplifiedChinese": "完成",
+      "_korean": "컴플리트"
+    },
+    {
+      "_id": "ui_try_mission_target_try_music",
+      "_japanese": "トライ楽曲",
+      "_english": "Trial Songs",
+      "_traditionalChinese": "試煉樂曲",
+      "_simplifiedChinese": "试炼乐曲",
+      "_korean": "트라이 곡"
+    },
+    {
+      "_id": "ui_try_mission_condition_unspecified",
+      "_japanese": "-",
+      "_english": "-",
+      "_traditionalChinese": "-",
+      "_simplifiedChinese": "-",
+      "_korean": "-"
+    },
+    {
+      "_id": "ui_try_mission_condition_separator",
+      "_japanese": ",",
+      "_english": ",",
+      "_traditionalChinese": ",",
+      "_simplifiedChinese": ",",
+      "_korean": ","
+    },
+    {
+      "_id": "ui_try_mission_difficulty_format",
+      "_japanese": "{0}以上",
+      "_english": "{0}or higher",
+      "_traditionalChinese": "{0}以上",
+      "_simplifiedChinese": "{0}以上",
+      "_korean": "{0} 이상"
+    },
+    {
+      "_id": "ui_try_mission_music_level_format",
+      "_japanese": "Lv.{0}以上",
+      "_english": "Lv.{0} or higher",
+      "_traditionalChinese": "Lv.{0}以上",
+      "_simplifiedChinese": "Lv.{0}以上",
+      "_korean": "Lv. {0} 이상"
+    },
+    {
+      "_id": "ui_live_result_try_gain_event_point",
+      "_japanese": "トライ報酬イベントpt",
+      "_english": "Trial Reward Event Pts",
+      "_traditionalChinese": "試煉報酬活動pt",
+      "_simplifiedChinese": "试炼奖励活动pt",
+      "_korean": "트라이 보상 이벤트 pt"
+    },
+    {
+      "_id": "ui_live_result_try_gain_event_item",
+      "_japanese": "トライ報酬アイテム",
+      "_english": "Trial Reward Items",
+      "_traditionalChinese": "試煉報酬道具",
+      "_simplifiedChinese": "试炼奖励道具",
+      "_korean": "트라이 보상 아이템"
+    },
+    {
       "_id": "ui_event_top_to_event_top",
       "_japanese": "イベントTOP",
       "_english": "Event TOP",
       "_traditionalChinese": "活動TOP",
       "_simplifiedChinese": "活动首页",
       "_korean": "이벤트 TOP"
+    },
+    {
+      "_id": "ui_event_top_try_music",
+      "_japanese": "トライ楽曲",
+      "_english": "Trial Songs",
+      "_traditionalChinese": "試煉樂曲",
+      "_simplifiedChinese": "试炼乐曲",
+      "_korean": "트라이 곡"
+    },
+    {
+      "_id": "ui_try_level_reward_condition_format",
+      "_japanese": "すべてのトライLv.{0}をクリア",
+      "_english": "All Trial Lv.{0}are cleared.",
+      "_traditionalChinese": "通關所有試煉Lv.{0}",
+      "_simplifiedChinese": "完成所有试炼Lv.{0}",
+      "_korean": "모든 트라이 Lv. {0} 클리어"
+    },
+    {
+      "_id": "ui_try_level_reward_condition_ex_format",
+      "_japanese": "すべてのEXトライLv.{0}をクリア",
+      "_english": "All EX Trial Lv.{0}are cleared.",
+      "_traditionalChinese": "通關所有EX試煉Lv.{0}",
+      "_simplifiedChinese": "完成所有EX试炼Lv.{0}",
+      "_korean": "모든 EX 트라이 Lv. {0} 클리어"
+    },
+    {
+      "_id": "ui_title_try_mission_ex",
+      "_japanese": "EXトライ目標",
+      "_english": "EX Trial Goals",
+      "_traditionalChinese": "EX試煉目標",
+      "_simplifiedChinese": "EX试炼目标",
+      "_korean": "EX 트라이 목표"
+    },
+    {
+      "_id": "ui_title_try_music_reward",
+      "_japanese": "トライ楽曲報酬一覧",
+      "_english": "Trial Song Rewards List",
+      "_traditionalChinese": "試煉樂曲報酬一覽",
+      "_simplifiedChinese": "试炼乐曲奖励一览",
+      "_korean": "트라이 곡 보상 목록"
+    },
+    {
+      "_id": "ui_live_music_reward_no_score_reward_for_try_live",
+      "_japanese": "トライ楽曲では\nスコアランク報酬を獲得できません。",
+      "_english": "Score Rank Rewards\ncannot be earned from Trial Songs.",
+      "_traditionalChinese": "在試煉樂曲中，\n無法獲得分數等級報酬。",
+      "_simplifiedChinese": "在试炼乐曲中\n无法获得得分评级奖励。",
+      "_korean": "트라이 곡에서는\n스코어 랭크 보상을 획득할 수 없습니다."
+    },
+    {
+      "_id": "ui_try_type_score",
+      "_japanese": "スコアトライ",
+      "_english": "Score Trial",
+      "_traditionalChinese": "分數試煉",
+      "_simplifiedChinese": "SCORE试炼",
+      "_korean": "스코어 트라이"
+    },
+    {
+      "_id": "ui_try_type_life",
+      "_japanese": "ライフトライ",
+      "_english": "Life Trial",
+      "_traditionalChinese": "LIFE試煉",
+      "_simplifiedChinese": "LIFE试炼",
+      "_korean": "라이프 트라이"
+    },
+    {
+      "_id": "ui_try_type_judgement",
+      "_japanese": "判定トライ",
+      "_english": "HIT Trial",
+      "_traditionalChinese": "判定試煉",
+      "_simplifiedChinese": "判定试炼",
+      "_korean": "판정 트라이"
+    },
+    {
+      "_id": "ui_try_type_combo",
+      "_japanese": "コンボトライ",
+      "_english": "COMBO Trial",
+      "_traditionalChinese": "COMBO試煉",
+      "_simplifiedChinese": "COMBO试炼",
+      "_korean": "콤보 트라이"
+    },
+    {
+      "_id": "ui_try_type_battle",
+      "_japanese": "対戦トライ",
+      "_english": "Battle Trial",
+      "_traditionalChinese": "對戰試煉",
+      "_simplifiedChinese": "对战试炼",
+      "_korean": "대전 트라이"
+    },
+    {
+      "_id": "ui_try_type_gekisou_just",
+      "_japanese": "JUST\n撃奏トライ",
+      "_english": "JUST\nGEKISO Trial",
+      "_traditionalChinese": "JUST\n激奏試煉",
+      "_simplifiedChinese": "JUST\n激奏试炼",
+      "_korean": "JUST\n격주 트라이"
+    },
+    {
+      "_id": "ui_try_type_gekisou_combo",
+      "_japanese": "COMBO\n撃奏トライ",
+      "_english": "COMBO\nGEKISO Trial",
+      "_traditionalChinese": "COMBO\n激奏試煉",
+      "_simplifiedChinese": "COMBO\n激奏试炼",
+      "_korean": "COMBO\n격주 트라이"
+    },
+    {
+      "_id": "ui_try_type_gekisou_luck",
+      "_japanese": "LUCK\n撃奏トライ",
+      "_english": "LUCK\nGEKISO Trial",
+      "_traditionalChinese": "LUCK\n激奏試煉",
+      "_simplifiedChinese": "LUCK\n激奏试炼",
+      "_korean": "LUCK\n격주 트라이"
+    },
+    {
+      "_id": "ui_try_mission_level_label",
+      "_japanese": "Lv.",
+      "_english": "Lv.",
+      "_traditionalChinese": "Lv.",
+      "_simplifiedChinese": "Lv.",
+      "_korean": "Lv."
+    },
+    {
+      "_id": "ui_try_mission_assist_disallowed",
+      "_japanese": "アシスト不可",
+      "_english": "Assist Disabled",
+      "_traditionalChinese": "輔助禁止",
+      "_simplifiedChinese": "不可使用辅助",
+      "_korean": "어시스트 불가"
+    },
+    {
+      "_id": "ui_try_mission_ex",
+      "_japanese": "EX",
+      "_english": "EX",
+      "_traditionalChinese": "EX",
+      "_simplifiedChinese": "EX",
+      "_korean": "EX"
+    },
+    {
+      "_id": "ui_try_mission_next_level_reward",
+      "_japanese": "次のトライLv報酬",
+      "_english": "Next Trial Lv Rewards",
+      "_traditionalChinese": "下一個試煉Lv報酬",
+      "_simplifiedChinese": "下一试炼Lv奖励",
+      "_korean": "다음 트라이 Lv 보상"
+    },
+    {
+      "_id": "ui_try_music_select_ribbon",
+      "_japanese": "トライ楽曲",
+      "_english": "Trial Songs",
+      "_traditionalChinese": "試煉樂曲",
+      "_simplifiedChinese": "试炼乐曲",
+      "_korean": "트라이 곡"
+    },
+    {
+      "_id": "ui_try_music_select_music_try",
+      "_japanese": "楽曲トライ",
+      "_english": "Songs Trial",
+      "_traditionalChinese": "樂曲試煉",
+      "_simplifiedChinese": "乐曲试炼",
+      "_korean": "곡 트라이"
+    },
+    {
+      "_id": "ui_try_music_total_score_gauge_max",
+      "_japanese": "ゲージMAXで獲得",
+      "_english": "Obtained at Gauge MAX.",
+      "_traditionalChinese": "量條達MAX即獲得",
+      "_simplifiedChinese": "进度条MAX时获得",
+      "_korean": "게이지 MAX 시 획득"
+    },
+    {
+      "_id": "ui_event_reward_total_high_score",
+      "_japanese": "TOTAL HIGH SCORE",
+      "_english": "TOTAL HIGH SCORE",
+      "_traditionalChinese": "TOTAL HIGH SCORE",
+      "_simplifiedChinese": "TOTAL HIGH SCORE",
+      "_korean": "TOTAL HIGH SCORE"
+    },
+    {
+      "_id": "ui_live_result_event_try_gain",
+      "_japanese": "トライ達成報酬",
+      "_english": "Trial Achievement Rewards",
+      "_traditionalChinese": "試煉達成報酬",
+      "_simplifiedChinese": "试炼达成奖励",
+      "_korean": "트라이 달성 보상"
+    },
+    {
+      "_id": "ui_event_try_level_ex",
+      "_japanese": "EXトライLv",
+      "_english": "EX Trial Lv",
+      "_traditionalChinese": "EX試煉Lv",
+      "_simplifiedChinese": "EX试炼Lv",
+      "_korean": "EX 트라이 Lv"
     },
     {
       "_id": "ui_costume_change_unavailable",
@@ -95233,6 +97649,38 @@
       "_korean": "기간 종료"
     },
     {
+      "_id": "ui_live_result_event_point_rate_format_challenge_live",
+      "_japanese": "イベントpt・チャレンジpt・報酬{0}倍!",
+      "_english": "Event Pts & Challenge Pts & Rewards {0}x!",
+      "_traditionalChinese": "活動pt、挑戰pt、報酬{0}倍！",
+      "_simplifiedChinese": "活动pt・挑战pt・奖励{0}倍！",
+      "_korean": "이벤트 pt·챌린지 pt·보상 {0}배!"
+    },
+    {
+      "_id": "ui_event_consume_liveboost_earned_event_reward_challenge_live",
+      "_japanese": "イベントpt\nチャレンジpt",
+      "_english": "Event Pts\nChallenge Pts",
+      "_traditionalChinese": "活動pt\n挑戰pt",
+      "_simplifiedChinese": "活动pt\n挑战pt",
+      "_korean": "이벤트 pt\n챌린지 pt"
+    },
+    {
+      "_id": "ui_try_mission_ex_unlocked",
+      "_japanese": "EXトライ目標解放",
+      "_english": "EX Trial Goals Unlocked",
+      "_traditionalChinese": "EX試煉目標開放",
+      "_simplifiedChinese": "解锁EX试炼目标",
+      "_korean": "EX 트라이 목표 해제"
+    },
+    {
+      "_id": "ui_try_music_total_score_new_record",
+      "_japanese": "NEW RECORD",
+      "_english": "NEW RECORD",
+      "_traditionalChinese": "NEW RECORD",
+      "_simplifiedChinese": "NEW RECORD",
+      "_korean": "NEW RECORD"
+    },
+    {
       "_id": "ui_live_result_event_point_unit",
       "_japanese": "pt",
       "_english": " Pt(s)",
@@ -95257,12 +97705,36 @@
       "_korean": "TOTAL"
     },
     {
+      "_id": "ui_event_top_try_mission_all_cleared",
+      "_japanese": "すべてのトライ目標をクリアしました",
+      "_english": "All Trial Goals are cleared.",
+      "_traditionalChinese": "已通關所有試煉目標。",
+      "_simplifiedChinese": "已完成所有试炼目标",
+      "_korean": "모든 트라이 목표를 클리어하였습니다"
+    },
+    {
+      "_id": "ui_storage_low_warning_dialog_title",
+      "_japanese": "空き容量の確認",
+      "_english": "Confirm Available Storage",
+      "_traditionalChinese": "確認可用容量",
+      "_simplifiedChinese": "确认剩余空间",
+      "_korean": "여유 공간 확인"
+    },
+    {
       "_id": "ui_storage_low_warning_dialog_message",
       "_japanese": "端末の空き容量が{0}しかありません。\nこのままプレイすると動作が不安定になったり、データの保存やダウンロードに失敗する場合があります。\n不要なアプリやデータを削除して空き容量を確保してください。",
       "_english": "There is only {0} of free space on your device.\nIf you continue playing, the app may become unstable, or data saving/downloading may fail.\nPlease delete unnecessary apps and data to free up space.",
       "_traditionalChinese": "本裝置可用容量僅剩{0}。\n若繼續遊玩，可能會出現運作不順暢，或無法儲存、資料下載失敗等情況。\n請刪除不需要的應用程式或資料，以釋出可用容量。",
       "_simplifiedChinese": "设备的剩余空间仅剩{0}。\n若继续游玩，可能会导致运行不稳定，或数据保存与下载失败。\n请删除不需要的应用或数据，以确保有足够的剩余空间。",
       "_korean": "기기의 여유 공간이 {0}밖에 남지 않았습니다.\n이대로 플레이하면 동작이 불안정해지거나 데이터 저장 및 다운로드에 실패할 수 있습니다.\n불필요한 앱이나 데이터를 삭제하여 여유 공간을 확보해 주세요."
+    },
+    {
+      "_id": "ui_try_mission_summary_music_format",
+      "_japanese": "「{0}」の楽曲",
+      "_english": "\"{0}\" Songs",
+      "_traditionalChinese": "「{0}」的樂曲",
+      "_simplifiedChinese": "「{0}」的乐曲",
+      "_korean": "「{0}」의 곡"
     },
     {
       "_id": "ui_title_arena_season_reward_dialog",
@@ -95287,6 +97759,38 @@
       "_traditionalChinese": "未持有符合條件的技能。",
       "_simplifiedChinese": "未持有对应技能",
       "_korean": "대상 스킬을 보유하고 있지 않습니다"
+    },
+    {
+      "_id": "ui_try_type_gekisou_just_single_line",
+      "_japanese": "JUST撃奏トライ",
+      "_english": "JUST GEKISO Trial",
+      "_traditionalChinese": "JUST激奏試煉",
+      "_simplifiedChinese": "JUST激奏试炼",
+      "_korean": "JUST 격주 트라이"
+    },
+    {
+      "_id": "ui_try_type_gekisou_combo_single_line",
+      "_japanese": "COMBO撃奏トライ",
+      "_english": "COMBO GEKISO Trial",
+      "_traditionalChinese": "COMBO激奏試煉",
+      "_simplifiedChinese": "COMBO激奏试炼",
+      "_korean": "COMBO 격주 트라이"
+    },
+    {
+      "_id": "ui_try_type_gekisou_luck_single_line",
+      "_japanese": "LUCK撃奏トライ",
+      "_english": "LUCK GEKISO Trial",
+      "_traditionalChinese": "LUCK激奏試煉",
+      "_simplifiedChinese": "LUCK激奏试炼",
+      "_korean": "LUCK 격주 트라이"
+    },
+    {
+      "_id": "ui_event_top_reward_list_button",
+      "_japanese": "達成報酬",
+      "_english": "Achievement Rewards",
+      "_traditionalChinese": "達成報酬",
+      "_simplifiedChinese": "达成奖励",
+      "_korean": "달성 보상"
     },
     {
       "_id": "ui_option_basic_note_rhythm_support",
@@ -95345,6 +97849,14 @@
       "_korean": "최대 Lv에 도달했습니다."
     },
     {
+      "_id": "ui_event_top_end_at_format",
+      "_japanese": "{0} まで",
+      "_english": "Up to {0}",
+      "_traditionalChinese": "至{0}為止",
+      "_simplifiedChinese": "截至 {0}",
+      "_korean": "{0}까지"
+    },
+    {
       "_id": "ui_formation_slot_edit_event_bonus_label",
       "_japanese": "イベントボーナス対象",
       "_english": "Eligible for Event Bonus",
@@ -95359,6 +97871,54 @@
       "_traditionalChinese": "首次達到等級的報酬",
       "_simplifiedChinese": "首次段位达成奖励",
       "_korean": "최초 랭크 달성 보상"
+    },
+    {
+      "_id": "ui_try_mission_condition_group_separator",
+      "_japanese": " / ",
+      "_english": " / ",
+      "_traditionalChinese": " / ",
+      "_simplifiedChinese": " / ",
+      "_korean": " / "
+    },
+    {
+      "_id": "ui_try_mission_condition_music_prefix",
+      "_japanese": "楽曲: ",
+      "_english": "Songs: ",
+      "_traditionalChinese": "樂曲： ",
+      "_simplifiedChinese": "乐曲： ",
+      "_korean": "곡: "
+    },
+    {
+      "_id": "ui_title_storage_box_dialog_snap",
+      "_japanese": "スナップ交換",
+      "_english": "Snapshot Exchange",
+      "_traditionalChinese": "快照兌換",
+      "_simplifiedChinese": "留影交换",
+      "_korean": "스냅 교환"
+    },
+    {
+      "_id": "ui_live_result_event_badge_header",
+      "_japanese": "イベントバッジ",
+      "_english": "Event Badge",
+      "_traditionalChinese": "活動獎章",
+      "_simplifiedChinese": "活动徽章",
+      "_korean": "이벤트 배지"
+    },
+    {
+      "_id": "ui_event_top_all_completed_point",
+      "_japanese": "-",
+      "_english": "-",
+      "_traditionalChinese": "-",
+      "_simplifiedChinese": "-",
+      "_korean": "-"
+    },
+    {
+      "_id": "ui_event_top_reward_card_detail_button",
+      "_japanese": "メンバー/スナップ",
+      "_english": "Member/Snapshot",
+      "_traditionalChinese": "團員/快照",
+      "_simplifiedChinese": "成员/留影",
+      "_korean": "멤버/스냅"
     },
     {
       "_id": "ui_title_vip_top",
